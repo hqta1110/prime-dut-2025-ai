@@ -1,4 +1,4 @@
-agno==2.3.8
+agno==1.8.4
 requests
 python-dotenv
 openai

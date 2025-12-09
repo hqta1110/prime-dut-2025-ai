@@ -64,7 +64,6 @@ async def chat(request: ChatRequest):
     logprobs = request.logprobs
     top_logprobs = request.top_logprobs
 
-    # tất cả field khác
     kwargs = request.extra_fields if request.extra_fields else {}
 
     headers = {

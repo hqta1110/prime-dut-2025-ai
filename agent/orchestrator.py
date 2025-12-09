@@ -1,11 +1,16 @@
 from agno.team import Team
-from agno.models.vllm import VLLM
+from agno.models.vllm import vLLM
 from dotenv import load_dotenv
 from .members import *
+from pydantic import BaseModel, Field
 
 load_dotenv()
 import os
 LLM_PORT = os.getenv("LLM_PORT")
+
+class Anwser(BaseModel):
+    key: str = Field(..., description="Đáp án cho câu trả lời (A, B, C, D, ...)")
+    reason: str = Field(..., description="Giải thích lý do")
 
 def init_orchestrator():
     rag_agent = init_rag_agent()
@@ -14,10 +19,10 @@ def init_orchestrator():
     multi_domain_agent = init_multi_domain_agent()
     
     orchestrator = Team(
-        model=VLLM(
+        mode="route",
+        model=vLLM(
             id="vnptai-hackathon-large",
             base_url=f"http://localhost:{LLM_PORT}",
-            api_key=""
         ),
         members = [
             rag_agent, stem_agent, vietnamese_agent, multi_domain_agent
@@ -49,9 +54,14 @@ Nhiệm vụ của bạn là phân tích và trả lời chính xác các câu h
 
 5. Các câu hỏi còn lại:
     - Chuyển tiếp đến `Multi-Domain Agent`.
+
+# Nội dung câu trả lời:
+- Đáp án: A, B, C, ...
+- Giải thích lý do.
 """,
         show_members_responses=True,
-        determine_input_for_members=False,  # The member gets the input directly, without the team leader synthesizing it
+        use_json_mode=True,
+        response_model=Anwser,
     )
 
     return orchestrator
