@@ -6,3 +6,5 @@ qdrant_storage
 
 *.ipynb
 venv/
+
+.env
