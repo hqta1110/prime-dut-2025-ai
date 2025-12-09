@@ -1,176 +1,67 @@
 from textwrap import dedent
-from typing import Any, Dict, List, Optional
+from typing import Any, Dict, List, Optional, Literal
 
 from agno.tools import Toolkit
 from agno.utils.log import log_debug, log_error
+from .embedding_utils import *
 
 class RetrievalTools(Toolkit):
     def __init__(
         self,
-        enable_filter: bool = True,
-        enable_rerank: bool = True,
-        all: bool = False,
+        enable_hybrid=True,
+        enable_filter=True,
+        distance_metric="cosine",
+        k=10,
         **kwargs,
     ):
-        """A toolkit that provides step-by-step reasoning tools: Think and Analyze."""
-
-        if instructions is None:
-            self.instructions = "<reasoning_instructions>\n" + self.DEFAULT_INSTRUCTIONS
-            if add_few_shot:
-                if few_shot_examples is not None:
-                    self.instructions += "\n" + few_shot_examples
-                else:
-                    self.instructions += "\n" + self.FEW_SHOT_EXAMPLES
-            self.instructions += "\n</reasoning_instructions>\n"
-        else:
-            self.instructions = instructions
-
-        tools: List[Any] = []
-        # Prefer new flags; fallback to legacy ones
-        if all or enable_think:
-            tools.append(self.think)
-        if all or enable_analyze:
-            tools.append(self.analyze)
+        self.enable_hybrid = enable_hybrid
+        self.enable_filter = enable_filter
+        self.distance_metric = distance_metric
+        self.k = k
 
         super().__init__(
-            name="reasoning_tools",
-            instructions=self.instructions,
-            add_instructions=add_instructions,
-            tools=tools,
+            name="retrieval_tools",
+            tools=[self.retrieval],
             **kwargs,
         )
 
-    def think(
-        self,
-        session_state: Dict[str, Any],
-        title: str,
-        thought: str,
-        action: Optional[str] = None,
-        confidence: float = 0.8,
-    ) -> str:
-        """Use this tool as a scratchpad to reason about the question and work through it step-by-step.
-        This tool will help you break down complex problems into logical steps and track the reasoning process.
-        You can call it as many times as needed. These internal thoughts are never revealed to the user.
-
-        Args:
-            title: A concise title for this step
-            thought: Your detailed thought for this step
-            action: What you'll do based on this thought
-            confidence: How confident you are about this thought (0.0 to 1.0)
-
-        Returns:
-            A list of previous thoughts and the new thought
-        """
+    def retrieval(self, query: str, domains: list[str]):
         try:
-            log_debug(f"Thought about {title}")
+            log_debug(f"Retrieval for {query}")
 
-            # Create a reasoning step
-            reasoning_step = ReasoningStep(
-                title=title,
-                reasoning=thought,
-                action=action,
-                next_action=NextAction.CONTINUE,
-                confidence=confidence,
+            knowledge = load_knowledge()
+
+            if self.enable_filter and domains:
+                domain_key = "_".join(sorted(domains))
+                data = [
+                    x for x in knowledge
+                    if any(d in domains for d in x["domains"])
+                ]
+            else:
+                domain_key = "all"
+                data = knowledge
+
+            query_emb = get_embedding(query)
+
+            # TODO hybrid
+            if self.enable_hybrid:
+                pass
+
+            index = get_ivf_index(domain_key, data, metric=self.distance_metric)
+
+            result = vector_search(
+                index=index,
+                data=data,
+                query_emb=query_emb,
+                k=self.k,
+                metric=self.distance_metric
             )
 
-            current_run_id = session_state.get("current_run_id", None)
+            return result
 
-            # Add this step to the Agent's session state
-            if session_state is None:
-                session_state = {}
-            if "reasoning_steps" not in session_state:
-                session_state["reasoning_steps"] = {}
-            if current_run_id not in session_state["reasoning_steps"]:
-                session_state["reasoning_steps"][current_run_id] = []
-            session_state["reasoning_steps"][current_run_id].append(reasoning_step.model_dump_json())
-
-            # Return all previous reasoning_steps and the new reasoning_step
-            if "reasoning_steps" in session_state and current_run_id in session_state["reasoning_steps"]:
-                formatted_reasoning_steps = ""
-                for i, step in enumerate(session_state["reasoning_steps"][current_run_id], 1):
-                    step_parsed = ReasoningStep.model_validate_json(step)
-                    step_str = dedent(f"""\
-Bước {i}:
-Tiêu đề: {step_parsed.title}
-Diễn giải: {step_parsed.reasoning}
-Hành động: {step_parsed.action}
-Độ tin cậy: {step_parsed.confidence}
-""")
-                    formatted_reasoning_steps += step_str + "\n"
-                return formatted_reasoning_steps.strip()
-            return reasoning_step.model_dump_json()
         except Exception as e:
-            log_error(f"Error recording thought: {e}")
-            return f"Lỗi ghi lại suy nghĩ: {e}"
-
-    def analyze(
-        self,
-        session_state: Dict[str, Any],
-        title: str,
-        result: str,
-        analysis: str,
-        next_action: str = "continue",
-        confidence: float = 0.8,
-    ) -> str:
-        """Use this tool to analyze results from a reasoning step and determine next actions.
-
-        Args:
-            title: A concise title for this analysis step
-            result: The outcome of the previous action
-            analysis: Your analysis of the results
-            next_action: What to do next ("continue", "validate", or "final_answer")
-            confidence: How confident you are in this analysis (0.0 to 1.0)
-
-        Returns:
-            A list of previous thoughts and the new analysis
-        """
-        try:
-            log_debug(f"Analyzed {title}")
-
-            # Map string next_action to enum
-            next_action_enum = NextAction.CONTINUE
-            if next_action.lower() == "validate":
-                next_action_enum = NextAction.VALIDATE
-            elif next_action.lower() in ["final", "final_answer", "finalize"]:
-                next_action_enum = NextAction.FINAL_ANSWER
-
-            # Create a reasoning step for the analysis
-            reasoning_step = ReasoningStep(
-                title=title,
-                result=result,
-                reasoning=analysis,
-                next_action=next_action_enum,
-                confidence=confidence,
-            )
-
-            current_run_id = session_state.get("current_run_id", None)
-            # Add this step to the Agent's session state
-            if session_state is None:
-                session_state = {}
-            if "reasoning_steps" not in session_state:
-                session_state["reasoning_steps"] = {}
-            if current_run_id not in session_state["reasoning_steps"]:
-                session_state["reasoning_steps"][current_run_id] = []
-            session_state["reasoning_steps"][current_run_id].append(reasoning_step.model_dump_json())
-
-            # Return all previous reasoning_steps and the new reasoning_step
-            if "reasoning_steps" in session_state and current_run_id in session_state["reasoning_steps"]:
-                formatted_reasoning_steps = ""
-                for i, step in enumerate(session_state["reasoning_steps"][current_run_id], 1):
-                    step_parsed = ReasoningStep.model_validate_json(step)
-                    step_str = dedent(f"""\
-Bước {i}:
-Tiêu đề: {step_parsed.title}
-Diễn giải: {step_parsed.reasoning}
-Hành động: {step_parsed.action}
-Độ tin cậy: {step_parsed.confidence}
-""")
-                    formatted_reasoning_steps += step_str + "\n"
-                return formatted_reasoning_steps.strip()
-            return reasoning_step.model_dump_json()
-        except Exception as e:
-            log_error(f"Error recording analysis: {e}")
-            return f"Lỗi ghi lại phân tích: {e}"
+            log_error(f"Retrieval error: {e}")
+            return f"Lỗi retrieval: {e}"
 
     # --------------------------------------------------------------------------------
     # Default instructions and few-shot examples
