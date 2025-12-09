@@ -11,9 +11,10 @@ def init_stem_agent():
         model=VLLM(
             id="vnptai-hackathon-large",
             base_url=f"http://localhost:{LLM_PORT}",
-            api_key=""
+            api_key="1234"
         ),
-        
+        instructions="Trả lời câu hỏi được giao một cách ngắn gọn, chính xác và bằng tiếng Việt.",
+        name="STEM agent"
     )
     return stem_agent
     

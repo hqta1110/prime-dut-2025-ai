@@ -14,10 +14,11 @@ def init_orchestrator():
     multi_domain_agent = init_multi_domain_agent()
     
     orchestrator = Team(
+        respond_directly=True,
         model=VLLM(
             id="vnptai-hackathon-large",
             base_url=f"http://localhost:{LLM_PORT}",
-            api_key=""
+            api_key="1234"
         ),
         members = [
             rag_agent, stem_agent, vietnamese_agent, multi_domain_agent
@@ -51,7 +52,7 @@ Nhiệm vụ của bạn là phân tích và trả lời chính xác các câu h
     - Chuyển tiếp đến `Multi-Domain Agent`.
 """,
         show_members_responses=True,
-        determine_input_for_members=False,  # The member gets the input directly, without the team leader synthesizing it
+        # determine_input_for_members=False,  # The member gets the input directly, without the team leader synthesizing it
     )
 
     return orchestrator
