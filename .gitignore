@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+
+tmp/
+qdrant_storage
+
+*.ipynb
+venv/
+
+.env

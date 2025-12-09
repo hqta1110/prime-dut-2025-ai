@@ -1,0 +1,7 @@
+agno==2.3.8
+requests
+python-dotenv
+openai
+fastapi
+uvicorn
+python-multipart
