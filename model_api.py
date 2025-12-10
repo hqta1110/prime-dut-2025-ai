@@ -92,7 +92,7 @@ async def chat(request: ChatRequest):
         "top_logprobs": top_logprobs,
     }
     res = requests.post(
-        f"{BASE_URL}/{model}",
+        f"{BASE_URL}/v1/chat/completions/{model}",
         headers=headers,
         json=json_data
     )
