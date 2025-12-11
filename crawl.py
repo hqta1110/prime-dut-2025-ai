@@ -10,10 +10,10 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import Select
 
 # --- CẤU HÌNH ---
-BASE_URL = "https://vanban.chinhphu.vn/he-thong-van-ban" # update base url theo từng loại văn bản
-DOWNLOAD_FOLDER = "NghiDinh_2025"
+BASE_URL = "https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&typegroupid=5" # update base url theo từng loại văn bản
+DOWNLOAD_FOLDER = "Regulation"
 TARGET_YEAR = "2025"
-TARGET_TYPE = "Nghị định" # nhớ thay
+TARGET_TYPE = "Regulation" # nhớ thay
 MAX_PAGES_LIMIT = 6 
 
 if not os.path.exists(DOWNLOAD_FOLDER):
@@ -25,13 +25,18 @@ def check_pdf_type(file_path):
     Trả về 'TEXT' nếu là file văn bản (copy được), 
     Trả về 'SCAN' nếu là file ảnh (không copy được text).
     """
+    ext = file_path.lower().split(".")[-1]
+
+    # ----------- CASE 1: RTF -----------
+    if ext == "rtf":
+        return "RTF"
+
+    # ----------- CASE 2: PDF -----------
     try:
         with pdfplumber.open(file_path) as pdf:
             if len(pdf.pages) > 0:
-                # Thử lấy text trang đầu tiên
                 first_page_text = pdf.pages[0].extract_text()
-                
-                # Nếu lấy được text và độ dài > 20 ký tự -> Là file Text
+
                 if first_page_text and len(first_page_text.strip()) > 20:
                     return "TEXT"
                 else:
@@ -60,6 +65,11 @@ def setup_driver():
 def download_pdf(pdf_url, file_name):
     try:
         response = requests.get(pdf_url, stream=True, verify=False)
+
+        if response.status_code != 200:
+            print(f"[ERR] HTTP {response.status_code} khi tải: {pdf_url}")
+            return
+
         file_path = os.path.join(DOWNLOAD_FOLDER, file_name)
         
         # 1. Tải file về trước
@@ -149,14 +159,19 @@ def crawl_vanban():
                     driver.execute_script("window.open('');")
                     driver.switch_to.window(driver.window_handles[1])
                     driver.get(url)
-                    pdf_elements = driver.find_elements(By.XPATH, "//a[contains(@href, '.pdf')]")
+                    pdf_elements = driver.find_elements(By.XPATH, "//a[contains(@href, '.pdf') or contains(@href, '.rtf')]")
+                    
                     if pdf_elements:
                         pdf_url = pdf_elements[0].get_attribute('href')
                         file_name = pdf_url.split('/')[-1]
-                        # print(f"   [{idx+1}] PDF: {file_name}")
+                        print(f"   [{idx+1}] File: {file_name}")
                         download_pdf(pdf_url, file_name)
+                    else:
+                        print(f"   [{idx+1}] [ERR] Không tìm thấy link PDF trên trang.")
                     driver.close()
+                    # driver.back()
                     driver.switch_to.window(driver.window_handles[0])
+                    # time.sleep(2)
                 except:
                     driver.close()
                     driver.switch_to.window(driver.window_handles[0])
