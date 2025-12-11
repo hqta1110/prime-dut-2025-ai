@@ -2,9 +2,11 @@ import json
 import os
 from tqdm import tqdm
 from agent import * 
+import csv
 
 INPUT_FILE = 'data/test.json'
-OUTPUT_FILE = 'submission_test.json'
+OUTPUT_JSON_FILE = 'submission_test.json'
+OUTPUT_CSV_FILE = 'submission_test.csv'
 
 print("Initialize Agent...")
 agent = init_orchestrator()
@@ -23,6 +25,17 @@ def load_processed_data(file_path):
     except json.JSONDecodeError:
         return [], set()
 
+def append_result_to_csv(output_file, qid, answer):
+    file_exists = os.path.exists(output_file)
+    
+    with open(output_file, 'a', newline='', encoding='utf-8') as f:
+        writer = csv.writer(f)
+        if not file_exists:
+            writer.writerow(['qid', 'answer'])
+        
+        writer.writerow([qid, answer])
+        f.flush()
+        
 def main():
     try:
         with open(INPUT_FILE, 'r', encoding='utf-8') as f:
@@ -31,7 +44,7 @@ def main():
         print(f"Cannot find {INPUT_FILE}")
         return
 
-    results, processed_ids = load_processed_data(OUTPUT_FILE)
+    results, processed_ids = load_processed_data(OUTPUT_JSON_FILE)
     print(f"Total question: {len(input_data)}")
     print(f"Completed previously: {len(processed_ids)}")
 
@@ -67,11 +80,11 @@ def main():
         })
         
         processed_ids.add(qid)
-
-        with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+        append_result_to_csv(OUTPUT_CSV_FILE, qid, final_content["key"])
+        with open(OUTPUT_JSON_FILE, 'w', encoding='utf-8') as f:
             json.dump(results, f, ensure_ascii=False, indent=4)
 
-    print(f"\nnCompleted all, result at {OUTPUT_FILE}")
+    print(f"\nnCompleted all, result at {OUTPUT_JSON_FILE}")
 
 if __name__ == "__main__":
     main()
