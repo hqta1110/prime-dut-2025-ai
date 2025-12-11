@@ -11,4 +11,4 @@ venv/
 
 data/knowledge.json
 
-*.pd
+*.pdf

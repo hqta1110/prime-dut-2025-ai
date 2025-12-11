@@ -10,13 +10,26 @@ LLM_PORT = os.getenv("LLM_PORT")
 def init_stem_agent():
     stem_agent = Agent(
         name="STEM Agent",
-        tools=[ReasoningTools()],
+        # tools=[ReasoningTools()],
         model=vLLM(
             id="vnptai-hackathon-large",
             base_url=f"http://localhost:{LLM_PORT}",
-            api_key="aaaa"
         ),
-        
+        tools=[],
+        # model=vLLM(
+        #     id="Qwen3-32B",
+        #     base_url=f"http://167.179.48.115:8000/v1",
+        # ),
+        role="""Tiếp nhận và trả lời câu hỏi trắc nghiệm được cung cấp""",
+        description="""
+Bạn là một chuyên gia về lĩnh vực khoa học, tự nhiên, kĩ thuật.
+Nhiệm vụ của bạn là phân tích và trả lời câu hỏi được cung cấp.
+""",    
+        instructions=f"""  
+# Nội dung câu trả lời:
+- Đáp án: A, B, C, ...
+- Giải thích lý do.
+"""
     )
     return stem_agent
     
