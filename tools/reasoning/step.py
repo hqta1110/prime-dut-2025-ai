@@ -3,7 +3,6 @@ from typing import List, Optional
 
 from pydantic import BaseModel, Field
 
-
 class NextAction(str, Enum):
     CONTINUE = "continue"
     VALIDATE = "validate"

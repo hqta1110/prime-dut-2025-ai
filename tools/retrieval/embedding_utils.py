@@ -80,11 +80,11 @@ def load_knowledge():
     _KNOWLEDGE_CACHE = data
     return _KNOWLEDGE_CACHE
 
-def get_ivf_index(domain_key: str, data, metric="cosine"):
+def get_ivf_index(field_key: str, data, metric="cosine"):
     global _FAISS_CACHE
 
     embeddings = np.array([x["embedding"] for x in data], dtype="float32")
-    cache_key = f"{domain_key}_{metric}_{len(data)}"
+    cache_key = f"{field_key}_{metric}_{len(data)}"
 
     if cache_key in _FAISS_CACHE:
         return _FAISS_CACHE[cache_key]

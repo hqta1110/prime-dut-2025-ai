@@ -1,7 +1,7 @@
 from textwrap import dedent
 from typing import Any, Dict, List, Optional
 
-from tools.reasoning import NextAction, ReasoningStep
+from .step import NextAction, ReasoningStep
 from agno.tools import Toolkit
 from agno.utils.log import log_debug, log_error
 
