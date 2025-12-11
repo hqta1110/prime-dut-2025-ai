@@ -1,6 +1,7 @@
 import os
 import time
 import requests
+import pdfplumber
 from selenium import webdriver
 from selenium.webdriver.edge.service import Service
 from selenium.webdriver.edge.options import Options
@@ -10,10 +11,10 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import Select
 
 # --- CẤU HÌNH ---
-BASE_URL = "https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&typegroupid=5" # update base url theo từng loại văn bản
-DOWNLOAD_FOLDER = "Regulation"
+BASE_URL = "https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&typegroupid=3" # update base url theo từng loại văn bản
+DOWNLOAD_FOLDER = "Law"
 TARGET_YEAR = "2025"
-TARGET_TYPE = "Regulation" # nhớ thay
+TARGET_TYPE = "Law" # nhớ thay
 MAX_PAGES_LIMIT = 6 
 
 if not os.path.exists(DOWNLOAD_FOLDER):
@@ -43,6 +44,7 @@ def check_pdf_type(file_path):
                     return "SCAN"
             return "UNKNOWN"
     except Exception as e:
+        print(f"[PDF ERROR] {file_path}: {e}")
         return "ERROR"
 
 
