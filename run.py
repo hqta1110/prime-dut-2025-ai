@@ -3,8 +3,8 @@ import os
 from tqdm import tqdm
 from agent import * 
 
-INPUT_FILE = 'data/val.json'
-OUTPUT_FILE = 'submission.json'
+INPUT_FILE = 'data/test.json'
+OUTPUT_FILE = 'submission_test.json'
 
 print("Initialize Agent...")
 agent = init_orchestrator()
@@ -33,7 +33,7 @@ def main():
 
     results, processed_ids = load_processed_data(OUTPUT_FILE)
     print(f"Total question: {len(input_data)}")
-    print(f"Completed previously: {len(processed_ids)} câu")
+    print(f"Completed previously: {len(processed_ids)}")
 
     for item in tqdm(input_data, desc="Processing"):
         qid = item.get('qid')
