@@ -16,14 +16,15 @@ def init_orchestrator():
     
     orchestrator = Team(
         mode="route",
-        model=vLLM(
-            id="vnptai-hackathon-large",
-            base_url=f"http://localhost:{LLM_PORT}",
-        ),
         # model=vLLM(
-        #     id="Qwen3-32B",
-        #     base_url=f"http://167.179.48.115:8000/v1",
+        #     id="vnptai-hackathon-large",
+        #     base_url=f"http://localhost:{LLM_PORT}",
         # ),
+        model=vLLM(
+            id="Qwen3-32B",
+            base_url=f"http://167.179.48.115:8000/v1",
+        ),
+        
         show_tool_calls=True,
         members = [
             rag_agent, stem_agent, vietnamese_agent, multi_domain_agent

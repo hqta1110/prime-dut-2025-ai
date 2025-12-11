@@ -11,15 +11,14 @@ def init_vietnamese_agent():
     stem_agent = Agent(
         name="Vietnamese Agent",
         # tools=[ReasoningTools()],
-        model=vLLM(
-            id="vnptai-hackathon-large",
-            base_url=f"http://localhost:{LLM_PORT}",
-        ),
-        tools=[],
         # model=vLLM(
-        #     id="Qwen3-32B",
-        #     base_url=f"http://167.179.48.115:8000/v1",
+        #     id="vnptai-hackathon-large",
+        #     base_url=f"http://localhost:{LLM_PORT}",
         # ),
+        model=vLLM(
+            id="Qwen3-32B",
+            base_url=f"http://167.179.48.115:8000/v1",
+        ),
         role="""Tiếp nhận và trả lời câu hỏi trắc nghiệm được cung cấp""",
         description="""
 Bạn là một chuyên gia về đất nước Việt Nam.

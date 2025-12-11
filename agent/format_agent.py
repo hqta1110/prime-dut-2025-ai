@@ -14,21 +14,25 @@ class Anwser(BaseModel):
 def init_format_agent():
     format_agent = Agent(
         name="Format Agent",
-        model=vLLM(
-            id="vnptai-hackathon-large",
-            base_url=f"http://localhost:{LLM_PORT}",
-        ),
         # model=vLLM(
-        #     id="Qwen3-32B",
-        #     base_url=f"http://167.179.48.115:8000/v1",
+        #     id="vnptai-hackathon-large",
+        #     base_url=f"http://localhost:{LLM_PORT}",
         # ),
+        model=vLLM(
+            id="Qwen3-32B",
+            base_url=f"http://167.179.48.115:8000/v1",
+        ),
         role="""Định dạng văn bản đầu vào theo định dạng được cung cấp""",
         use_json_mode=True,
         response_model=Anwser,
+        # parser_model=vLLM(
+        #     id="vnptai-hackathon-large",
+        #     base_url=f"http://localhost:{LLM_PORT}",
+        # )
         parser_model=vLLM(
-            id="vnptai-hackathon-large",
-            base_url=f"http://localhost:{LLM_PORT}",
-        )
+            id="Qwen3-32B",
+            base_url=f"http://167.179.48.115:8000/v1",
+        ),
     )
 
     return format_agent
