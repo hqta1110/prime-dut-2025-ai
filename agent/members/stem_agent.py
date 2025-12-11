@@ -11,15 +11,16 @@ def init_stem_agent():
     stem_agent = Agent(
         name="STEM Agent",
         # tools=[ReasoningTools()],
+        # model=vLLM(
+        #     id="vnptai-hackathon-large",
+        #     base_url=f"http://localhost:{LLM_PORT}",
+        # ),
         model=vLLM(
-            id="vnptai-hackathon-large",
-            base_url=f"http://localhost:{LLM_PORT}",
+            id="Qwen3-32B",
+            base_url=f"http://167.179.48.115:8000/v1",
+            enable_thinking = False,
         ),
         tools=[],
-        # model=vLLM(
-        #     id="Qwen3-32B",
-        #     base_url=f"http://167.179.48.115:8000/v1",
-        # ),
         role="""Tiếp nhận và trả lời câu hỏi trắc nghiệm được cung cấp""",
         description="""
 Bạn là một chuyên gia về lĩnh vực khoa học, tự nhiên, kĩ thuật.

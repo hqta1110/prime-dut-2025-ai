@@ -11,15 +11,17 @@ def init_rag_agent():
     rag_agent = Agent(
         name="RAG Agent",
         # tools=[ReasoningTools()],
+        # model=vLLM(
+        #     id="vnptai-hackathon-large",
+        #     base_url=f"http://localhost:{LLM_PORT}",
+        # ),
         model=vLLM(
-            id="vnptai-hackathon-large",
-            base_url=f"http://localhost:{LLM_PORT}",
+            id="Qwen3-32B",
+            base_url=f"http://167.179.48.115:8000/v1",
+            enable_thinking = False,
+
         ),
         tools=[],
-        # model=vLLM(
-        #     id="Qwen3-32B",
-        #     base_url=f"http://167.179.48.115:8000/v1",
-        # ),
         role="""Tiếp nhận và trả lời câu hỏi trắc nghiệm được cung cấp""",
         description="""
 Bạn là một chuyên gia về trả lời câu hỏi trắc nghiệm dựa trên nội dung được cung cấp trong câu hỏi.

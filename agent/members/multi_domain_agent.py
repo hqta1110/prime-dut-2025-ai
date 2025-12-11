@@ -11,14 +11,15 @@ def init_multi_domain_agent():
     multi_domain_agent = Agent(
         name="Multi-Domain Agent",
         # tools=[ReasoningTools()],
-        model=vLLM(
-            id="vnptai-hackathon-large",
-            base_url=f"http://localhost:{LLM_PORT}",
-        ),
         # model=vLLM(
-        #     id="Qwen3-32B",
-        #     base_url=f"http://167.179.48.115:8000/v1",
+        #     id="vnptai-hackathon-large",
+        #     base_url=f"http://localhost:{LLM_PORT}",
         # ),
+        model=vLLM(
+            id="Qwen3-32B",
+            base_url=f"http://167.179.48.115:8000/v1",
+            enable_thinking = False,
+        ),
         role="""Tiếp nhận và trả lời câu hỏi trắc nghiệm được cung cấp""",
         description="""
 Bạn là một chuyên gia về mọi chủ đề.
