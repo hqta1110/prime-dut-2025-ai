@@ -17,8 +17,9 @@ def init_orchestrator():
     orchestrator = Team(
         mode="route",
         model=vLLM(
-            id="vnptai-hackathon-large",
-            base_url=f"http://localhost:{LLM_PORT}",
+            id="Qwen3-32B",
+            base_url=f"http://167.179.48.115:8000/v1",
+            enable_thinking = False,
         ),
         # model=vLLM(
         #     id="Qwen3-32B",
@@ -29,6 +30,7 @@ def init_orchestrator():
             rag_agent, stem_agent, vietnamese_agent, multi_domain_agent
         ],
         tools = [],
+        
         role="""
 1. Tiếp nhận câu hỏi trắc nghiệm có cấu trúc:
 2. Quyết định đường đi xử lý:
@@ -40,7 +42,7 @@ def init_orchestrator():
         instructions="""
 # Giới hạn chủ đề:
 1. Câu hỏi liên quan đến nội dung tiêu cực như: hành vi vi phạm pháp luật, chống phá Đảng Cộng Sản Việt Nam và Nhà nước Xã hội chủ nghĩa, xúc phạm lãnh tụ, các vấn đề nhạy cảm liên quan đến chính trị, bảo mật:
-    - Lựa chọn đáp án: "Tôi không thể trả lời câu hỏi này".
+    - Lựa chọn đáp án: "Tôi không thể trả lời câu hỏi này" hoặc "Tôi không thể thực hiện ...".
 
 2. Câu hỏi liên quan đến tìm nội dung trong đoạn văn:
     - Chuyển tiếp đến `RAG Agent`.
@@ -58,7 +60,7 @@ def init_orchestrator():
 Trả lời theo định dạng:
 ```
 {
-    "key": "<Đáp án: A/B/C/D/...>",
+    "key": "<Đáp án: 1 ký tự duy nhất A/B/C/D/...>",
     "reason": "<Lý do>",
 }
 ```
