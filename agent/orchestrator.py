@@ -72,8 +72,6 @@ Trả lời theo định dạng:
 		read_team_history=True,
 		stream_member_events=True,
         stream_intermediate_steps=True,
-        # use_json_mode=True,
-        # response_model=Anwser,
     )
 
     return orchestrator

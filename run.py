@@ -13,22 +13,15 @@ class MultipleChoiceQuestion(BaseModel):
 start = time.time()
 answer = agent.run(
     message=MultipleChoiceQuestion(
-        question="Điện trở tương đương khi hai điện trở, R1 và R2, được mắc song song là gì?",
+        question="Chủ Tịch Hồ Chí Minh đã dùng hình tượng nào dưới đây để chỉ chủ nghĩa tư bản?",
         choices = [
-            "R1 + R2",
-            "R1 - R2",
-            "(R1 * R2) / (R1 + R2)",
-            "(R1 + R2) / (R1 * R2)",
-            "R1 * R2",
-            "R1 / R2",
-            "R2 / R1",
-            "1 / (R1 + R2)",
-            "1 / (R1 * R2)",
-            "(R1 + R2) / 2"
+            "Con bạch tuộc",
+            "Con đỉa hai vòi",
+            "Con chim đại bàng.",
+            "Con chim cánh cụt"
         ]
     )
 ).content
-
 formatted_answer = format_agent.run(answer).to_dict()['content']
 print(formatted_answer)
 print(time.time() - start)

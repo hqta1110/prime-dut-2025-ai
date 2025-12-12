@@ -1,5 +1,6 @@
 import re
 import numpy as np
+from tools.retrieval import get_embedding, get_embeddings
 
 def sentence_split(text):
     single_sentences_list = re.split('([。；？！.;?!])', text)
@@ -44,4 +45,82 @@ def chunk_com(distances, bpp_threshold=80):
 
     return indices_above_threshold, breakpoint_distance_threshold
 
+def chunk_gen(indices_above_threshold, sentences):
+    start_index = 0
+    chunks = []
+    chunks_len = []
+    for index in indices_above_threshold:
+        end_index = index
+        group = sentences[start_index:end_index + 1]
+        combined_text = ' '.join(d['sentence'] for d in group)
+        chunks.append(combined_text)
+        chunks_len.append(len(combined_text))
 
+        start_index = index + 1
+
+    if start_index < len(sentences):
+        combined_text = " ".join([d['sentence'] for d in sentences[start_index:]])
+        chunks.append(combined_text)
+        chunks_len.append(len(combined_text))
+    
+    return chunks, chunks_len
+
+def chunk_re_gen(chunks, chunks_len, max_chunk_len):
+    chunks_new = []
+    chunks_len_new = []
+    chunk_len = 0
+    chunk = ''
+    for i, chunk_i  in enumerate(chunks):
+        chunk_len_new = chunk_len + chunks_len[i]
+        chunk_new = chunk + chunk_i
+        if chunk_len_new > max_chunk_len:
+            chunks_new.append(chunk)
+            chunks_len_new.append(chunk_len)
+            chunk_len = chunks_len[i]
+            chunk = chunk_i
+        else:
+            chunk_len = chunk_len_new
+            chunk = chunk_new
+
+    chunks_new.append(chunk)
+    chunks_len_new.append(chunk_len)
+    
+    return chunks_new, chunks_len_new
+
+def sentence_chunking(text, bpp_threshold):
+    if type(text) == list:
+        sentences = [{'sentence': x, "index": i} for i, x in enumerate(text)]
+    else:
+        sentences = sentence_split(text)
+    
+    sentences = combine_sentences(sentences)
+    embeddings = get_embeddings([x['combined_sentence'] for x in sentences])
+
+    for i, sentence in enumerate(sentences):
+        sentence['combined_sentence_embedding'] = embeddings[i]
+    
+    distances, sentences = calculate_cosine_distance(sentences)
+    indices_above_threshold, breakpoint_distance_threshold = chunk_com(distances, bpp_threshold)
+    chunks, chunks_len = chunk_gen(indices_above_threshold, sentences, )
+    return chunks, chunks_len
+
+def sentence_chunking_main(chunk_len, bpp_threshold, re_combine, text):
+    max_chunk_len = chunk_len * 4
+    chunks, chunks_len = sentence_chunking(text, bpp_threshold)
+    
+    while True:
+        if len(chunks) > 1:
+            chunks_new, chunks_len_new = sentence_chunking(chunks, bpp_threshold)
+            if max(chunks_len_new) < max_chunk_len:
+                chunks = chunks_new
+                chunks_len = chunks_len_new
+            else:
+                break
+        else:
+            re_combine = False
+            break
+    
+    if re_combine:
+        chunks, chunks_len = chunk_re_gen(chunks, chunks_len, max_chunk_len)
+    
+    return chunks, chunks_len
