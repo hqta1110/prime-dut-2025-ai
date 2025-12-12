@@ -1,7 +1,6 @@
 import os
 from docx import Document
 from striprtf.striprtf import rtf_to_text
-import pdfplumber
 import fitz
 import shutil
 import easyocr
@@ -39,12 +38,13 @@ def extract_text(path):
 
     elif ext == ".pdf":
         text = ""
-        with pdfplumber.open(path) as pdf:
-            for page in pdf.pages:
-                text += page.extract_text() or ""
+        doc = fitz.open(path)
+        for page in doc:
+            text += page.get_text()
         if len(text) > 0:
             return text
         else:
+            print("Start OCR")
             folder_path = os.path.splitext(path)[0]
             pdf_to_images_pymupdf(path)
             results = []

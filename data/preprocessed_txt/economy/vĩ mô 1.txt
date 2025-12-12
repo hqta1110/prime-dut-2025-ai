@@ -1,0 +1,5167 @@
+Giáo trình - Giáo trình kinh tế vĩ mô
+Kinh tế Vĩ Mô (Trường Đại học Ngoại thương)
+Scan to open on Studeersnel
+Studocu is not sponsored or endorsed by any college or university
+Giáo trình - Giáo trình kinh tế vĩ mô
+Kinh tế Vĩ Mô (Trường Đại học Ngoại thương)
+Scan to open on Studeersnel
+Studocu is not sponsored or endorsed by any college or university
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+Chương I:
+KHÁI QUÁT VỀ KINH TẾ HỌC VĨ MÔ
+I. MỘT SỐ KHÁI NIỆM CƠ BẢN VỀ KINH TẾ HỌC
+1. Kinh tế học, kinh tế vi mô, kinh tế vĩ mô:
+a. Kinh tế học (Eecnomics)
+- Là một môn học xã hội, nghiên cứu cách chọn lựa của con người trong 
+việc sử dụng nguồn lực có giới hạn để sản xuất ra những loại hàng hoá cần thiết 
+và phân phối cho các thành viên của xã hội.
+- Là môn học nghiên cứu hoạt động của con người trong sản xuất và tiêu 
+thị hàng hoá. Kinh tế học có quan hệ chặt chẽ với nhiều môn khoa học xã hội 
+khác: Kinh tế chính trị, Triết học, Xã hội học, Thống kê học, Sử học,...
+- Kinh tế học được chia thành 2 phân ngành lớn: Kinh tế vĩ mô và kinh tế 
+vi mô.
+- Những đặc trưng cơ bản:
++ Là môn học nghiên cứu sự khan hiếm các nguồn lực một cách tương đối 
+so với nhu cầu kinh tế xã hội.
++ Tính hợp lý: Khi phân tích, lý giải về một sự kiện kinh tế nào đó nào đó, 
+bao giờ cũng dựa trên những giả thiết nhất định (hợp lý về những diễn biến của 
+sự kiện kinh tế này).
++ Tính toàn diện và tính tổng hợp: Khi xem xét một sự kiện kinh tế phải 
+đặt nó trong mối liên hệ với các sự kiện khác trên phương diện một đất nước, 
+một nền kinh tế thế giới.
++ Nghiên cứu về mặt lượng: Kết quả nghiên cứu được thể hiện bằng các 
+con số.
++ Kết quả nghiên cứu kinh tế chỉ được xác định ở mức trung bình, vì 
+chúng phụ thuộc vào rất nhiều yếu tố.
+1
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+b. Kinh tế vi mô: (Microecenomics)
+- Nghiên cứu các hoạt động của các tế bào trong nền kinh tế: Nghiên cứu 
+hành vi và các ứng xử của các cá nhân, doanh nghiệp trên từng loại thị trường cụ 
+thể.
+- Phương pháp nghiên cứu: Phương pháp phân tích từng phần
+c. Kinh tế vĩ mô: (macro economics)
+Là một phân ngành của kinh tế học, nghiên cứu sự vận động và những 
+mối quan hệ kinh tế chủ yếu của một nước trên giác độ toàn bộ nền kinh tế quốc 
+dân (Nghiên cứu các vấn đề lớn tổng thể bao trùm). 
+2. Đối tượng và phương pháp nghiên cứu kinh tế học vĩ mô:
+- Đối tượng nghiên cứu: Kinh tế học vĩ mô nghiên cứu sự lựa chọn của 
+mỗi quốc gia trước những vấn đề kinh tế và xã hội cơ bản như:
++ Tăng trưởng kinh tế.
++ Lạm phát và thất nghiệp.
++ Xuất nhập khẩu hàng hoá và tư bản.
++ Phân phối của cải và nguồn lực.
+- Phương pháp nghiên cứu: Phương pháp cân bằng tổng quát và một số 
+phương pháp khác (Trừu tượng hoá, mô hình hoá, thống kê số lớn,...)
+* Kinh tế học thực chứng và kinh tế học chuẩn tắc:
+- Kinh tế học thực chứng:
+Là loại hình kinh tế mô tả, phân tích các sự kiện, các mối quan hệ trong 
+nền kinh tế một cách khách quan và khoa học. Nó trả lời câu hỏi là gì? Như thế 
+nào? Bao nhiêu?
+- Kinh tế học chuẩn tắc:
+Đưa ra những chỉ dẫn hoặc các giải pháp để khắc phục tình hình, dựa trên 
+quan điểm của cá nhân về các vấn đề đó (chủ quan). Nó trả lời câu hỏi: Nên làm gì?
+* Chú ý: Nghiên cứu kinh tế thị trường được tiến hành từ kinh tế học thực 
+chứng rồi chuyển sang kinh tế học chuẩn tắc.
+Ví dụ: Năm 2001: giảm phát 0,1% (giảm giá) → giải pháp: ↑ lượng, ↑ 
+cầu, ...
+2
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+(Khách quan, thực chứng → chủ quan, chuẩn tắc)
+3. Giới hạn khả năng sản xuất của xã hội:
+- Mỗi đất nước trong một thời kỳ đều có một nguồn lực hạn chế, do đó 
+nếu tăng nguồn lực để sản xuất mặt hàng này thì nguồn lực để sản xuất mặt hàng 
+khác sẽ giảm. Để mô tả tình hình này, các nhà kinh tế học đưa ra khái niệm "giới 
+hạn khả năng sản xuất của xã hội".
+Ví dụ: Giả định rằng nền kinh tế có một nguồn lực xác định dùng để sản 
+xuất 2 loại mặt hàng: Tư liệu sản xuất và tư liệu tiêu dùng. Các mức sản lượng 
+cao nhất có thể đạt được khi mọi nguồn lực sản xuất đều được sử dụng hết là:
+Phương án
+Tư liệu sản xuất
+Tư liệu tiêu dùng
+A
+B
+C
+D
+E
+F
+15
+14
+12
+9
+5
+0
+0
+6
+11
+15
+15
+20
+- Đường giới hạn khả năng sản xuất (PP): Là tập hợp các cách kết hợp tối 
+đa của số lượng các loại sản phẩm có thể sản xuất được khi sử dụng toàn bộ 
+nguồn lực kinh tế.
+3
+5
+10
+15
+20
+5
+10
+15
+20
+TLTD
+TLSX
+A
+B
+C
+D
+E
+F
+Đường giới hạn khả 
+năng sản xuất (PP)
+↓1, ↓ chi 
+phí cơ hội 
+cho 6 
+TLTD
+↑6 : 1/6
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+- Tính chất của PP (Ý nghĩa):
++ Tất cả những điểm nằm trên PP đều là những phương án sử dụng hết 
+nguồn lực hiện có: Phương án sản xuất hiệu quả, tối ưu.
++ Tất cả những điểm nằm trong đường PP là những phương án chưa sử 
+dụng hết nguồn lực (lãng phí): Phương án sản xuất kém hiệu quả.
++ Tất cả những điểm nằm ngoài đường PP là những phương án không thể 
+thực hiện (đạt) được vì không có đủ nguồn lực.
++ Đường PP phản ánh nội dung của quy luật chi phí cơ hội ngày càng 
+tăng.
+* Chi phí cơ hội: Chi phí cơ hội của việc sản xuất một loại sản phẩm nào 
+đó được thể hiện bằng số lượng những sản phẩm khác bị mất đi hoặc từ bỏ 
+không sản xuất được vì phải dành nguồn lực để sản xuất thêm một đơn vị sản 
+phẩm đó.
+* Quy luật chi phí cơ hội ngày càng tăng: Nếu ta chuyển dần nguồn lực 
+để sản xuất tăng thêm những đơn vị bằng nhau của một loại sản phẩm nào đó thì 
+số lượng những mặt hàng khác mà ta phải hy sinh hay từ bỏ không sản xuất 
+được ngày càng nhiều. Hay nói cách khác: để có thêm số lượng bằng nhau về 
+một mặt hàng, xã hội phải hy sinh ngày càng nhiều số lượng mặt hàng khác.
+Đường giới hạn khả năng sản xuất có thể thay đổi qua các thời kỳ.
+II. TỔ CHỨC KINH TẾ CỦA MỘT NỀN KINH TẾ
+1. Ba vấn đề cơ bản của một tổ chức kinh tế:
+Mỗi nền kinh tế trong một thời kỳ nào đó luôn phải giải quyết 3 vấn đề 
+kinh tế cơ bản sau:
+- Sản xuất cái gì? (Nên sử dụng những nguồn lực hiện có để sản xuất ra 
+sản phẩm gì? số lượng bao nhiêu?)
+- Sản xuất như thế nào? (Nêu tổ chức sản xuất ra những sản phẩm đó như 
+thế nào? - Bằng cách nào? lựa chọn công nghệ sản xuất ra sao? ⇒ Phương án 
+sản xuất tối ưu: Chi phí thấp nhất, lãi suất cao nhất)
+- Sản xuất cho ai? (Sản phẩm làm ra được phân phối cho ai?)
+4
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+2. Cách giải quyết 3 vấn đề kinh tế cơ bản trong các tổ chức kinh tế:
+a. Nền kinh tế tập quán truyền thống (Bản năng), tồn tại dưới thời công 
+xã nguyên thuỷ, 3 vấn đề kinh tế cơ bản được quyết định theo tập quán truyền 
+thống và được truyền từ thế hệ trước sang thế hệ sau.
+b. Nền kinh tế chỉ huy - mệnh lệnh:
+- Là một nền kinh tế tập trung bao cấp, đã từng tồn tại nhiều năm trước 
+đây trong các nước XHCN cũ và trong đó có Việt Nam (Tồn tại đến hết năm 
+1985).
+- Sự can thiệp của Nhà nước là lớn, chính phủ ra mọi quyết định về sản 
+xuất và phân phối. Ba vấn đề kinh tế cơ bản đều được thực hiện bằng kế hoạch 
+tập trung, thống nhất của Nhà nước (do Chính phủ quyết định).
+c. Nền kinh tế thị trường - Tự do:
+- Là nền kinh tế trong đó chính phủ không tham gia và quyết định các vấn 
+đề kinh tế mà để cho thị trường giải quyết thông qua quy luật cung - cầu.
+- Tồn tại nhiều năm trước đây ở các nước TBCN.
+- Cả 3 vấn đề kinh tế cơ bản đều do thị trường quyết định.
+* Ưu điểm của nền kinh tế thị trường:
+- Trong nền kinh tế thị trường, do các doanh nghiệp hoạt động trong một 
+môi trường cạnh tranh gay gắt đã thúc đẩy các doanh nghiệp không ngừng đổi 
+mới kỹ thuật và công nghệ, theo đó làm cho trình độ kỹ thuật và công nghệ của 
+nền kinh tế không ngừng nâng cao.
+- Cũng chính trong môi trường cạnh tranh gay gắt này, đã thúc đẩy các 
+doanh nghiệp sử dụng tiết kiệm và có hiệu quả hơn nguồn lực của mình → giảm 
+được chi phí sản xuất làm cơ sở để hạ giá thành sản phẩm → giảm được giá bán 
+sản phẩm và thu hút được khách hàng.
+- Kinh tế thị trường có tác dụng thúc đẩy các doanh nghiệp không ngừng 
+cải tiết mẫu mã và đổi mới mặt hàng, làm cho sản phẩm trên thị trường ngày 
+càng trở nên đa dạng và phong phú về chủng loại → người tiêu dùng có cơ hội 
+nhiều hơn trong việc lựa chọn mặt hàng phù hợp với sở thích và chi tiêu của 
+mình.
+5
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+- Con người trong nên kinh tế thị trường trở nên năng động, sáng tạo, phát 
+huy được năng lực của mình.
+⇒ Như vậy, kinh tế thị trường được xem là một động lực rất mạnh mẽ để 
+thúc đẩy sản xuất phát triển. Tuy nhiên, nó cũng kéo theo những mặt hạn chế 
+đáng kể.
+* Hạn chế (nhược điểm) của nền kinh tế thị trường:
+- Kinh tế thị trường thường kéo theo những "chu kỳ kinh tế" - là sự dao 
+động lên xuống liên tục của sản lượng quốc gia theo thời gian tạo nên những 
+bước thăng trầm trong quá trình phát triển kinh tế.
+Trong mỗi một chu kỳ kinh tế, bao gồm 2 giai đoạn:
++ Giai đoạn tăng trưởng: Là giai đoạn trong đó mức sản lượng quốc gia 
+tăng liên tục theo thời gian. Giai đoạn này → việc làm tăng → mức thất nghiệp 
+giảm đi.
+Như vậy, trong giai đoạn đoạn tăng trưởng thì nền kinh tế nhìn chung là 
+tốt. Tuy nhiên, nền kinh tế tăng trưởng quá mức sẽ kéo theo nhiều hậu quả xấu 
+(kinh tế tăng trưởng quá mức khi Yt > Y*), tức là nền kinh tế quá nóng → lạm 
+phát.
++ Giai đoạn suy thoái: Suy thoái kinh tế xảy ra khi mức sản lượng quốc 
+gia giảm sút liên tục theo thời gian. Lúc này, nền kinh tế có xu hướng đi xuống. 
+Suy thoái kinh tế → sản lượng giảm (Yt↓) → việc giảm làm → thất nghiệp gia 
+tăng (⇒ nhiều hậu quả xấu về mặt xã hội).
+6
+Khủng hoảng thừa
+Khủng hoảng 
+thiếu
+SL Thực tế
+SL tiềm năng
+Sản lượng
+Thời gian
+(Y*)
+(Yt)
+Năm N
+Năm N+1
+Năm N+2
+0
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+Khi nền kinh tế biến động theo những chu kỳ như vậy (↑, ↓ quá mức) làm 
+cho nền kinh tế không ổn định. Vì vậy, cần phải có sự can thiệp của chính phủ 
+bằng cách dùng các chính sách kinh tế vĩ mô. 
+Cụ thể: Khi Yt > Y* thì phải ↓ Yt
+Yt < Y* thì phải ↑ Yt
+- Kinh tế thị trường dẫn đến tình trạng "độc quyền" - Đó là tình trạng trên 
+thị trường chỉ có duy nhất một người bán hoặc một người mua một loại sản 
+phẩm đồng nhất nào đó (một người ở đây có thể là một cá nhân, doanh nghiệp, 
+tổ chức, công ty, ...)
+Nếu trên thị trường có duy nhất một người bán >< nhiều người mua: gọi 
+là độc quyền bán và ngược lại, một người mua >< nhiều người bán: gọi là độc 
+quyền mua (Độc quyền mua thì ít xảy ra).
+Những tác động xấu của độc quyền gây ra:
++ Khi xảy ra độc quyền, làm cho giá cả tăng lên → gây tác động xấu đến 
+người mua (người tiêu dùng).
++ Tạo ra sự khan hiếm giả tạo trên thị trường. Tức là về thực chất không 
+phải là thiếu hàng hoá, nhưng khi sản xuất ra lại không đưa ra thị trường bán 
+(cung < cầu ⇒ giá tăng).
++ Độc quyền sẽ không kích thích đổi mới công nghệ và kỹ thuật (do 
+không có đối thủ cạnh tranh).
+Trong trường hợp này, chính phủ can thiệp là để giảm bớt những tác động 
+xấu của độc quyền bằng cách: ban hành luật chống độc quyền hay dùng các 
+chính sách, các biện pháp để hạn chế độc quyền (Quy định mức giá trần - là mức 
+giá tối đa, cao nhất mà nhà độc quyền được phép ra, khi đó nhà độc quyền 
+không được phép bán vượt mức giá đó; hoặc chính phủ có thể quy định quy mô 
+sản xuất tối thiểu cho nhà độc quyền nhằm ngăn chặn tình trạng khan hiếm hàng 
+hoá trên thị trường, ...)
+- Kinh tế thị trường thường xảy ra phân hoá xã hội (giàu - nghèo) và làm 
+cho khoảng cách giàu - nghèo ngày càng gia tăng.
+7
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+Để giảm bớt sự phân cách giàu - nghèo thì chính phủ phải can thiệp và 
+một trong những cách can thiệp của chính phủ là dùng chính sách phân phối lại 
+thu nhập (chẳng hạn như tính thuế thu nhập cá nhân).
+- Kinh tế thị trường làm gia tăng những tác động hướng ngoại tiêu cực - 
+Là những tác động do ảnh hưởng xấu từ môi trường bên ngoài của các hoạt động 
+sản xuất kinh doanh hoặc tiêu dùng sản phẩm.
+Ví dụ: DN thải chất thải → Ô nhiễm môi trường, nguồn nước, khói độc, 
+tiếng ồn quá mức, ...
+Người (tiêu dùng) hút thuốc lá → ảnh hưởng đến với mọi người 
+xung quanh.
+Trong trường hợp này, chính phủ can thiệp bằng cách ban hành luật bảo 
+vệ môi trường, có thể dùng các biện pháp cưỡng chế (buộc phải di dời những 
+đơn vị SXKD gây ô nhiễm ở khu vực dân cư sang những nơi thuộc ngoại ô 
+thành phố - nơi ít dân cư, ...), đánh thuế ô nhiễm,...
+* Lưu ý: Tác động hướng ngoại (hay ảnh hưởng ngoại lai) đó là sự tác 
+động của chủ thể kinh tế này đến chủ thể kinh tế khác mà không thông qua giao 
+dịch trên thị trường.
+- Kinh tế thị trường dẫn đến nguy cơ thiếu hàng hoá công cộng là hàng 
+hoá mà nhiều người có thể sử dụng chung với nhau trong một lúc. Đặc điểm của 
+hàng hoá công cộng là việc đầu tư cho nó đòi hỏi lớn, hiệu quả kinh doanh thấp 
+→ lâu thu hồi vốn, do vậy tư nhân thì không thích đầu tư vào loại hàng hoá này.
+Chính phủ can thiệp bằng cách đứng ra đầu tư và cung cấp các dịch vụ 
+công cộng cho xã hội.
+- Thông tin thị trường bị lệch lạc và các nguy cơ về đạo đức (quảng cáo 
+không đúng với giá trị thực của sản phẩm...)
+- Kinh tế thị trường không dẫn dắt được sự thay đổi cơ cấu kinh tế theo 
+hướng phát triển (Do người ta chỉ đầu tư vào các ngành mang lại lợi nhuận cao).
+* Kết luận: Kinh tế thị trường có nhiều ưu thế không thể phủ nhận được, 
+song bên cạnh đó còn nhiều khuyết tật mà tự nó không thể khắc phục được, do 
+đó thị trường không phải là hoàn hảo, không thể để thị trường tự do cạnh tranh 
+8
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+hoàn toàn mà cần phải có sự can thiệp của chính phủ. Cụ thể là giảm bớt những 
+mặt hạn chế của kinh tế thị trường, tạo ra những điều kiện thuận lợi để  cho các 
+doanh nghiệp thuộc mọi thành phần kinh tế cùng cạnh tranh và hợp tác với nhau 
+một cách lành mạnh và bình đẳng.
+d. Nền kinh tế hỗn hợp (Kinh tế thị trường có sự quản lý của nhà nước)
+- Là nền kinh tế có sự pha trộn giữa kinh tế thị trường tự do và kinh tế chỉ 
+huy.
+- Nhà nước và thị trường cùng giải quyết 3 vấn đề kinh tế cơ bản, chủ yếu 
+do thị trường quyết định, thị trường vẫn hoạt động với những quy luật khách 
+quan vốn có của nó (cung - cầu) cùng với sự chỉ huy của chính phủ nhưng 
+không can thiệp quá chi tiết mà tác động vào thị trường, chính phủ sử dụng 
+những công cụ của mình để điều chỉnh những lệch lạc của kinh tế thị trường.
+* Vai trò của chính phủ: Vai trò kinh tế của chính phủ có thể được phát 
+hoạ bằng 3 chức năng chủ yếu sau:
+(1) Chức năng hiệu quả: Chính phủ tác động để nền kinh tế khai thác hết 
+tiềm năng sản xuất, đặt nền kinh tế nằm trên đường giới hạn khả năng sản xuất 
+(PP).
+(2) Chức năng công bằng: Chính phủ dùng chính sách phân phối và phân 
+phối lại thu nhập nhằm làm giảm thiểu sự bất bình đẳng cho mọi người.
+(3) Chức năng ổn định: Thông qua kiểm soát thuế khoá, chi tiêu, kiểm 
+soát khối lượng tiền, ... chính phủ làm dịu đi những dao động của chu kỳ kinh tế.
+Tóm lại, sự can thiệp của Chính phủ có tác dụng khắc phục những hạn 
+chế của kinh tế thị trường, đồng thời tạo môi trường thuận lợi để các doanh 
+nghiệp thuộc nhiều thành phần kinh tế cùng cạnh tranh và hợp tác với nhau một 
+cách lành mạnh và bình đẳng.
+III. CÁC MỤC TIÊU VÀ CÔNG CỤ ĐIỀU TIẾT VĨ MÔ
+1. Các mục tiêu kinh tế vĩ mô cơ bản:
+a. Mục tiêu sản lượng:
+* Mục tiêu:
+9
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+- Nền kinh tế phải tạo ra mức sản lượng thực tế cao tương ứng với mức 
+sản lượng tiềm năng.
+- Đảm bảo có được tốc độ tăng trưởng kinh tế nhanh và vững chắc.
++ Sản lượng thực tế (Yt) là mức sản lượng mà nền kinh tế thật sự đạt được 
+hàng năm.
++ Sản lượng tiềm năng (Y*) là mức sản lượng mà nền kinh tế có thể tạo ra 
+trong điều kiện toàn dụng nhân lực và không làm tăng lạm phát.
+⇔ Là mức sản lượng mà nền kinh tế có thể đạt được khi các nguồn lực 
+hiện có được huy động hết và sử dụng ở mức trung bình.
+→ Trạng thái toàn dụng nhân lực là trạng thái trong đó tất cả những ai 
+muốn làm việc đều có việc làm đầy đủ,
+→ Mức sản lượng tiềm năng của một đất nước phụ thuộc vào số lượng, 
+chất lượng các nguồn lực. Khi số lượng các nguồn lực càng lớn và chất lượng 
+các nguồn lực càng cao thì sản lượng tiềm năng càng nhiều.
+Trong mỗi một kỳ, một đất nước luôn có một số lượng xác định về nguồn 
+lực. Theo đó, trong mỗi một thời kỳ một đất nước cũng có một sản lượng tiềm 
+năng xác định.
+Tuy nhiên, do nguồn lực của mỗi đất nước tăng dần theo thời gian, nên 
+mức sản lượng tiềm năng của một đất nước cũng có xu hướng tăng dần theo thời 
+gian.
+(P): Mức giá chung - Mức 
+giá bình quân của các hàng hoá - 
+dịch vụ
+- Yt < Y*: Nguồn lực chưa sử dụng hết → sản xuất còn đình đốn, thất 
+nghiệp còn nhiều → nền kinh tế "lạnh" (Suy thoái).
+- Yt > Y*: Nguồn lực sử dụng quá mức → nền kinh tế "nóng" (quá tải - 
+lạm phát)
+- Yt = Y*: Trạng thái lý tưởng, toàn dụng nhân lực.
+10
+(P)
+Sản lượng (Y)
+Không phụ thuộc 
+vào giá
+Y*
+2001 Y*
+2002
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+* Đo lường sản lượng quốc gia: Chia thành 2 nhóm
+- Xét về quy mô: Tổng sản phẩm quốc dân GNP, tổng sản phẩm quốc nội 
+(trong nước) GDP, tổng sản phẩm quốc dân bình quân đầu người, tổng sản phẩm 
+quốc nội bình quân đầu người.
+- Xét về tốc độ: Tốc độ tăng của GDP (%), tốc độ tăng của GNP (%)
+     Tốc độ tăng của GDP/người, tốc độ tăng của GNP/người
+b. Mục tiêu về việc làm và thất nghiệp:
+Nền kinh tế phải tạo ra nhiều công ăn việc làm, hạ thấp tỷ lệ thấp nghiệp 
+xuống mức có thể, duy trì ở mức tỷ lệ thất nghiệp tự nhiên.
+c. Mục tiêu về giá cả, lạm phát:
+- Giá cả: khi giá tăng mạnh → ảnh hưởng không tốt đến đời sống của 
+nhân dân, khi giá giảm mạnh → ảnh hưởng không tốt đến sản xuất. Vì vậy, mục 
+tiêu về giá cả là hướng tới việc ổn định giá cả.
+- Lạm phát: Là sự gia tăng của mức giá chung (P↑), vì vậy mục tiêu là 
+kiềm chế được lạm phát ở mức thấp nhất có thể và kiểm soát được lạm phát 
+trong điều kiện thị trường tự do.
+d. Mục tiêu kinh tế đối ngoại: (Mục tiêu về tỷ giá hối đoái và cán cân 
+thanh toán) 
+- Tỷ giá hối đoái: Là tỷ lệ chuyển đổi một đơn vị tiền tệ của nước này 
+sang tiền tệ nước khác.
+Khi tỷ giá biến động mạnh làm cho giá trị đồng tiền trong nước không ổn 
+định → ảnh hưởng xấu đến kinh tế trong nước. Vì vậy, mục tiêu về tỷ giá hối 
+đoái của các quốc gia là tiến tới ổn định được tỷ giá và ổn định được đồng tiền 
+trong nước.
+- Cán cân thanh toán (quốc tế): Là một bảng kết toán tổng hợp ghi lại toàn 
+bộ các hoạt động giao dịch về chu chuyển hàng hoá, chu chuyển vốn và tài sản 
+diễn ra trong năm giữa một nước với các nước còn lại trên thế giới. Kết quả của 
+các hoạt động giao dịch đó sẽ tạo ra các luồng ngoại tệ đi vào và đi ra.
+* Cán cân thanh toán (B) = Lượng NT đi vào - lượng NT đi ra 
+ 
+(của đất nước trong 1 năm)
+11
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+Nếu lượng NT đi vào = lượng NT đi ra ⇒ B = 0 ⇒ 
+cán cân thanh toán cân bằng
+Nếu lượng NT đi vào > lượng NT đi ra ⇒ B > 0 ⇒ 
+cán cân thanh toán thặng dư
+Nếu lượng NT đi vào < lượng NT đi ra ⇒ B < 0 ⇒ 
+cán cân thanh toán thâm hụt
+Vậy, mục tiêu về cán cân thanh toán là phấn đấu cân bằng và tiến tới 
+thặng dư.
+2. Các chính sách và công cụ điều tiết vĩ mô: Chia thành 4 loại
+a. Chính sách tài khoá: Là những quyết định của chính phủ về chi tiêu và 
+thuế, giúp chính phủ duy trì sản lượng và việc làm ở mức mong muốn, Về mặt 
+dài hạn, chính sách tài khoá có thể có tác dụng điều chỉnh cơ cấu kinh tế, giúp 
+cho sự tăng trưởng và phát triển lâu dài.
+Chính sách tài khoá có 2 công cụ chủ yếu đó là chi tiêu của chính phủ và 
+thuế:
+- Chi tiêu của chính phủ (G): là khoản chi để mua các hàng hoá,, dịch vụ 
+của khu vực công cộng. Nó ảnh hưởng trực tiếp đến quy mô của chi tiêu công 
+cộng, do đó có thể trực tiếp tác động đến tổng cầu và sản lượng.
+- Thuế (T): Là nguồn thu của chính phủ: Thuế làm giảm các khoản thu 
+nhập, do đó làm giảm chi tiêu của khu vực tư nhân → tác động đến tổng cầu và 
+sản lượng, cũng có thể tác động đến đầu tư và sản lượng về mặt dài hạn.
+b. Chính sách tiền tệ: Là những quy định của ngân hàng trung ương để 
+tăng hoặc giảm mức cung tiền nhằm tác động đến tín dụng trong nền kinh tế, 
+giúp chính phủ ổn định phát triển nền kinh tế.
+Chính sách tiền tệ có 2 công cụ chủ yếu đó là mức cung về tiền (MS) và 
+lãi suất (i). Khi ngân hàng trung ương thay đổi lượng cung về tiền, lãi suất sẽ 
+tăng hoặc giảm tác động đến đầu tư tư nhân → ảnh hưởng đến tổng cầu và sản 
+lượng.
+12
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+c. Chính sách thu nhập và giá cả: Là các quyết định trực tiếp hoặc gián 
+tiếp từ chính phủ, giúp chính phủ chống lạm phát trong điều kiện nền kinh tế có 
+lạm phát cao.
+Chính sách này sử dụng nhiều loại công cụ, từ các công cụ có tính chất 
+cứng rắn như giá, lương, những chỉ dẫn chung đã ấn định tiền công và giá cả, 
+những quy tắc pháp lý ràng buộc sự thay đổi giá cả và tiền lương ... đến những 
+công cụ mềm dẻo hơn như việc hướng dẫn, khuyến khích bằng thuế thu nhập.
+d. Chính sách kinh tế đối ngoại: Là các quyết định của chính phủ nhằm 
+tác động vào xuất khẩu, đầu tư nước ngoài và các hoạt động đối ngoại khác.
+Bao gồm các công cụ về:
+- Quản lý ngoại hối.
+- Quản lý tỷ giá hối đoái.
+- Kiểm soát ngoại thương (chủ yếu là xuất khẩu)
++ Chính sách thuế quan; Kiểm soát thông qua hàng rào thuế (đối với mặt 
+hàng khuyến khích xuất khẩu thì thuế ưu đãi...).
++ Chính sách phi thuế quan: thông qua hạn ngạch (quota) (chỉ cấp cho 
+những mặt hàng khuyến khích xuất khẩu: xuất bao nhiêu? Khi nào?); tiêu chuẩn 
+về vệ sinh, an toàn.
+IV. KHÁI QUÁT HỆ THỐNG KINH TẾ VĨ MÔ
+1. Tổng cung (AS):
+a. Khái niệm:
+- Tổng cung (AS) là tổng giá trị hàng hoá và dịch vụ mà các doanh nghiệp 
+sẽ sản xuất và đưa ra bán trên thị trường trong một thời kỳ nào đó tương ứng với 
+mỗi mức giá cả, mỗi mức chi phí và mỗi điều kiện sản xuất khác nhau:
+- Các nhân tố tác động đến cung (AS):
+Lợi nhuận = Doanh thu - Chi phí
+Doanh thu = Lượng hàng sản xuất (Q) x Giá bán (P)
++ Giá bán hàng hoá trên thị trường ↑ → lợi nhuận ↑ → ↑ quy mô sản xuất 
+→ tổng cung ↑ và ngược lại.
+13
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
++ Chi phí sản xuất ↑ → lợi nhuận ↓ → tổng cung ↓ và ngược lại.
++ Tiềm năng sản xuất: Số lượng các yếu tố đầu vào (lao động, vốn, tài 
+nguyên thiên nhiên và công nghệ), hiệu quả của việc kết hợp các yếu tố đầu vào 
+(kỹ thuật sản xuất). Tức là, tổng cung còn chịu ảnh huởng của các yếu tố làm 
+tăng sản lượng tiềm năng.
+b. Đường tổng cung và sự dịch chuyển đường tổng cung:
+* Đường tổng cung (AS): Là đường biểu diễn mối liên hệ giữa mức cung 
+hàng hoá trên thị trường và giá cả mà ở đó các doanh nghiệp đạt được tình trạng 
+tối đa hoá lợi nhuận.
+AS = f (p)
+- Đường tổng cung ngắn hạn và dài hạn:
++ Đường AS ngắn hạn (chỉ có P tăng, còn chi phí không tăng)
+*  Mối  quan  hệ giữa  lợi 
+nhuận và doanh thu là 
+tỷ lệ thuận ⇒ hàm tăng.
+→ Phía trái sản lượng tiềm năng (Y*): AS gần như nằm ngang, nền kinh 
+tế chưa sử dụng hết năng lực sản xuất ⇒ Sản xuất đình đốn, thất nghiệp nhiều. 
+Đây là vùng suy thoái; giá tăng ít thì sản lượng sẽ tăng nhưng càng gần đến sản 
+lượng tiềm năng, đường tổng cung tăng dần độ dốc, ở đây mức tăng giá phải cao 
+hơn mới có thể kéo được sản lượng tăng lên.
+→ Phía phải sản phải sản lượng tiềm năng 
+(Y*): Năng lực sản xuất đã sử dụng hết, muốn sản 
+lượng tăng thì tốc độ tăng giá phải rất cao. Tuy 
+nhiên, tốc độ tăng sản lượng lại giảm, do đó đường 
+AS tương đối dốc đứng. Đây là vùng lạm phát.
+14
+AS dài hạn
+Y*
+Y
+P
+Mức giá 
+chung
+P1
+P0
+Y0Y1 SLTN
+Suy thoái
+      Vùng 
+A
+B
+C
+Y*
+AS ngắn hạn
+Vùng lạm phát
+Sản lượng (Y)
+(P)
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
++ Đường AS dài hạn (cả P và chi phí sản xuất đều thay đổi). Đường AS 
+dốc đứng.
+* Sự dịch chuyển của đường AS (ngắn hạn)
+- Giá bán hàng hoá thay đổi: Đường tổng cung sẽ di chuyển dọc theo 
+chính nó.
+- Yếu tố khác: đường tổng cung sẽ dịch chuyển theo nguyên tắc: Nếu các 
+yếu tố tác động của lao động tài nguyên, kỹ thuật và các chi phí đầu vào khác làm 
+tăng AS thì đường AS sẽ dịch chuyển sang phải (hoặc xuống dưới); nếu các yếu 
+tố tác động làm giảm AS thì đường AS sẽ dịch chuyển sang trái (hoặc lên trên).
+2. Tổng cầu (AD):
+a. Khái niệm:
+- Tổng cầu (AD) là tổng khối lượng hàng hoá và dịch vụ mà các tác nhân 
+trong nền kinh tế dự định sẽ mua trong một thời kỳ nào đó, tương ứng với mỗi 
+mức giá cả, mỗi mức thu nhập và các biến số kinh tế khác.
+→ Tác nhân kinh tế:
++ Hộ gia đình: Mua hàng tiêu dùng (C)
++ Doanh nghiệp: Mua hàng → đầu tư mở rộng sản xuất (I)
++ Chính phủ: Mua hàng hoá, dịch vụ công cộng (G)
++ Người nước ngoài: Mua hàng xuất khẩu (X), bán hàng nhập khẩu (IM)
+- Các nhân tố tác động đến tổng cầu:
++ Giá bán hàng hoá trên thị trường: P↑↓ → AD↓↑ (và ngược lại)
++ Thu nhập của công chúng ↑↓ → AD↑↓ theo.
++ Chính sách của chính phủ về thuế, chi tiêu, tiền tệ, ...
+b. Đường tổng cầu (AD) và sự dịch chuyển của đường AD:
+* Đường tổng cầu (AD):
+Là đường biểu diễn mối quan 
+hệ giữa giá cả và nhu cầu mua sắm 
+(P↑↓ → AD↓↑ - nghịch)
+15
+A"
+Y0
+(Y)
+(P)
+A
+A'
+A"
+B
+B'
+Y1
+P1
+P0
+AD→ (giả sử thu nhập ↑)
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+* Sự dịch chuyển của đường AD:
+- Giá (P) thay đổi: AD di chuyển dọc theo chính nó.
+- Các yếu tố khác: AD sẽ dịch chuyển theo nguyên tắc: nếu các yếu tố tác 
+động làm tăng tổng cầu thị đường AD sẽ dịch chuyển sang phải (lên trên); nếu 
+các yếu tố tác động làm giảm tổng cầu thị đường AD sẽ dịch chuyển sang trái 
+(xuống dưới).
+3. Sự cân bằng tổng cung và tổng cầu - Mô hình AD-AS:
+* Mô hình AD-AS: Là sự kết hợp biểu diễn tổng cung, tổng cầu trên cùng 
+một hệ trục toạ độ, thông qua mô hình ta xét được trạng thái cân bằng của nền 
+kinh tế.
+* Sự cân bằng AD-AS: Khi AD = AS ⇒ Nền kinh tế có sự cân bằng AD-AS
+- Giao điểm E là điểm cân bằng AD-AS.
+- P0 là mức giá cân bằng
+- Y0 là mức sản lượng cân bằng.
+- Tính chất:
++ Chỉ duy nhất tại mức giá P = P0 thì nền kinh tế cân bằng AD = AS. Khi 
+mức giá này hình thành thì nền kinh tế sẽ giữ ổn định tại đó. Chỉ khi nào có sự 
+dịch chuyển của đường tổng cung AS (hoặc tổng cầu AD) thì điểm cân bằng sẽ 
+dịch chuyển.
+Trên thực tế, tổng cung - tổng cầu luôn biến đổi, dịch chuyển làm cho 
+mức giá P0 và mức sản lượng Y0 luôn thay đổi. Mô hình AD-AS giúp mô tả 
+trạng thái thực của nền kinh tế so với sản lượng tiềm năng và thực trạng vĩ mô 
+của nền kinh tế để từ đó có chính sách kinh tế vĩ mô cho phù hợp.
+16
+Y0
+(Y)
+Y*
+(P)
+P0
+P2
+P1 
+D
+thiếu hàng
+A
+B
+AD
+AS
+Dư thừa hàng
+C
+E
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
++ Tất cả các mức giá P ≠ Po thì nền kinh tế mất cân bằng: Sẽ luôn có áp 
+lực phải điều chỉnh giá để trở về giá cân bằng P0, do đó các mức sản lượng Y ≠ 
+Y0 đều không tồn tại lâu dài, chúng phải tự điều chỉnh để trở về trạng thái cân 
+bằng.
+4. Khái quát hệ thống kinh tế vĩ mô:
+a. Các biến số đầu vào:
+* Các biến số chính sách:
+4 chính sách (tài khoá, tiền tệ, giá, kinh tế đối ngoại) có tầm quan trọng 
+đặc biệt như là những lực lượng vật chất ảnh hưởng trực tiếp đến kinh tế vĩ mô, 
+mỗi chính sách khi được ban hành áp dụng có tác dụng điều tiết hoạt động bên 
+trong của nền kinh tế.
+* Biến số bên ngoài:
+Là những yếu tố khách quan nằm ngoài nền kinh tế nhưng có tác động 
+đến nền kinh tế (Ví dụ như thời tiết, chiến tranh, dân số, sản lượng nước 
+ngoài,...)
+b. Hộp đen kinh tế vĩ mô:
+* AS-AD: Dưới sự tác động của các biến số đầu vào, AS-AD biến đổi 
+dịch chuyển. Sự tác động của 2 lực cuối cùng hình thành điểm cân bằng E của 
+nền kinh tế và do đó quyết định mức sản lượng Yo mà nền kinh tế tạo ra và 
+quyết định Po.
+c. Đầu ra của nền kinh tế: 
+Phản ánh kết quả cuối cùng của sự vận động của toàn bộ nền kinh tế, nó 
+nói lên thành quả cuối cùng của một quốc gia trên tầm vĩ mô, bao gồm 4 mục 
+tiêu mà kinh tế vĩ mô phải vươn tới.
+17
+Đầu vào
+Hộp đen kinh tế vĩ mô
+Đầu ra
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+Các biến số chính sách:
+Các biến số bên ngoài:
+Phần bài tập:
+Bài 1: Nêu tác động của mỗi sự kiện dưới đây đến vị trí của đường tổng 
+cung và đường tổng cầu (Việt Nam):
+1 - Giá dầu lửa trên thị trường thế giới tăng.
+2 - Chính phủ giảm chi tiêu cho quốc phòng.
+3 - Chính phủ tăng lương cho CB CNV trong khu vực nhà nước.
+4 - Tăng lãi suất tiền gửi tiết kiệm.
+5 - Giá nguyên vật liệu nhập khẩu giảm.
+6 - Tăng thuế nhập khẩu nguyên vật liệu.
+Bài 2: Giả sử bạn là người vạch chính sách kinh tế, nền kinh tế đang ở 
+trạng thái cân bằng ban đầu với mức giá chung P0 = 100, sản lượng Y0 = 3000. 
+Mục tiêu là ổn định giá dù sản lượng thế nào cũng được. Bạn chỉ có công cụ tác 
+động là AD, không thể tác động vào AS. Với mục tiêu và công cụ trên, bạn sẽ 
+ứng phó thế nào đối với từng tình huống dưới đây:
+1 - Giá điện trong nền kinh tế tăng:
+2 - Tăng đột biến về chi tiêu cho đầu tư.
+3 - Có hoạch định kiểm soát vũ khí dẫn đến chi tiêu cho quốc phòng giảm mạnh
+18
+Tài khoá
+Tiền tệ
+Thu nhập
+Kinh tế đối ngoại
+Thời tiết
+Dân số
+Chiến tranh
+SL nước ngoài
+Y0
+(Y)
+(P)
+P0
+AD
+AS
+sản lượngviệc 
+làmgiá cảxuất 
+khẩu ròng
+k
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+Chương 2:
+TỔNG SẢN PHẨM QUỐC DÂN VÀ THU NHẬP QUỐC DÂN
+I. ĐO LƯỜNG MỨC SẢN XUẤT CỦA MỘT QUỐC GIA
+1. Hai hệ thống tính toán sản lượng quốc gia:
+1.1. Các quan điểm về sản xuất:
+- Thế kỷ 15: Trường phái kinh tế trọng nông (của Pháp) cho rằng: Sản 
+xuất là tạo ra sản phẩm ròng (sản phẩm thuần tăng) - là lượng tăng hoàn toàn so 
+với lượng đưa vào sản xuất ban đầu.
+Ví dụ: 3 con giống 
+    
+   (vật nuôi)
+- Thế kỷ 18: Trường phái kinh tế học cổ điển (Adam Smith) cho rằng: Sản 
+xuất là tạo ra sản phẩm hữu hình.
+- Thế kỷ 19: Trường phái kinh tế học của Mác: Sản xuất là tạo ra sản 
+phẩm vật chất, gồm 2 phần: Toàn bộ sản phẩm hữu hình do các ngành công - 
+nông - lâm - ngư ... tạo ra; một phần sản phẩm vô hình do các ngành giao thông 
+vận tải, tài chính, ngân hàng, bưu điện, du lịch, ... tạo ra (tức phần phục vụ cho 
+sản xuất).
+- Đầu thế kỷ 20: Xuất hiện quan điểm kinh tế học phương đông, cho rằng: 
+Sản xuất là tạo ra những hàng hoá và dịch vụ có ích cho xã hội: Toàn bộ sản 
+phẩm hữu hình và toàn bộ sản phẩm vô hình.
+1.2. Hai hệ thống tính sản lượng quốc gia:
+1.2.1. Hệ MPS (Material Product System) - Hệ thống sản xuất vật chất → 
+ra đời trên quan điểm của Mác.
+1.2.2. Hệ SNA (System of National Account) - Hệ thống tài khoản quốc 
+gia → ra đời trên quan điểm của trường phái kinh tế học phương đông.
+2. Các chỉ tiêu chủ yếu  của hệ SNA:
+* Có 4 tài khoản chủ yếu:
+- Tài khoản sản xuất.
+19
+sản xuất
+lời
+10 con
+     7 con: sản phẩm ròng
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+- Tài khoản thu nhập và chi tiêu.
+- Tài khoản vốn.
+- Tài khoản giao dịch với nước ngoài.
+* Có 5 chỉ tiêu chủ yếu:
+- Tổng sản phẩm quốc dân - GNP
+- Tổng sản phẩm quóc nội - GDP (tổng sản phẩm trong nước)
+- Sản phẩm quốc dân ròng - NNP.
+- Thu nhập quốc dân - (NI, I)
+- Thu nhập khả dụng - Yd (Thu nhập có thể sử dụng)
+II.  TỔNG  SẢN  PHẨM  QUỐC  DÂN  (GNP)  VÀ  TỔNG  SẢN  PHẨM 
+TRONG NƯỚC (GDP)
+1. Khái niệm:
+1.1. Tổng sản phẩm quốc dân - GNP (Gross national Product)
+Là chỉ tiêu đo lường tổng giá trị bằng tiền của các hàng hoá, dịch vụ cuối 
+cùng do công dân một nước sản xuất ra trong một khoản thời gian nhất định 
+(thường là 1 năm).
+* Sản phẩm trung gian: Là những loại sản phẩm sử dụng làm đầu vào để 
+sản xuất ra sản phẩm khác và sử dụng 1 lần trong quá trình sản xuất đó (giá trị 
+của chúng được chuyển ngay một lần vào giá trị sản phẩm mới).
+* Sản phẩm cuối cùng: Là những sản phẩm đáp ứng nhu cầu sử dụng 
+cuối cùng của nền kinh tế như tiêu dùng, đầu tư, xuất khẩu, ...
+→ Công dân một nước là người phải mang quốc tịch của nước đó.
+* GNP danh nghĩa (GNPn): Là GNP tính theo giá hiện hành (Phiện hành)
+* GNP thực tế (GNPr): Là GNP tính theo giá cố định hoặc theo giá của 1 
+năm gốc nào đó (P gốc)
+Ví dụ: GNPr (2002) = ΣQ(2002) x P(1999)
+* Liên hệ:
+ GNPr =  
+(D còn gọi là chỉ số lạm phát)
+⇒  Tốc độ tăng trưởng kinh tế (t) =   - 1  x 100%    
+20
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+Ví dụ:GNP
+n (2002)
+ = 20 tỷ      ⇒ GNPr (2002/2001) = 
+25
+,1
+20
+ = 15 tỷ
+D
+(2002/2001)
+ = 1,25 tỷ
+Nếu cho GNPr (2001) = 15 tỷ, thì
+Tốc độ tăng trưởng kinh tế = 
+
+
+
+
+−1
+15
+16
+ . 100% = 6,7%
+1.2. Tổng sản phẩm trong nước - GNP: (gross domestic product)
+Là chỉ tiêu đo lường tổng giá trị bằng tiền của các hàng hoá dịch vụ cuối 
+cùng được sản xuất ra trên lãnh thổ một nước trong một khoản thời gian nhất 
+định (thường là một năm) bất kể do công dân nước đó hay công dân nước ngoài 
+tạo ra. 
+(Hàng hoá đó phải do một đơn vị thường trú trên phạm vi lãnh thổ một 
+nước từ một năm trở lên tạo ra)
+GDP = ΣQiPi 
+P
+hiện hành → GNP
+danh nghĩa - GNP
+n
+P
+cố định → GDP
+thực tế - GDP
+r
+2. Mối liên hệ giữa GNP và GDP:
+→ GNP gồm 2 phần:
+α: Phần do công dân một nước sản xuất ra trên lãnh thổ của nước đó.
+β: Phần do công dân nước đó sản xuất ra trên lãnh thổ của nước khác.
+(Phần thu nhập yếu tố xuất khẩu → vốn, lao động, ...)
+⇒  GNP = α + β
+→ GDP gồm 2 phần:
+α: Phần do công dân một nước sản xuất ra trên lãnh thổ của nước đó.
+21
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+λ: Phần do công dân nước khác sản xuất ra trên lãnh thổ của nước đó.
+(Gọi là phần thu nhập yếu tố nhập khẩu)
+⇒  GDP = α + λ
+⇒ GNP = GDP - λ + β = GDP + β - λ
+β - λ: Thu nhập yếu tố ròng (NIA)
+⇒  GNP = GDP + NIA
+Nếu NIA > 0 → GNP > GDP: Nền kinh tế phát triển
+NIA < 0 → GNP < GDP: Nền kinh tế đang phát triển
+NIA = 0 → GNP = GDP
+3. Ý nghĩa của các chỉ tiêu GNP và GDP trong phân tích kinh tế vĩ mô:
+- Chỉ tiêu GNP là những thước đo về thành tựu kinh tế của một quốc gia.
+- Nhằm để so sánh quy mô sản xuất của các quốc gia khác nhau trên thế 
+giới: Bằng cách tính chuyển số liệu GNP hay GDP tính bằng tiền của các quốc 
+gia và đồng đô la Mỹ thông qua tỷ giá hối đoái chính thức.
+- Sử dụng các chỉ tiêu GNP hay GDP thường để phân tích những biến đổi 
+về sản lượng của một quốc gia trong thời gian khác nhau (Tính tốc độ tăng 
+trưởng của GNP hay GDP thực tế nhằm loại trừ sự biến động của giá cả).
+- Nhằm để phân tích sự thay đổi mức sống của dân cư.
+22
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+GNP (GDP) bình quân đầu ngư i =
+ờ
+GNP (GDP)
+Dân số
+* Chú ý: Vì GNP = GDP + NIA, nên:
++ GNP bình quân đầu người là thước đo tốt hơn, xét theo khía cạnh số 
+lượng hàng hoá và dịch vụ mà mỗi người dân một nước có thể mua được.
++ GNP bình quân đầu người là thước đo tốt hơn về số lượng hàng hoá và 
+dịch vụ sản xuất ra tính bình quân cho một người dân.
+- Dựa theo số liệu và cách ước tính GNP và GDP, các quốc gia có thể 
+thiết lập chiến lược phát triển kinh tế dài hạn hoạch định các chính sách kinh tế.
+III. PHƯƠNG PHÁP XÁC ĐỊNH GDP DANH NGHĨA
+(Theo giá thị trường - đã có thuế gián thu)
+1. Sơ đồ chu chuyển kinh tế vĩ mô (Nền kinh tế mở)
+a. Hộ gia đình: Là người sở hữu các yếu tố sản xuất và cho các doanh 
+nghiệp thuê và nhận lại thu nhập bằng tiền - Sử dụng phần thu nhập đó để mua 
+hàng hoá, dịch vụ.
+23
+Hộ gia đình
+Chính phủ
+Chi mua hàng hoá dịch vụ
+Thị trường hàng hoá, DV
+Người nước 
+ngoài
+(IM)
+(X)
+cung
+(Đầu tư I)
+(G)
+Td
+Tr
+cầu tiêu 
+dùng (C)
+Ti
+Doanh nghiệp
+Thu nhập từ yếu tố sản xuất 
+cung
+Thị trường các yếu tố SX
+cầu
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+b. Doanh nghiệp: Là nơi tiến hành hoạt động sản xuất kinh doanh tạo ra 
+sản phẩm hàng hoá dịch vụ. Sau khi bán hàng, doanh nghiệp phải phân phối 
+khoảng thu nhập cho hộ gia đình và chính phủ và mua hàng hoá, dịch vụ để đầu 
+tư (I) mở rộng sản xuất kinh doanh.
+c. Chính phủ: Bao gồm các khoản thu và chi sau:
+- Chi mua hàng hoá dịch vụ (G).
+- Chi chuyển nhượng (T
+r): Là những khoản trợ cấp của chính phủ cho hộ 
+gia đình và doanh nghiệp.
+- Thu thuế: Có 2 loại:
++ Thuế trực thu (T
+d): Là thuế trực tiếp đánh vào thu nhập của các thành 
+phần doanh thu: Thuế thu nhập, tài sản, ...
++ Thuế gián thu (T
+i): Là thuế đánh vào người tiêu dùng và thu qua doanh 
+nghiệp (VAT, xuất nhập khẩu, ...) được xem như một khoản chi phí được cộng 
+vào giá bán sản phẩm.
+d. Người nước ngoài:
+- Mua hàng trong nước sản xuất 
+    hàng hoá xuất khẩu (X)
+- Bán hàng vào nước
+    hàng hoá nhập khẩu (IM)
+2. Phương pháp xác định GDP:
+a. Phương pháp xác định GDP theo luồng sản phẩm cuối cùng: 
+24
+(Chuyển thành)
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+(Phương pháp chi tiêu)
+GDP = Tổng các khoản chi tiêu để mua hàng hoá, dịch vụ của các tác 
+nhân trong nền kinh tế.
+GDP = C + I + G + X - IM
+(Theo giá trị trường)
+b. Phương pháp xác định GDP theo luồng thu nhập:  (Phương pháp 
+phân phối)
+GDP = Tổng các khoản thu nhập được hình thành trong quá trình phân phối.
+GDP = D
+e + W + i + r + π + T
+i
+Trong đó:
+- Khấu hao (D
+e): Để bù đắp phần tài sản cố định bị hao mòn.
+- Tiền lương cho lao động (W)
+- Trả lãi suất (i)
+- Trả tiền thuê nói chung (r)
+- Phân phối lợi nhuận (π)
+- Thuế gián thu (T
+i)
+ * GDP danh nghĩa theo giá thị trường = GDP theo phương pháp phân phối
+* GDP danh nghĩa theo yếu tố sản xuất = GDP danh nghĩa theo giá thị 
+trường - T
+i
+c. Vấn đề tính trùng và phương pháp giá trị gia tăng:
+25
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+Để sản xuất các hàng hoá cuối cùng đến tay người tiêu dùng, phải trả qua 
+nhiều công đoạn sản xuất khác nhau. Mỗi công đoạn, mỗi doanh nghiệp chuyên 
+môn hoá chỉ đóng góp tương ứng một phần giá trị của mình để tạo ra một hàng 
+hoá dịch vụ hoàn chỉnh.
+Vì vậy, khi tính GDP theo cung dưới - luồng thu nhập hoặc chi phí, đòi 
+hỏi phải rất thận trọng để tránh tính trùng.
+* Giá trị gia tăng (VA): Là khoảng chênh lệch giữa giá trị sản lượng của 
+một doanh nghiệp với khoản mua vào về vật liệu và dịch vụ từ các doanh nghiệp 
+khác, mà đã được dùng hết trong việc sản xuất ra sản lượng đó.
+VA = Doanh thu + Chênh lệch hàng tồn kho - Chi phí trung gian.
+VA chính là lượng gia tăng trong giá trị của hàng hoá do kết quả của quá 
+trình sản xuất và nó là số đo  phần đóng góp của doanh nghiệp vào  tổng sản 
+lượng của nền kinh tế. 
+Ví dụ: Có số liệu sau về tình hình sản xuất bánh kẹo và phương pháp tính 
+giá trị gia tăng (giả định không có tồn kho)
+Người sản xuất
+Sản phẩm
+Doanh thu
+Sản phẩm trung gian
+Giá trị gia tăng
+Nông dân
+Nhà máy đường
+NM bánh kẹo
+Mía
+Đường
+Bánh kẹo
+60.000
+150.000
+44.000
+20.000
+60.000
+20.000
+40.000
+90.000
+20.000
+Tổng
+250.000
+100.000
+150.000
+26
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+* GDP = ∑VA của các đơn vị thường trú trên phạm vi lãnh thổ một quốc gia
+⇔ 
+GDP = ∑VA
+i 
+(VA
+i: GTGT của đơn vị thường trú i trên phạm vi lãnh thổ một quốc gia)
+(GTGT chính là phần mà nhà sản xuất đó tạo ra)
+* Chú ý:
+- Về lý thuyết, 3 phương pháp xác định GDP đều cho kết quả như nhau 
+khác với thực tế, có sự chênh lệch do có sai số khi thu thập số liệu.
+- Khi xác định GDP danh nghĩa theo giá trị trường cần phải định giá và 
+ước lượt những loại sản phẩm không được bán trên thị trường như hàng hoá 
+công cộng hoặc các sản phẩm tự tiêu thụ để tránh bị bỏ sót và gây biến động giả 
+tạo trong GDP.
+IV. XÁC ĐỊNH CÁC CHỈ TIÊU TRONG HỆ SNA (GNP, NNP, NI, Y
+d)
+1. Tổng sản phẩm quốc dân (GNP):
+- Xác định GNP thông qua GDP:
+GNP = GDP + NIA
+- Tính GNP trực tiếp bằng 03 phương pháp, nhưng các chỉ tiêu phải thu 
+thập theo quyền sở hữu công dân một nước.
+GNP = ΣVA
+i
+27
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+(VA
+i là GTGT của các doanh nghiệp thuộc quốc tịch của một nước)
+GNP = C + I + G + X - IM
+(Các chỉ tiêu phải theo sở hữu của công dân một nước)
+hoặc
+GNP = D
+e + W + T
+i + π + i + r
+2. Sản phẩm quốc dân ròng (NNP): (= GNP theo giá sản xuất)
+NNP = GNP - D
+e  ↔ là phần GNP còn lại sau khi trừ đi khấu hao
+NNP = W + i + r + π + T
+i
+Gọi  là phần giá trị mới sáng tạo ra của công dân một nước.
+3. Thu nhập quốc dân (NI, Y)
+NI = NNP - T
+i
+NI = W + i + r + π
+→ Thu nhập quốc dân là chỉ tiêu phản ánh thu nhập từ các yếu tố sản xuất 
+(đất đai, vốn, tài nguyên, khả năng quản lý, ...), đồng thời đây cũng là thu nhập 
+của hộ gia đình trong nền kinh tế.
+4. Thu nhập có thể sử dụng (Y
+d) - Thu nhập khả dụng:
+Y
+d = NI - T
+d + T
+r
+28
+Phản ánh mức sống của dân cư
+Td : Thuế trực thu
+Tr : Trợ cấp
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+→ Là phần thu nhập quốc dân còn lại sau khi các hộ gia đình nộp lại các 
+khoản thuế trực thu và nhận được các trợ cấp của chính phủ hoặc doanh nghiệp.
+29
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+Phần bài tập:
+Bài 1: Một nền kinh tế giả định có 5 ngành sản xuất A, B, C, D, E. Trong 
+quá trình sản xuất các ngành này có quan hệ với nhau như sau:
+- Ngành E bán sản phẩm cho người tiêu dùng được 600 triệu, trong quá 
+trình sản xuất ngành E mua nguyên vật liệu của ngành D hết 100 triệu, của 
+ngành A hết 50 triệu, mua máy móc của ngành C hết 180 triệu.
+- Ngành D mua nguyên liệu của ngành B hết 60 triệu.
+- Ngành C mua nguyên liệu của ngành A hết 100 triệu.
+(Các ngành không mua nguyên liệu, xem như chi phí sản phẩm trung gian 
+= 0)
+* Yêu cầu: Hãy xác định xem nền kinh tế này đã tạo được một sản lượng 
+GDP bằng bao nhiêu? (theo phương pháp giá trị gia tăng và theo luồng sản 
+phẩm cuối cùng)
+Bài 2: Có số liệu thống kê theo lãnh thổ như sau:
+- De = 440 - Thuế xuất nhập khẩu = 340
+- I = 640 
+- Chi chuyển nhượng Tr = 640
+- X = 370 
+- Thuế thu nhập cá nhân = 490 (Td)
+- Ti = 300 
+- Thuế thu nhập của Công ty = 90 (Td)
+- G = 800 
+- Lợi nhuận giữ lại Công ty = 75
+- IM = 450 
+- NIA = -50
+- C(cá nhân) = 2580
+(* Tốc độ tăng bình quân của GNP/GDP = 
+
+
+
+
+
+
+−
+−
+1
+1
+n
+x 100
+* Yêu cầu: 
+a/ Hãy xác định GDP và GNP?
+b/ Tính thu nhập quốc dân?
+c/ Tính thu nhập có thể sử dụng và tiết kiệm của hộ gia đình?
+30
+GNP/GDP năm n
+GNP/GDP năm 1
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+Ch
+  ương 3:
+ 
+ 
+TỔNG CẦU VÀ CHÍNH SÁCH TÀI KHOÁ
+I. TỔNG CẦU TRONG NỀN KINH TẾ GIẢN ĐƠN
+Nền kinh tế giản đơn là nền kinh tế chỉ có 2 tác nhân kinh tế là hộ gia 
+đình và doanh nghiệp. Hộ gia đình: mua hàng hoá, dịch vụ (C) và doanh nghiệp: 
+mua hàng đầu tư (I).
+Do đó, tổng cầu trong nền kinh tế giản đơn là tổng các khoản chi tiêu để 
+mua hàng hoá và dịch vụ cuối cùng của 2 chủ thể kinh tế là hộ gia đình và doanh 
+nghiệp.
+AD = C + I
+1. Tiêu dùng (C) và tiết kiệm (S):
+a. Định nghĩa:
+- Tiêu dùng là toàn bộ chi tiêu của dân cư về hàng hoá và dịch vụ cuối 
+ùng để thoả mãn nhu cầu vật chất và tinh thần.
+Nếu xét về mặt lượng, tiêu dùng (C) là lượng tiền để mua hàng hoá tiêu 
+dùng.
+- Tiết kiệm (S) là lượng tiền còn lại sau khi tiêu dùng:
+S = Yd - C
+b. Các nhân tố tác động đến tiêu dùng và tiết kiệm:
+- Mức thu nhập khả dụng hiện thời (Yd): Là nhân tố trung tâm tác động 
+đến tiêu dùng và tiết kiệm.
+- Mức tích luỹ tài sản trong quá khứ (nhiều hay ít)
+- Yếu tố tâm lý, tập quán, thói quen tiêu dùng.
+- Khoản thu nhập dự kiến sẽ có được trong tương lai.
+* Quy luật tâm lý cơ bản của tiêu dùng: (Keynes)
+- Khi thu nhập tăng thì cả tiêu dùng và tiết kiệm tăng, nhưng tiêu dùng 
+tăng chậm hơn tốc độ của thu nhập có thể sử dụng, còn tiết kiệm thì tăng nhanh 
+hơn.
+31
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+- Khi thu nhập tăng, thì tiêu dùng (C) tăng, nhưng mức độ gia tăng của 
+(C) có xu hướng ngày càng giảm dần.
+Ví dụ:
+Yd : 1000 → 2000 → 4000
+C  : 800 → 1500 → 2400
+S   : 200 → 500 → 1600
+* Nguyên nhân: Do nhu cầu dần dần được bão hoà
+* Vòng đời:
++ Còn nhỏ: Yd = 0 , C > 0 ⇒ S < 0
++ Trưởng thành: Yd > 0 , C > 0 ⇒ S > 0
++ Về già: Yd↓ ⇒ C, S↓
+* Tính thường xuyên của thu nhập
+c. Hàm số tiêu dùng và tiết kiệm:
+* Hàm tiêu dùng: Là hàm biểu thị mối quan hệ giữa tổng tiêu dùng và 
+tổng thu nhập.
+C = f(Yd ) = C  + MPC . Yd = C  + MPS . Y
+Đồ thị:
+(* C // S ⇔ MPC = MPS = 0,5)
+Eo : Điểm vừa đủ (tại đó thu nhập chỉ vừa đủ tiêu dùng, Yd = C, S = 0)
+Yo : Mức thu nhập vừa đủ (mức thu nhập chỉ vừa đủ tiêu dùng mà không 
+có tiết kiệm)
+d. Tiêu dùng biên và tiết kiệm biên;
+- Khuynh hướng tiêu dùng cận biên (MPC): Là lượng thay đổi của tiêu 
+dùng khi thu nhập Yd thay đổi một đơn vị.
+32
+1,5
+1,5
+C
+Yd
+0
+-
+C
+C + S
+Eo
+C = Y
+C =  + MPC . Y
+S =  + MPS . Y
+∆Yd
+∆C
+α
+β
+∆S
+Y0 ∆Yd
+Y
+450
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+d
+Y
+C
+MPC
+∆
+∆
+=
+  
+0 < MPC < 1
+→ Theo quy luật tâm lý cơ bản của người tiêu dùng (Keynes) thì:
++ Khi thu nhập tăng thì tiêu dùng cũng tăng theo, nhưng mức tăng thêm 
+của tiêu dùng (∆C) luôn luôn nhỏ hơn mức tăng thêm của thu nhập (∆Y). Do đó, 
+0 < MPC < 1.
++ Khi thu nhập tăng, thì tiêu dùng cũng tăng theo, nhưng mức gia tăngcủa 
+tiêu dùng (∆C) ngày càng giảm dần khi thu nhập gia tăng. Do đó, MPC có 
+khuynh hướng ngày càng giảm dần khi thu nhập càng cao.
+- Khuynh hướng tiết kiệm cận biên (MPS): Là lượng thay đổi của tiết 
+kiệm khi thu nhập Yd thay đổi một đơn vị.
+d
+ΔY
+ΔS
+MPS=
+ 
+0 < MPS < 1
+* Quan hệ giữa MPC và MPS:
+d
+ΔY
+ΔC
+MPC=
+ 
+d
+ΔY
+ΔS
+MPS=
+⇒ MPC + MPS = 
+d
+d
+Y
+Y
+∆
+∆
+ = 1 
+⇒
+MPC + MPS = 1
+* Ý nghĩa hình học: 
+MPC = 
+d
+Y
+C
+∆
+∆
+ = tgα → Độ dốc của đường C
+MPS = 
+d
+Y
+S
+∆
+∆
+ = tgβ → Độ dốc của đường S
+Vậy thì, MPC = C' và MPS = S'
+33
+⇒ MPC + MPS = 
+d
+Y
+S
+C
+∆
+∆
++
+∆
+   
+         ∆Yd = ∆C + ∆Y
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+2. Đầu tư (I):
+a. Khái niệm:
+Là lượng tiền mà doanh nghiệp dùng để mua sắm tài sản và tư bản mới 
+nhằm đáp ứng cho nhu cầu mở rộng sản xuất và chênh lệch giá trị hàng tồn kho 
+của doanh nghiệp.
+→ Vì hàng tồn kho là những mặt hàng mà doanh nghiệp bỏ tiền để sản 
+xuất ra chúng, nhưng vì trong năm chưa tiêu thụ được, còn tồn đọng trong kho 
+nên doanh nghiệp chưa lấy được vốn bỏ ra, vì vậy giá trị của mặt hàng tồn kho 
+đó được xem như một khoản vốn đầu tư ứng trước của doanh nghiệp cho những 
+năm qua.
+* Cơ cấu đầu tư:
+- Máy móc thiết bị, nhà xưởng, kho bãi mà các doanh nghiệp cần để tiến 
+hành hoạt động sản xuất kinh doanh.
+- TIền xây dựng nhà ở, văn phòng làm việc.
+- Hàng hoá tồn kho (Đầu tư cho vốn chậm luân chuyển)
+→  
+ΣI = Giá trị của tài sản thiết bị mới + Giá trị hàng tồn kho
+* Nguồn vốn của đầu tư:
+- Khấu hao (De) tài sản cố định.
+- Đầu tư ròng.
+ΣI = Đầu tư ròng + khấu hao (De)
+b. Các nhân tố tác động đến đầu tư:
+- Phụ thuộc vào nhu cầu của thị trường về sản phẩm mà đầu tư sẽ tạo ra.
+- Xem xét các yếu tố thuộc về chi phí đầu tư: Thông thường, chi phí cho 
+đầu tư tăng quá cao thì bất lợi cho nhà đầu tư và quy mô của đầu tư giảm và 
+ngược lại (giá của tài sản cố định phục vụ đầu tư, thuế, lãi suất, chi phí sản 
+xuất, ...). Tức là:
++ Thông thường, vốn đầu tư phải vay ngân hàng, vì vậy lãi suất tăng 
+(giảm) sẽ kìm hãm hoặc kích thích đầu tư.
++ Nếu chính phủ đánh thuế vào sản phẩm mà doanh nghiệp dự định đầu 
+tư ở mức quá cao thì sẽ không kích thích đầu tư và ngược lại.
+34
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+- Kỳ vọng đầu tư: Là dự đoán của các doanh nghiệp về tình hình của nền 
+kinh tế trong tương lai (Ổn định hay bất ổn định).
+c. Hàm số và đồ thị của đầu tư (I)
+* Hàm số đầu tư: Phản ánh sự phụ thuộc của lượng đầu tư dự kiến vào 
+mức sản lượng quốc gia.
+→ Có nhiều quan điểm về mối quan hệ giữa I và Y:
++ Đầu tư không phụ thuộc sản lượng: I = I (I là hằng số)
+(Keynes)
+Tức là, I biến đổi phụ thuộc vào thuế, lãi suất, các yếu tố khác.
++ Đầu tư phụ thuộc sản lượng: I = f(Y) = I + MPI . Y
+MPI : Khuynh hướng đầu tư biên
+* Đồ thị:
+3. Hàm tổng cầu và phương pháp xác định sản lượng cân bằng:
+AD = C + I = C  + MPC . Yd + I = C  + I + MPC . Y
+a. Xác định sản lượng cân bằng bằng phương trình Y = C + I
+Y = C + I = C  + I + MPC . Y = C  + I + MPC . Y
+⇒
+(1 - MPC) . Y = C  + I 
+⇒
+Yo = 
+MPC
+1
+1
+−
+ . (C  + I )
+* Đồ thị:
+- Vẽ đường AD = Y (450)
+- Vẽ đường AD = C + I
+35
+I
+Y
+I = 
+I
+AD
+  C + I
+Y
+E
+I = 
+Y0
+0
+Y = AD
+AD = I + C
+C =  + MPC . Y
+450
+AD
+AS
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+* Tính chất:
+- Khi quốc gia sản xuất với mức sản lượng Yo, thì nó sẽ giữ ổn định tại đó 
+nếu không có sự thay đổi trong các thành phần của tổng cầu.
+- Khi quốc gia sản xuất với lượng Y ≠ Y0 thì mức đó không thể tồn tại lâu 
+dài và có khuynh hướng chuyển dịch về mức sản lượng cân bằng.
+Ví dụ: GIả sử một nền kinh tế có:
+C = 50 + 3
+2 Yd
+I = 100
+→ Ta có: AD = C + I = 50 + 3
+2 Yd + 100
+với Y = AD = C + I và Yd = Y ⇒ Y = 150 + 3
+2 Y ⇒ Y0 = 450
+b. Xác định sản lượng cân bằng bằng phương trình I = S:
+Y = C + I
+Yd = C + S
+Y = Yd
+với:
+I = I
+S = -C  + (1 - MPC) Y 
+⇒ I = -C  + (1 - MPC) . Y
+⇒ Y0 = 
+MPC
+1
+1
+−
+ (C  + I)
+36
+Xác định sản lượng cân bằng Yo? 
+(và biểu diễn trên đồ thị?)
+ I + C
+Y
+E
+I = 100
+Y0 = 450
+0
+Y = AD
+AD = I + C
+450
+150
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+Ví dụ: Một nền kinh tế có: 
+C = 50 + 3
+2 Y
+I = 100
+→ Từ C = 50 + 3
+2 Y ⇒ S = -50 + 3
+1 Y
+→ I = S ⇔ 100 = -50 + 3
+1 Y ⇒ Y0 = 450
+→ Đồ thị
+Giả sử I tăng thêm 10 đơn vị; ∆C = 20 đơn vị, thì sản lượng cân bằng mới 
+(Ycb mới) = ?
+→ 
+C' = C + ∆C = 50 + 20 + 3
+2 Y = 70 + 3
+2 Y
+I' = I + ∆I = 100 + 10 = 110 ⇒ Y = C' + I' = 70 + 3
+2 Y + 110
+⇒
+Y = 180 + 3
+2 Y ⇒ Y = 540 ⇒ Ycb mới = 540
+4. Mô hình số nhân (m) 
+- Định nghĩa: là 1 hệ số phản ánh mức thay đổi của sản lượng khi tổng cầu 
+thay đổi 1 đơn vị. 
+- Công thức tính:
+m =  
+D
+A
+Y
+∆
+∆
+∆AD: mức thay đổi của tổng cầu = mức thay đổi của tiêu dùng và đầu tư. 
+∆Y: mức thay đổi của sản lượng. 
+37
+I + S
+Y
+E
+I = 100
+Y0 = 450
+0
+I = S
+150
+-50
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+=> m = 
+I
+C
+Y
+∆
++
+∆
+∆
+ => ∆Y = m (∆C + ∆I)
+Ví dụ: m = 3, có nghĩa là khi tổng cầu thay đổi 1 đơn vị, thì sản lượng gia 
+tăng 3 đơn vị. 
+* Cơ chế tác động số nhân: 
+- Bước 1: Giả sử tăng đầu tư vào kinh tế 1 lượng là ∆I => tổng cầu tăng 1 
+lượng ∆AD1 = ∆I => làm sản lượng gia tăng 1 lượng ∆Y1 = ∆AD1 = ∆I.
+Khi sản lượng tăng lên ∆Y1 => tiêu dùng tăng lên 1 lượng ∆C1 = MPC . 
+∆Y1 (với C = C  + MPC . Y) = MPC . ∆I.
+=> Tiêu dùng tăng. 
+- Bước 2:  Khi tiêu dùng tăng ∆C1 , thì tổng cầu tăng 1 lượng ∆AD2 = ∆C1 
+= MPC . ∆I => sản lượng tăng ∆Y2 = ∆AD2 = MPC . ∆I => Tiêu dùng lại tăng 
+∆C2 = MPC . ∆Y2 = MPC . MPC . ∆I = MPC2 . ∆I.
+- Bước 3:  Khi tiêu dùng tăng ∆C2, thì tổng cầu tăng 1 lượng ∆AD3 = ∆C2 
+MPC2 . ∆I.
+Khi tổng cầu tăng => sản lượng lại tăng lên 1 lượng  ∆Y3 =  ∆AD3 = 
+MPC2 . ∆I => tiêu dùng tăng ∆C3 = ∆AD3 = MPC2 . ∆Y3 = MPC3 . ∆I.
+Sản lượng của nền kinh tế tăng 1 lượng ∆Y = ∆Y1 + ∆Y2 + ... + ∆Yn.
+∆Y = ∆I + MPC.∆I + MPC2 ∆I + ... +MPCn-1.∆I
+      = ∆I (1 + MPC + MPC2 + ... + MPCn-1)
+=  ∆I . 
+MPC
+1
+1
+−
+ (áp dụng cấp số nhân lùi vô hạn, với Sn = ∆Y, a1 = 1, 0 < 
+MPC < 1)
+Đặt m = 
+MPC
+1
+1
+−
+ => m = 
+I
+Y
+∆
+∆
+ hay m = 
+AD
+Y
+∆
+∆
+m: số nhân chi tiêu của nền kinh tế giản đơn.
+m > 1 -> ∆Y > ∆AD hoặc ∆Y > ∆I
+Ví dụ: 01 nền  kinh tế có C = 50 + 3
+2 Yd 
+I = 100
+38
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+∆C = 20 ; ∆I = 19 -> Tính Y1 dựa vào số nhân?
+Y0 = 450           
+m = 
+I
+C
+Y
+∆
++
+∆
+∆
+ = 
+I
+C
+Y
+Y
+0
+1
+∆
++
+∆
+−
+ = 
+I
+C
+Y
+Y
+0
+1
+∆
++
+∆
+−
+ => Y1 - 450 = 90 
+m = 
+MPC
+1
+1
+−
+ = 
+3
+2
+1
+1
+−
+ = 3
+=> Y1 = 540
+II. TỔNG CẦU TRONG NỀN KINH TẾ ĐÓNG
+Nền kinh tế đóng là nền kinh tế có 3 tác nhân kinh tế, đó là hộ gia đình 
+(C), doanh nghiệp (I) và chính phủ (G).
+-> Tổng cầu       AD = C + I + G 
+1. Thu chi của chính phủ và tổng cầu: 
+* Thu: Thuế, lệ phí, các quỹ đóng góp, các khoản vay mượn, viện trợ... -> 
+gọi chung là thuế (TA) 
+* Chi: 
+- Chi mua hàng hoá dịch vụ (G) 
+- Chi chuyển nhượng (Tr) (trợ cấp...) 
+- Yd =  Y    - TA + Tr = Y - (TA - Tr) 
+(NI) 
+Thuế ròng (T) là khoản chênh lệch giữa thu và chi của chính phủ : 
+T = TA - Tr. 
+Vậy :   Yd = Y - T  
+a. Hàm chi tiêu của chính phủ (G) 
+Là hàm phản ánh lượng chi mua hàng hoá, dịch vụ mà chính phủ dự kiến 
+trên cơ sở các mức sản lượng khác nhau.
+Nếu xét trong ngắn hạn, chi tiêu của chính phủ do chính phủ quyết định, 
+tuỳ theo nhu cầu chi tiêu của mình, không phụ thuộc vào mức sản lượng và thu 
+nhập -> hàm chi tiêu của chính phủ là một hàm hằng. 
+G = G
+39
+G
+0
+Y
+G = 
+G
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+b. Hàm thuế ròng (T) 
+- Là hàm phản ánh các mức thuế ròng mà chính phủ dự kiến thu trên cơ 
+sở các mức sản lượng khác nhau.
+- Chính phủ ấn định thuế trước ngay từ đầu năm tài khoá, thì hàm thuế 
+ròng là 1 hàm hằng : T = T
+- Thuế phụ thuộc vào sản lượng : T = t . Y
+t: tỷ lệ thuế (0 < t < 1) 
+Y: sản lượng 
+* Trên thực tế thì T = T  + t.Y 
+* Đồ thị: 
+c. Hàm tổng cầu: 
+Ta có: 
+C = C  + MPC . Yd ; Yd = Y - T
+I =  I  , G = G
+Nếu T = T , thì C = C  + MPC (Y - Y ) = C  + MPC . Y - MPC . T .
+=> Hàm tiêu dùng (C) trong hình kinh tế đóng <nền kinh tế giản đơn
+Nếu T = t.Y, thì C = C  + MPC (Y - t.Y) 
+= C  + MPC . Y (1 - t) 
+Vậy, T = T  thì hàm tổng cầu AD = C  + MPC . Y - MPC . T  . I  + G .
+Hay AD = C  + I  + G  + MPC (Y - T ) 
+T = t . Y, thì hàm tổng cầu AD = C  + MPC . Y (1-t) + I  + G .
+Hay AD = C  + I  + G  + MPC (1-t) . Y  
+2. Phương pháp xác định sản lượng cân bằng:
+a. Xác định SLCB bằng phương trình Y = C + I + G 
+* Trường hợp 1: Nếu thuế  là hàm hằng T = T .
+Ta có: Y =  C  + I  + G  + MPC (Y - T ) = C  + I  + G  + MPC.Y - MPC. T
+=> (1 - MPC) . Y = (C  + I  + G ) - MPC . T
+40
+T
+0
+Y
+G = 
+T
+T
+0
+Y
+T = t.Y
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+=> Y0 = 
+MPC
+1
+1
+−
+ (C  + I  + G ) - 
+MPC
+1
+MPC
+−
+ . T
+Hoặc : Y0 = m (C  + I  + G ) - mt . T
+Với mt = -
+MPC
+1
+MPC
+−
+  : số nhân thuế. 
++ mt cho biết ∆Y thay đổi bao nhiêu khi thuế ròng thay đổi 1 đơn vị: 
+mt = 
+T
+Y
+∆
+∆
++ mt = - 
+MPC
+1
+MPC
+−
+ => mt < 0 
++ ∆Y = mt . ∆T 
+Tăng thuế => sản lượng giảm 
+Giảm thuế = ->sản lượng tăng 
+Tức là, thuế tác động ngược chiều với sản lượng. 
++ 
+t
+m  = 
+MPC
+1
+1
+−
+ . MPC => 
+t
+m  = m . MPC
+=> mt < m với MPC lần
++ m + mt = 
+MPC
+1
+1
+−
+ - 
+MPC
+1
+MPC
+−
+ = 
+MPC
+1
+MPC
+1
+−
+−
+ = 1 
+Vậy: m + mt = 1: Số nhân cân bằng ngân sách. 
+Số nhân cân bằng ngân sách: Nếu tăng thuế 1 lượng là ∆T để tăng chi tiêu 
+1 lượng là ∆G và giữ cho ngân sách cân bằng (∆T = ∆G) thì: 
+Nếu tăng thuế ∆T => ∆Y1 = mt . ∆T
+Sau đó tăng ∆G => ∆Y2 = m . ∆G
+=> ∆Y = ∆Y1  + ∆Y2 = mt .  ∆T + m . ∆G
+ = ∆G (mt + m) = ∆G = ∆T (mt + m) = ∆T
+=> ∆Y = ∆G = ∆T
+* Trường hợp 2: Nếu thuế là hàm T = t . Y 
+GTa có: Y = C  + I  + G  + MPC (1 - t) . Y 
+=> [1 - MPC (1 - t) ] . Y = C  + I  + G
+=> Y0 = 
+)t
+1(
+MPC
+1
+1
+−
+−
+ (C  + I  + G )
+Hoặc : Y0 = m' . (C  + I  + G )
+41
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+Với : m' = 
+)t
+1(
+MPC
+1
+1
+−
+−
+m' : số nhân chi tiêu của nền kinh tế đóng 
+* Đồ thị: 
+- Vẽ đường AD = Y (450) 
+- Vẽ đường C+I => AD = C + I  + G 
+- Đường AD = Y cắt AD = C + I + G 
+tại E (điểm cân bằng) => Sản lượng 
+cân bằng tương ứng là Y0.
+b. Xác định SLCB bằng phương trình I + G = S + T 
+Ta có: Y = C + I + G 
+ Yd = Y - T => Y = Yd + T        => Yd + T = C + I + G 
+=> I + G = C + S + T - C (Yd = C + S) => I + G = S + T
+Ví dụ: Nếu thuế là hàm T = T  , xác định SLCB (Y0), cân bằng phương 
+trình I + G = S + T? 
+=> Khi T = T , ta có: I + G = S + T
+Với I = I , G = G , Yd = C + S => S = Yd - C 
+Suy ra: I  + G  = Yd - C + T
+=> I  + G  = Yd - C  - MPC (Y - T ) + T  (C = C  + MPC (Y - T ))
+=> I  + G  = Y- T - C  - MPC (Y - T ) + T  (Yd = Y - T )
+=> I  + G  = Y- C  - MPC (Y - T )  (T =  T )
+=> Y = 
+MPC
+1
+G
+I
+C
+−
++
++
+ - 
+MPC
+1
+MPC
+−
+ . T
+Đặt m = 
+MPC
+1
+MPC
+−
+ và mt = - 
+MPC
+1
+MPC
+−
+=> Y0 = m (C  + I  + G ) + mt . T
+* Đồ thị: 
+- Vẽ đường I + G 
+- Vẽ đường S + T 
+Ví dụ: 01 nền kinh tế có các hàm sau: 
+42
+   C + I + G
+0
+Y
+C + I + G
+G
+C + I 
+Y=AD
+E
+Y0
+450
+   I+G, S+T
+-(+)
+Y
+I + G
+0
+S+T
+E
+Y0
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+C = 60 + 0,75 Yd 
+I = 120 + 0,115Y
+G = 90 ; T = 0,2Y 
+Yêu cầu: 
+a. Xác định sản lượng cân bằng Y0 và vẽ đồ thị?
+b. Tính tổng tiết kiệm, tổng đầu tư tại điểm cân bằng? 
+c. Giả sử tiêu dùng tăng thêm ∆C = 40, đầu tư giảm ∆I = -10 và chi tiêu 
+của chính phủ tăng ∆G = 30. Hãy tính sản lượng cân bằng mới? 
+Giải: 
+a. Ta có: Y = C + I + G = (60 + 0,75 Yd) + (120 + 0,15Y) + 90 
+Với Yd = Y - T = Y - 0,2Y = 0,8Y
+Suy ra: Y = 270 + 0,75 . 0,8Y + 0,15Y.
+=> 0,25Y = 270 => Y0 = 1080.
+* Đồ thị: 
+Hàm C + I = 60 + 0,75 . 0,8Y + 120 + 0,15Y.
+=> C + I  = 180 + 0,75Y.
+* Phương pháp khác: Vẽ trực tiếp hàm C + I + G 
+b. Tính S, I? 
+* Ta có: Yd = C + S => S = C - Yd.
+Mà: Yd = Y - T = Y - 0,2Y = 0,8Y = 0,8 . 1080 = 864
+=> Yd = 864.
+S = Yd - C = Yd - (60 + 0,75 Yd) = 0,25Yd - 60 
+43
+    C+I+G
+   100
+Y
+200
+C+I
+255
+C+I+G
+G=90
+90
+100
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+S = 864 . 0,25 - 60 => S = 156. 
+* Tổng đầu tư I = 120 + 0,15Y = 120 + 0,15 . 1080 => I = 282 => Vậy, tại 
+điểm cân bằng Y0 = 1080, tổng tiết kiệm S = 156 và tổng đầu tư I = 282.
+c. Khi ∆C = 40 ,∆I = -10 và ∆G = 30, thì ta có:
+* C1 = C +  ∆C = 60 + 0,75Yd + 40 = 100 + 0,75 . 0,8Y01 
+=> C1 = 100 + 0,6Y01.
+* I1 = I ∆I = 120 + 0,15Y01 - 10 = 110 + 0,15Y01 
+* G1 = 330 + 0,75Y01 => 0,25 Y01 = 330 => Y01 = 1320.
+III. TỔNG CẦU TRONG NỀN KINH TẾ MỞ
+Nền kinh tế mở là nền kinh tế có 4 tác nhân kinh tế đó là hộ gia đình (C), 
+doanh n ghiệp (I), chính phủ (G) và người nước ngoài (X và IM) 
+=> Tổng cầu: AD = C + I + G + X - IM
+1. Xuất - nhập khẩu và tổng cầu: 
+1.1. Xuất khẩu (X) 
+* Các nhân tố tác động đến xuất khẩu:
+Sản lượng, thu nhập và nhu cầu của người nước ngoài. 
+Tỉ giá hối đoái (E) (E ↑↓ -> X↑↓ ↔ Giá cả hàng hoá của nước đó rẻ hơn 
+trên thị trường thế giới)
+Lợi thế so sánh: lao động, tài nguyên, vị trí địa lý...
+Chính sách thương mại của quốc gia và quốc tế. 
+* Hàm xuất khẩu: là hàm phản ánh lượng cầu dự kiến của người nước 
+ngoài với hàng hoá trong nước tương ứng với các mức khác nhau của sản lượng 
+trong nước.
+X = X  
+1.2. Nhập khẩu (IM) 
+44
+X
+Y
+X = 
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+* Các nhân tố tác động đến nhập khẩu. 
+Sản lượng, thu nhập và nhu cầu trong nước . 
+Tỉ giá hối đoái 
+Lợi thế so sánh
+Chính sách thương mại của quốc gia và quốc tế. 
+* Hàm xuất khẩu: là hàm phản ánh lượng cầu dự kiến của người trong 
+nước với hàng hoá nước ngoài tương ứng với các mức khác nhau của sản lượng 
+trong nước.
+-> Là hàm đồng biến với sản lượng 
+ IM = MPM . Y 
++ MPM là xu hướng nhập khẩu cận biên: cho biết sản lượng thay đổi của 
+nhập khẩu khi sản lượng quốc gia thay đổi 1 đơn vị.
++ MPM phản ánh mức độ ưa thích sử dụng hàng hoá nước ngoài của công 
+dân 1 nước. 
+-> Cần chú ý rằng, trong thực tế 
+thì hàm nhập khẩu có dạng: 
+IM = IM  + MPM . Y 
+1.3. Cán cân thương mại (NX): Giá trị xuất khẩu ròng 
+NX = X - IM => NX = X  - MPM . Y 
+Phản ánh mối quan hệ giữa tổng giá trị xuất khẩu và tổng giá trị nhập 
+khẩu hàng hoá - dịch vụ trong năm. 
+Tuỳ theo kết quả xuất nhập khẩu trong năm mà cán cân thương mại của 
+đất nước sẽ rơi vào 1 trong 3 trạng thái sau: 
+* X = IM => NX  = 0 : Cán cân thương mại cân bằng 
+* X >  IM => NX  > 0 : Cán cân thương mại thặng dư (xuất siêu)
+* X <  IM => NX  < 0 : Cán cân thương mại thâm hụt (nhập siêu)
+1.4. Tổng cầu trong nền kinh tế mở: 
+45
+ IM
+Y
+IM=MPM.Y
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+Ta có: C = C  + MPC . Yd ; Yd= Y - T 
++ T = T  => C = C  + MPC (Y - T )
++ T = t . Y  => C = C  + MPC (Y - t. Y)
+       hay C = C  + MPC .Y (1- t)
++ I = I
++ G = G
++ X = X
++ IM = MPM . Y 
+AD = C + I + G + X - IM
+* T = T , ta có: AD = C  + I  + G + MPC (Y - T ) + X  - MPM . Y 
+ 
+=> AD = C  + I  + G + X  + (MPC - MPM) Y -  MPM .  T
+* T = t.Y, ta có: AD = C  + I  + G + X  + MPC . Y (1 - t) - MPM . Y 
+ 
+=> AD = C  + I  + G + X  + [MPC (1 - t) - MPM].Y 
+-> Đường tổng cầu trong nền kinh tế mở có hệ số góc <nền kinh tế đóng < 
+nền kinh tế giản đơn. Tức là độ dốc sẽ tăng dần tương ứng với sự tăng của hệ số 
+góc. 
+2. Xác định sản lượng cân bằng trong nền kinh tế mở (2 cách) 
+2.1. Sử dụng phương trình AD = Y (AD = C + I + G + X - IM)
+* T = t . Y 
+SLCB: Y = C  + I  + G + X  + [MPC (1 - t) - MPM].Y 
+=> Y0 = 
+[
+]
+MPM
+)t
+1(
+MPC
+1
+X
+G
+I
+C
+−
+−
+−
++
++
++
+Đặt m'' = 
+[
+]
+MPM
+)t
+1(
+MPC
+1
+1
+−
+−
+−
+ => Y0 = (C  + I  + G + X  ).m''
+m'': số nhân chi tiêu của nền kinh tế mở. 
+m" Tỉ lệ nghịch với xu hướng nhập khẩu cận biên (Tăng nhập khẩu, thì 
+chi tiêu trong nước càng giảm. Hay nói khác đi là hàng hoá nhập khẩu có thể 
+làm giảm sản lượng trong nước và do đó ảnh hưởng đến mức việc làm, thất 
+nghiệp trong nước).
+* Đồ thị: 
+46
+ C+I+G+X-IM
+Y
+AD
+AD =Y
+E
+Y0
+450
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+- Vẻ đường 
+AD = C + I + G + X - IM
+- Vẽ đường 450 
+2.2. Sử dụng phương trình I + G + X = S + T + IM
+* Chứng minh: Ta có: Yd = Y - T => Y = Yd + T 
+     Y = I + C + G + X - IM 
+=> I + C + G + X - IM = Yd + T 
+=> I + C + G + X = S + C + IM + T (Yd = S + C) 
+=> I + G + X = S + T + IM 
+-> Xác định Y0 (...)
+* Ý nghĩa: + I + G + X: phần đưa thêm vào nền kinh tế. 
+        + S + T + IM: phần rút ra từ nền kinh tế. 
+* Đồ thị: 
+- Vẽ đường I + G + X
+- Vẽ đường S + T + IM
+Ví dụ: 01 nền kinh tế các hàm sau:
+C = 250 + 0,6Yd 
+I = 450; G = 500; T = 0,1Y; X = 300; IM = 0,14Y 
+Yêu cầu: 
+a. Xác định SLCB và đồ thị minh hoạ?
+b. Cho biết trạng thái của cán cân thương mại tại SLCB? 
+c. Nếu đầu tư tăng thêm ∆I = 60, thì SLCB và cán cân thương mại thay 
+đổi ra sao? 
+47
+S+T+IM, I+G+X
+Y
+I+G+X
+S+T+IM
+E
+Y0
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+d. Nếu sản lượng thực tế của nền kinh tế là 2000, khi đó phản ứng của các 
+doanh nghiệp sẽ như thế nào? 
+Giải: 
+a. SLCB của nền kinh tế được xác định bởi phương trình:
+Y = C + I + G + X - IM
+   = 250 + 0,6 (Y - T) + 450 + 500 + 300 - 0,14Y 
+   = 1500 + 0,54Y - 0,14Y
+   = 1500 + 0,4Y 
+(Với Yd = Y - T và T = 0,1Y => Yd = 0,9Y)
+=> sản lượng cân bằng Y0 = 
+6,0
+1500  = 2500
+-> Đồ thị 
+b. Cán cân thương mại NX = X  - IM = 300 - 0,14Y.
+=> NX = 300 - 0,14 . 2500 = -50 < 0 (tại Y0 = 2500)
+Vậy, cán cân thương mại thâm hụt.
+c. Nếu tăng đầu tư thêm ∆I = 60, thì SLCB mới là: 
+Y01 = 1500 + 0,4Y01 + ∆I =  1500 + 0,4Y01 + 60
+=> 0,6Y01 = 1560 => Y01 = 
+6,0
+1560  = 2600
+Khi đó, cán cân thương mại tại SLCB mới Y01 = 2600 sẽ là: 
+NX = 300 + 0,14 . 2600 = -64 < 0 => CCTM thâm hụt.
+d. Nếu sản lượng thực tế của nền kinh tế Yt = 2000 < Y0 = 2500 ->  Giá 
+tăng -> Các doanh nghiệp sẽ mở rộng quy mô sản cuất (Yt > Y0 -> Giá giảm -> 
+Các doanh nghiệp thu hẹp quy mô sản xuất). 
+48
+ C+I+G+X-IM
+Y
+AD=1500+0,4Y
+AD =Y
+E
+Yt
+450
+1000
+1500
+Y0=2500
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+3. Chính sách gia tăng xuất khẩu và hạn chế nhập khẩu:
+3.1. Chính sách gia tăng xuất khẩu: 
+Giả sử tăng xuất khẩu một lượng = ∆X -> Tổng cầu tăng 1 lượng ∆AD = 
+∆X -> Sản lượng tăng một lượng ∆Y = m'' . ∆AD = m'' . ∆X.
+Khi đó, nhập khẩu tăng lên một lượng ∆IM = MPM .∆Y = MPM . m'' .∆X
+Suy ra: ∆NX = ∆X - ∆IM = ∆X - MPM . m'' . ∆X
+=> ∆NX = ∆X (1 - m''. MPM)
+* Nếu (1 - m''.MPM) > 0 thì ∆NX > 0: cán cân thương mại cải thiện tốt 
+hơn (tức là ∆NX > 0 khi m" . MPM < 1) 
+* Nếu (1 - m''.MPM) < 0 thì ∆NX < 0: cán cân thương mại xấu đi (m" . 
+MPM > 1)
+3.2. Chính sách hạn chế nhập khẩu: 
+Giảm xu hướng nhập khẩu biên bằng chính sách thuế quan, hạn ngạch, 
+chính sách bảo hộ mậu dịch, ngăn cấm nhập khẩu...
+BẢNG TÓM TẮT
+Nền kinh tế 
+Chỉ tiêu 
+Kinh tế 
+giản đơn
+Kinh tế đóng
+Kinh tế mở
+Tổng cầu AD
+C + I
+C + I + G
+C + I + G + X - IM
+Số nhân chi tiêu 
+MPC
+1
+1
+−
+)t
+1(
+MPC
+1
+1
+−
+−
+MPM
+)t
+1(
+MPC
+1
+1
++
+−
+−
+Sản lượng cân bằng 
+AD = Y
+I = S
+AD = Y
+I + G = S + T 
+AD = Y
+I + G + X = S +  T + IM
+IV. CHÍNH SÁCH TÀI KHOÁ (Chính sách tài chính)
+* Chính sách tài khoá là gì? Là việc chính phủ sử dụng thuế khoá và chi 
+tiêu ngân sách để tác động vào tổng cầu, qua đó nhằm điều chỉnh sản lượng để 
+đạt mục tiêu mong muốn. 
+* Mục tiêu và công cụ của chính sách tài khoá:
+- Mục tiêu: Nhằm điều chỉnh sản lượng để đạt đến sản lượng tiềm năng. 
+- Công cụ: 2 công cụ 
+-> Thuế (T) 
+-> Chi tiêu ngân sách (G) 
+49
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+B = T - G 
+* Ngân sách của chính phủ (B) 
++ B > 0 : ngân sách thặng dư 
++ B < 0 : ngân sách thâm hụt 
++ B = 0 : ngân sách cân bằng 
+1. Nghiên cứu chính sách tài khoá trong lý thuyết: 
+1.1. Chính sách tài khoá mở rộng (nới lỏng)
+Là chính sách tài khoá có tác dụng làm tăng tổng cầu và vì vậy làm tăng 
+sản lượng. 
+Sử dụng chính sách này khi nền kinh tế suy thoái, sản lượng thực tế thấp 
+hơn sản lượng tiềm năng (Yt < Y*) 
+- Có 3 cách sử dụng: 
++ Hoặc chính phủ phải tăng thêm chi tiêu ngân sách (chẳng hạn như tăng 
+lượng,...) -> AD tăng -> Thúc đẩy các doanh nghiệp mở rộng sản xuất -> sản 
+lượng tăng và sẽ đạt được sản lượng tiềm năng (Yt = Y*)
++ Hoặc chính phủ giảm thuế (T↓):
+. Khi T↓ thì thu nhập khả dụng tăng (Yd↑), vì rằng Yd = Y - T -> Tiêu 
+dùng tăng (C↑).
+. Khi T↓ thì kích thích các doanh nghiệp tăng đầu tư (I ↑). Vậy thì C↑ + 
+I↑ => AD↑ => Sản lượng tăng.
++ Phối hợp vừa tăng chi tiêu (G↑), vừa giảm thuế (T↓) => AD↑ => sản 
+lượng tăng. 
+1.2. Chính sách tài khoá thu hẹp (thắt chặt) 
+50
+AD
+Y
+E1
+Y0 < Y*
+450
+AD
+E
+P
+Y
+E1
+Y0 < Y*
+E
+AD=C+I+G+X-IM
+AS
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+- Là chính sách tài khoá có tác dụng làm giảm tổng cầu và vì vậy làm 
+giảm sản lượng. 
+- Sử dụng chính sách này khi nền kinh tế trong trạng thái quá nóng, sản 
+lượng thực tế vượt quá mức sản lượng tiềm năng (Yt > Y*).
+- Có 3 cách sử dụng: 
++ Hoặc chính phủ giảm chi tiêu ngân sách (G↓) -> AD giảm -> các doanh 
+nghiệp thu hẹp sản xuất -> Sản lượng giảm và đạt sản lượng tiềm năng (Yt = Y*)
++ Hoặc chính phủ tăng thuế (T↑)
+. Khi T↑ thì thu nhập khả dụng giảm (Yd↓), vì Yd = Y - T -> Tiêu dùng 
+giảm (C↓)
+. Khi T↑ thì các doanh nghiệp thu hẹp quy mô đầu tư (I↓), vậy thì C↓ + 
+I↓ => AD↓ => Sản lượng giảm. 
++ Phối hợp vừa cắt giảm chi tiêu (G↓), vừa tăng thuế (I↑) => AD↓ => sản 
+lượng giảm. 
+Tóm lại,  tuỳ theo tình hình cụ thể của đất nước trong mỗi thời kỳ mà 
+chính phủ có thể sử dụng 1 trong 2 loại chính sách tài khoá (2 nguyên lý) như đã 
+nêu trên. Hai nguyên lý này gọi là chính sách tài khoá chủ động.
+Ngoài ra, hệ thống tài chính hiện đại còn có những nhân tố tự động làm 
+ổn định kinh tế vĩ mô theo cơ chế "ổn định tự động".
+* Những thay đổi tự động về thuế: chẳng hạn như thuế luỹ tiến đối với thu 
+nhập cá nhân, thuế thu nhập doanh nghiệp...
+* Hệ thống bảo hiểm: bảo hiểm thất nghiệp, trợ cấp thất nghiệp... 
+51
+AD
+Y
+E
+Y* < Y0
+450
+AD
+E1
+P
+Y
+E
+Y* < Y0
+E1
+AD=C+I+G+X-IM
+AS
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+-> Cần chú ý rằng các nhân tố :"ổn định tự động" chỉ có tác dụng hạn chế 
+1 phần các dao động của chu kỳ kinh tế mà không xoá bỏ hoàn toàn các dao 
+động đó. 
+2. Nghiên cứu chính sách tài khoá trong thực tế:
+Trong thực tế, tác động của chính sách tài khoá có nhiều hạn chế do các 
+nguyên nhân sau: 
+- Khó định lượng chính xác các đại lượng của chính sách tài khía (m, m', 
+m'', ∆Y, ∆T, ∆I, ∆G...) do có sự khác nhau về quan điểm, cách đánh giá và nhìn 
+nhận khác nhau trước các sự kiện kinh tế, sự không chắc chắn cố hữu trong các 
+quan hệ kinh tế.
+- Chính sách tài khoá có độ trễ khá lớn: bao gồm độ trễ bên trong và bên 
+ngoài. 
++ Độ trễ bên trong  bao gồm: thời gian thu thập thông tin, xử lý thông tin 
+và ra quyết định. 
++ Độ trễ bên ngoài bao gồm: quá trình phổ biến, thực hiện và phát huy tác 
+dụng. 
+-> Cả 2 độ trễ khá dài, phụ thuộc vào các yếu tố chính trị và cơ cấu tổ 
+chức bộ máy. Bởi vậy, những quyết định đưa ra không đúng lúc có thể làm rối 
+loạn thêm nền kinh tế thay vì ổn định nó.
+- Chính sách tài khoá thường được thực hiện thông qua các dự án công 
+cộng xây dựng cơ sở hạ tầng, phát triển việc làm và trợ cấp xã hội. Thực tế cho 
+thấy, ngoài một số dự án công cộng thực hiện thành công, đa số các dự án tỏ ra 
+kém hiệu quả kinh tế. 
+* Chú ý: Khi sử dụng chính sách tài khoá, ngân sách nhà nước mất cân 
+bằng. Chẳng hạn như: 
+= T↓ - G↑: Thâm hụt
+3. Chính sách tài khoá với vấn đề thâm hụt ngân sách và tháo lui đầu tư. 
+3.1. Khái niệm về thâm hụt ngân sách: 
+* Ngân sách nhà nước (B) là tổng các kế hoạch chi tiêu và thu nhập hằng 
+năm của chính phủ, bao gồm các khoản thu (chủ yếu từ thuế) và các khoản chi 
+ngân sách. 
+52
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+B = T - G 
++ B > 0 : ngân sách thặng dư
++ B = 0 : ngân sách cân bằng 
++ B < 0 : ngân sách thâm hụt 
+* Ba khái niệm thâm hụt ngân sách:
+- Thâm hụt ngân sách thực tế: là thâm hụt khi số chi thực tế vượt số thu 
+thực tế trong 1 thời kỳ nhất định. 
+B = t . Yt - G 
+- Thâm hụt ngân sách cơ cấu: là thâm hụt tính trong trường hợp nếu nền 
+kinh tế hoạt động ở mức sản lượng tiềm năng. 
+B = t . Y* - G 
+- Thâm hụt ngân sách chu kỳ: là thâm hụt ngân sách bị động do tình trạng 
+của chu kỳ kinh doanh. 
+- Thâm hụt chu kỳ bằng hiệu số giữa thâm hụt thực tế và thâm hụt cơ cấu:
+B = t . (Yt - Y*) 
+3.2. Chính sách tài khoá cùng chiều và chính sách tài khoá ngược 
+chiều: 
+Nếu chính phủ  thiết lập một chính sách thu chi ngân sách, sao cho tại 
+mức sản lượng tiềm năng (Y*) thì ngân sách là cân bằng, tức là: 
+B = t . Y* - G = 0 => t . Y* = G.
+t . Y*: thu ngân sách 
+G: chi tiêu ngân sách 
+Như vậy, với bất kỳ mức thu nhập hay sản lượng nào < Y* thì ngân sách 
+sẽ thâm hụt và ngược lại. Chỉ tại Y* ngân sách sẽ cân bằng. 
++ Nếu mục tiêu của chính phủ là luôn đạt được ngân sách cân bằng dù sản 
+lượng có thể thay đổi thế nào cũng được, thì chính sách đó được gọi là chính 
+sách tài khoá cùng chiều (với chu kỳ kinh doanh) 
+Áp dụng chính sách này => khi nền kinh tế suy thoái, ngân sách thâm hụt. 
+Chính phủ phải ↓G, hoặc ↑T, hoặc áp dụng cả hai để ổn định cán cân  ngân sách 
+(B = 0). Tuy nhiên, ↓G thì sản lượng sẽ giảm theo => Suy thoái thêm sâu sắc. 
+53
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
++ Nếu mục tiêu của chính phủ là giữ cho nền kinh tế luôn ở mức sản 
+lượng tiềm năng với mức việc làm đầy đủ, thì chính sách đó được gọi là chính 
+sách tài khoá ngược chiều (với chu kỳ kinh doanh) 
+Áp dụng chính sách này => khi nền kinh tế suy thoái, chính phủ cần ↑G, 
+hoặc ↓T, hoặc áp dụng cả hai nhằm tăng mức sản lượng đạt đến Y*. Tuy nhiên, 
+ngân sách sẽ bị thâm hụt. Thâm hụt cơ cấu, nguyên nhân do chính sách chủ quan 
+từ phía chính phủ. 
+Tóm lại, tuỳ thuộc vào yếu tố chính trị hay các tình huống kinh tế cụ thể 
+của mỗi quốc gia ở từng giai đoạn lịch sử khác nhau mà chính phủ có thể theo 
+đuổi chính sách tài khoá cùng chiều hay ngược chiều (với chu kỳ kinh doanh) 
+3.3. Các nguồn tài trợ cho thâm hụt ngân sách: 
+- Vay trong nước: vay dân (thông qua việc phát hành trái phiếu và công 
+trái gán với việc đưa ra lãi suất hợp lý, thông thường thì phần lãi suất này > lãi 
+suất tiết kiệm).
+- Vay từ nước ngoài (nguồn tài trợ này rất khó) 
+- Sử dụng nguồn dự trữ ngoại tệ. 
+- Phát hành tiền. 
+3.4. Vấn đề tháo lui đầu tư: 
+Các biện pháp của chính sách tài khoá chủ động gây nên thâm hụt cơ cấu 
+và kéo theo hiện tượng tháo lui đầu tư. 
+- Cơ chế tháo lui đầu tư: khi ↑G (hoặc ↓T) -> AD↑ -> Yt↑ -> nhu cầu về 
+tiền cho giap dịch ↑ (trong khi mức cung tiền vẫn không đổi) -> lãi suất của nền 
+kinh tế ↑ -> các doanh nghiệp sẽ giảm các dự án đầu tư (thu hẹp quy mô đầu tư).
+- Giải pháp: xét về lâu dài, quy mô của tháo lui đầu tư có thể là rất lớn, do 
+vậy cần phải có giải pháp làm giảm mức lãi suất của nền kinh tế bằng cách tăng 
+mức cung tiền vào nền kinh tế. Theo đó, các doanh nghiệp có thể tiếp tục duy trì 
+quy mô đầu tư. 
+4. Chính sách tài khoá và vấn đề thâm hụt ngân sách của nước ta trong thời 
+gian qua:
+54
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+- Trong giai đoạn của nền kinh tế kế hoạch hoá tập trung: kinh tế suy 
+thoái, ngân sách nhà nước luôn trong tình trạng thâm hụt nặng nề, thu không đủ 
+chi và vay nợ chồng chất, do kết quả của một phương pháp quản lý yếu kém.
+- Khi nền kinh tế chuyển sang hoạt động theo cơ chế thị trường có sự 
+quản lý của nhà nước: thực hiện cải cách kinh tế, giảm được đáng kể vấn đề 
+thâm hụt ngân sách và đẩy lùi lạm phát vào những năm 80.
++ Hệ thống thuế: đã được cải cách, tỉ lệ thu thuế trong phần thu của ngân 
+sách ngày càng tăng và trở thành nguồn thu chủ yếu của ngân sách nhà nước 
+(chiếm từ 23 - 24%).
++ Về chi tiêu ngân sách: đã được đặt đúng vị trí. Là công cụ điều tiết thị 
+trường, bình ổn giá cả, định hướng phát triển sản xuất, đồng thời là công cụ điều 
+tiết thu nhập, đặc biệt thông qua các chương trình xoá đói, giảm nghèo, các 
+chính sách trợ cấp của chiính phủ. Chi ngân sách đã được thực hiện theo nguyên 
+tắc tiết kiệm, hiệu quả nhằm nâng dần phần tích luỹ của ngân sách cho đầu tư 
+phát triển. Khoản chi thường xuyên của ngân sách được khống chế tối đa trong 
+khuôn khổ khả năng thu ngân sách, đồng thời tốc độ tăng chi thường xuyên 
+được khống chế thấp hơn tốc độ tăng cho cho đầu tư phát triển. 
++ Biện pháp tài trợ cho thâm hụt ngân sách: lành mạnh hoá nền tài chính 
+quốc gia bằng việc đổi mới biện pháp tài trợ cho thâm hụt ngân sách, cụ thể đã 
+thay việc phát hành tiền bằng việc phát hành trái phiếu kho bạc ngắn hạn kể từ 
+năm 1992.
+Tóm lại, trong nền kinh tế thị trường có sự quản lý của nhà nước, công 
+cuộc đổi mới hệ thống tài chính đã thu được những thành tựu đáng kể. Thuế và 
+chi tiêu ngân sách của chính phủ đang dần trở thành những công cụ điều tiết vĩ 
+mô quan trọng của nhà nước ta. 
+Phần bài tập
+Bài 1: 1 nền kinh tế có các hàm sau: 
+C = 200 + 0,75Yd 
+I = 100 + 0,2Y
+55
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+G = 580
+T = 40 + 0,2Y
+X = 350
+IM = 200 + 0,05Y
+Sản lượng tiềm năng Y* = 4.500.
+* Yêu cầu: 
+a. Xác định sản lượng cân bằng và nhận xét về tình trạng ngân sách và cán 
+cân thương mại tại SLCB đó? 
+b. Giả sử tiêu dùng tăng ∆C = 20, xuất khẩu tăng ∆X = 30. Hãy xác định 
+SLCB mới?
+c. Từ kết quả ở câu b. Để đạt được mức SLTN đã cho, chính phủ cần sử 
+dụng chính sách tài khoá như thế nào?
+Bài 2: 1 nền kinh tế có các hàm sau:
+C  = 200 ; I  = 400 ; G  = 500 ; X  = 400.
+MPC = 0,5 ; t = 0,3 . MPM = 0,1. 
+* Yêu cầu: 
+a. Xác định SLCB bằng phương trình đầu tư I + G + X = S + T + IM và 
+minh hoạ bằng đồ thị? 
+b. Tính tổng tiêu dùng C, tổng tiết kiệm S và tổng thuế T? 
+c. Nếu chính phủ tăng chi tiêu ∆G = 30. Xác định SLCB mới và tiền thuế 
+chính phủ thêm được. 
+Bài 3: 1 nền kinh tế có các hàm sau: 
+X = 120 triệu (USD)
+MPM = 0,2.
+* Yêu cầu: 
+a. Hãy xác định SL để cán cân thương mại cân bằng?
+b.Hãy xác định SL để cán cân thương mại thặng dư 10 triệu (USD)?
+c. Dùng đồ thị xuất nhập khẩu theo sản lượng để phản ánh trạng thái trên 
+của cán cân thương mại? 
+56
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+57
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+Ch
+  ương 4:
+ 
+ 
+TIỀN TỆ VÀ CHÍNH SÁCH TIỀN TỆ 
+I. TIỀN TỆ
+1. Khái niệm: 
+Tiền là tất cả những thứ được xã hội chấp nhận dùng làm phương tiện 
+thanh toán trong quá trình trao đổi, mua bán hàng hoá dịch vụ. Bản thân chúng 
+có thể có hoặc không có giá trị riêng và nó mang ý nghĩa lịch sử nhất định.
+Cụ thể, trong lịch sử phát triển tiền tệ - Tiền đã trải qua nhiều hình thái 
+biểu hiện:
++ Tiền thể hiện bằng các vỏ sò, vỏ ốc. 
++ Tiền do ngân hàng phát hành, trong đó gồm giấy bạc ngân hàng, kim 
+loại. 
++ Sec, thẻ tín dụng, tiền điện tử...
+2. Chức năng của tiền tệ: 
+Có 03 chức năng cơ bản, đó là: 
+(a) Là phương tiện thanh toán, trao đổi: Tiền là trung gian cho việc giao 
+dịch, mua bán hàng hoá dịch vụ, nó cho phép trao đổi giá trị mà không cần dùng 
+hàng hoá trực tiếp, tạo thuận lợi cho quá trình lưu thông hàng hoá, thúc đẩy phân 
+công lao động xã hội và chuyên môn hoá sản xuất. 
+-> Yêu cầu: Cơ cấu các loại tiền đưa vào lưu thông phải phù hợp với cơ 
+cấu các loại hàng hoá lưu thông trên thị trường. Nghĩa là các loại tiền đưa vào 
+lưu thông phải gán với nhiều mệnh giá khác nhau nhằm phù hợp với lượng giá 
+trị của hàng hoá lớn hay nhỏ, cũng như đảm bảo cho việc thanh toán dễ dàng. 
+Nói cách khác, hệ thống tiền tệ phải có đủ kích cỡ (lớn, vừa, nhỏ) 
+(b) Là phương tiện dự trữ giá trị: Lưu giữ tiền thay cho việc lưu giữ hàng 
+hoá. Tiền hôm nay có thể được tiêu dùng giá trị của nó trong tương lai. Tiền là 
+một loại tài sản tài chính, tạo ra hoạt động tín dụng, thúc đẩy quá trình tích tụ, để 
+mở rộng hoạt động sản xuất kinh doanh. 
+58
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+-> Yêu cầu : Tiền phải có giá trị ổn định.
+(c) Là phương tiện hạch toán: Tiền cung cấp 1 đơn vị tiêu chuẩn giá trị 
+dùng để đo lường giá trị của các hàng hoá khác nhau.
+Tiền được dùng để hạch toán các hoạt động kinh tế từ sản xuất đến lưu 
+thông, tiêu dùng của mọi quốc gia. 
+Tiền dùng để so sánh chi phí, lợi ích của các phương án kinh tế. 
+3. Các hình thái của tiền tệ:
+3.1. Hình thái tiền hàng hoá (hoá tệ): Dùng hàng hoá làm vật trung gian 
+cho việc mua bán . 
+-> Đặc điểm: Giá trị của tiền đúng bằng giá trị của vật dùng làm tiền.
+3.2. Tiền quy ước (chỉ tệ): Là loại tiền lưu hành do chỉ  thị hay sự chi 
+phép của chính phủ. Có 2 loại: Tiền kim loại và tiền giấy.
+-> Đặc điểm: Giá trị ghi trên mặt đồng tiền chỉ là giá trị tượng trưng, giá 
+trị đó lớn hơn rất nhiều so với giá trị của vật dùng làm tiền. 
+3.3. Tiền qua ngân hàng (tiền ký thác): Là loại tiền được tạo ra từ các tài 
+khoản: Séc - "Chueque".
+4. Các loại tiền, các khối tiền, tiền cơ sở, mức cung tiền: 
+4.1. Các loại tiền: 
+Căn cứ vào khả năng thanh toán nhanh hay chậm, ta có thể phân chia các 
+loại tiền như sau: 
+- Tiền mặt: là lượng tiền lưu hành với sự đa dạng về lượng giá trị danh 
+nghĩa, tuy không sinh lợi nhưng có khả năng sẵn sàng thanh toán cao nhất. 
+- Tiền gửi ngân hàng không kỳ hạn có thể viết Sec... để thanh toán, cũng 
+là 1 loại tiền có khả năng thanh toán cao, tuy rằng mức độ sẳn sàng cho thanh 
+toán kém hơn tiền mặt, có sinh lời nhưng lãi suất thấp. => Tiền mặt và tiền gửi 
+ngân hàng không thời hạn được nhiều nước coi là tiền giao dịch - một trong 
+những đại lượng đo lượng cung tiền chủ yếu của một số quốc gia. 
+- Tiền gửi tiết kiệm có kỳ hạn (ngắn hạn): Tuy tính chuyển đổi kém hơn 
+so với tiền gửi ngân hàng, nhưng vẫn có khả năng chuyển sang tiền mặt mà 
+59
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+không gặp nhiều khó khăn, nên nó cũng được coi là có khả năng thanh toán, có 
+mức sinh lời cao. 
+- Chứng khoán: với sự phát triển và lớn mạnh của hệ thống tài chính đã 
+cho ra đời nhiều loại tài sản tài chính khác ngày càng trở nên quan trọng như các 
+chứng khoán cơ bản (Trái phiếu, tín phiếu kho bạc ngắn hạn...), các giấy xác 
+nhận tài chính đối với tài sản hữu hình, các chấp nhận thanh toán của ngân 
+hàng... Chúng cũng có khả năng nhất định nào đó trong thanh toán, hay nói khác 
+đi là chúng có khả năng thanh toán chậm. 
+Tóm lại, trên giác độ vĩ mô người ta quan tâm nhiều hơn đến tiền mặt, 
+tiền gởi ngân hàng không thời hạn, tiều gửi tiết kiệm, có kỳ hạn (ngắn hạn), 
+đồng thời cũng theo dõi chặt chẽ động thái của các thành phần tiền tệ khác. Vì 
+vậy, khối lượng tiền tệ tuỳ mỗi thời kỳ mà mỗi quốc gia có thể lựa chọn các 
+thành phần tiền tệ nêu trên dùng làm đại lượng chính đo mức cung tiền. 
+4.2. Các khối tiền: 
+- Khối M0: là toàn bộ lượng tiền mặt do ngân hàng do ngân hàng trung 
+ương phát hành, đang lưu hành ngoài hệ thống ngân hàng. 
+- Khối M1 = M0 + tiền gửi ngân hàng không kỳ hạn có thể viết séc... và 
+được gọi là khối tiền giao dịch. 
+- Khối M2 = M1 + tiền gửi tiết kiệm có kỳ hạn (ngắn hạn): cũng được gọi 
+là khối tiền giao dịch, hay chuẩn tệ. 
+- M3 = M2 + Tiền được ký thác ở các định chế tài chính khác. 
+4.3. Tiền cơ cở (H): Là toàn bộ lượng tiền mặt do ngân hàng trung ương 
+phát hành. Bao gồm: 
+- Tiền mặt lưu hành (U) 
+- Tiền dự trữ trong các ngân hàng (R)
+=> H = U + R
+4.4. Mức cung tiền (MS): Gồm các loại tiền có khả năng thanh toán cao 
+nhất nhằm thoả mãn nhu cầu trao đổi giao dịch thường xuyên của nền kinh té. 
+Bao gồm:
+- Tiền mặt đang lưu hành ngoài hệ thống ngân hàng (U)
+60
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+- Tiền gửi trong ngân hàng (D)
+=> MS = U + D 
+II. HỆ THỐNG NGÂN HÀNG (NHTM & NHTW)
+1. Ngân hàng thương mại và quá trình tạo ra tiền, số nhân tiền tệ:
+1.1. Ngân hàng thương mại: 
+Ngân hàng thương mại là 1 doanh nghiệp kinh doanh tiền tệ, một tổ chức 
+môi giới tài chính. 
+- Hoạt động của ngân hàng thương mại: 
++ Nhận và huy động tiền gửi của các cá nhân, các tổ chức, các doanh 
+nghiệp.
++ Cho vay để sinh lợi, hoặc đầu tư vào các chứng khoán, các tài sản khác. 
+Ngân hàng thu lợi nhuận trên cơ sở lãi suất cho vay lớn hơn lãi suất tiền gửi.
+- Dự trữ của ngân hàng thương mại: Sự phát triển của hệ thống ngân hàng 
+đã cho phép mỗi ngân hàng riêng biệt  không cần phải lưu giữ đầy đủ mọi giá trị 
+các khoản tiền vào, ra trong một ngày ở ngân hàng. Thông qua 1 hệ thống thanh 
+toán của ngân hàng nhà nước mà ở đó mỗi ngân hàng thương mại đều có 1 tài 
+khoản của mình. Việc thanh toán bù trừ được tiến hành và cuối ngày chỉ cầnd 
+thanh toán khoản chênh lệch giữa toàn bộ số tiền gửi rút ra trên tài khoản của 
+ngân hàng thương mại mở tại hệ thống thanh toán. 
+Mỗi ngân hàng khi nhận được 1 khoản tiền gửi, bắt buộc phải để lại dự 
+trữ theo tỉ lệ % nào đó do ngân hàng trung ương quy định và được gọi là tỉ lệ dự 
+trữ bắt buộc (rb) 
++ Dự trữ bắt buộc (Rb) là lượng tiền mà ngân hàng trung ương buộc ngân 
+hàng thương mại phải dự trữ trên tổng số tiền nhận gửi và phải gửi vào tài khoản 
+của mình ở ngân hàng trung ương. 
+Rb = rb . D hay rb = D
+R b
+Rb: lượng tiền dự trữ bắt buộc 
+rb: tỉ lệ dự trữ bắt buộc, do ngân hàng trung ương quy định. 
+D: tiền gửi 
+61
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+Mục đích của dự trữ bắt buộc: Số tiền dự trữ này chủ yếu dùng để đảm 
+bảo khả năng ổn định cho việc chi trả thường xuyên của ngân hàng thương mại 
+và yêu cầu quản lý tiền tệ của ngân hàng trung ương. 
+Tuỳ theo loại tiền gửi và quy mô của chúng mà ngân hàng trung ương quy 
+định những tỉ lệ dự trữ bắt buộc khác nhau.
+Ngoài phần tiền gửi vào tài khoản của mình tại ngân hàng TW, còn 1 
+phần tiền dự trữ được giữ tại ngân hàng thương mại dưới dạng tiền mặt gọi là 
+lượng tiền dự trữ tuỳ ý (Rt) 
++ Dự trữ tuỳ ý (Rt) là lượng tiền mặt được giữ lại ở các ngân hàng thương 
+mại để đáp ứng nhu cầu chi trả khách hàng thường ngày. 
+Rt = rt . D 
+Rt: lượng tiền dự trữ tuỳ ý
+rt : tỉ lệ dự trữ tuỳ ý, do NHTM tự quy định 
+D: tiền gửi 
+Vậy, tổng dự trữ của ngân hàng thương mại R = Rb + Rt 
+=> R = D (rb + rt) 
+Nếu đặt ra = rb + rt và gọi là tỉ lệ dự trữ thực tế, ta có: 
+R = ra . D 
+1.2. Quá trình tạo ra tiền và phá huỷ tiền qua ngân hàng: 
+Giả định rằng: 
+- Hệ thống ngân hàng có tỉ lệ dự trữ thực tế ra = 10%.
+- Mọi người có tiền đều gửi hết vào ngân hàng. 
+- Mọi ngân hàng đều kinh doanh hết số tiền còn lại sau dự trữ. 
+(Không có sự rò rỉ về tiền mặt - Tức là tiền không đọng lại trong dân cư 
+mà quay trở lại trong hệ thống NHTM để kinh doanh tiếp).
+* Vậy thì, cách thức mà các ngân hàng thương mại "tạo ra tiền" được cụ 
+thể hoá như  sau: 
+Giả sử có 1 khách hàng 1.000USD vào ngân hàng A:   Dự trữ 100USD
+      Cho vay 900USD
+62
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+Người vay 900USD, đem số tiền này thanh toán tiền hàng cho người 
+khác. Người này gửi số tiền nhận được vào ngân hàng B :   Dự trữ 900USD
+   Cho vay 810USD
+Tương tự như vậy, đến ngân hàng C :   Dự trữ 81USD
+  Cho vay 729USD
+Như vậy, từ 1000USD 
+
+
+
+→
+
+haìng
+Ngán
+ thì số tiền gửi tăng thêm là :
+∆D = 1000 + 900 + 810 + 729 + ...
+      = 1000 + 0,9 . 1000 + 0,92 . 1000 + 0,93.1000 + ... + 0,9n-1 . 1000 
+      = 1000 (1 + 0,9 + 0,92 + 0,93 + ... + 0,9n-1)
+Áp dụng cấp số nhân lùi vô hạn, với Sn = ∆D, a1 = 1 và q = 0,9.
+∆D = 1000 . 
+9
+,0
+1
+1
+−
+ = 1000 . 
+1,0
+1  = 10.000 (là bội số của tiền gửi ban đầu 
+-1000)
+Kết quả là, lượng tiền gửi tăng thêm trong toàn bộ hệ thống ngân hàng: 
+∆D = 
+ar
+1  . ∆R.
+* Phá huỷ tiền: Là quá trình rút tiền ra khỏi hệ thống ngân hàng. 
+1.3. Số nhân tiền tệ (mM): Là hệ số phản ánh khối lượng tiền (MS) được 
+sinh ra từ 1 đơn vị tiền cơ sở. 
+mM = H
+MS  => MS = mM . H
+Giả sử mM = 2, có nghĩa là NHTWƯ phảt hành 1 đơn vị tiền cơ sở thì 
+lượng tiền giao dịch trong nền kinh tế là 2 đơn vị.
+* Công thức tính số nhân tiền tệ:
+U: là lượng tiền mặt, đang lưu hành ngoài hệ thống ngân hàng 
+D: là lượng tiền gửi trong hệ thống ngân hàng. 
+D
+U  = S: là tỉ lệ nắm giữ tiền mặt. 
+R: là lượng tiền dự trữ của hệ thống ngân hàng 
+D
+R  = ra: là tỉ lệ dự trữ thực tế của ngân hàng. 
+63
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+Vậy thì, MS = U + D = S . D + D = D (S + 1) 
+     H = U + R = S . D + ra . D = D (S + ra) 
+=> 
+mM = H
+MS  = 
+)
+r
+S(
+D
+)
+1
+S(
+D
+a
++
++
+=> 
+mM = 
+ar
+S
+1
+S
++
++
+- Số nhân tiền tệ mM > 1 => MS > H 
+- mM phụ thuộc vào:
++ Tỉ lệ nắm giữ tiền mặt (S) 
++ Tỉ lệ dự trữ thực tế (ra = rt + rb) 
+S tỉ lệ nghịch với ra
+- Cần chú ý rằng, trong trường hợp không có rò rỉ tiền mặt. Tức là U = 0 
+=> S = D
+U  = 0, khi đó rt = 0 => ra = rb => 
+mM  = 
+br
+1
+2. Ngân hàng trung ương với vai trò kiểm soát tiền tệ: 
+2.1. Chức năng của ngân hàng  trung ương: 
+- Là ngân hàng của các ngân hàng thương mại, cụ thể là: Ngân hàng trung 
+ương giữ các tài khoản dự trữ cho các ngân hàng thương mại, thực hiện tiến 
+trình thanh toán cho hệ thống ngân hàng thương mại và hoạt động như một 
+:người cho vay của phương sách cuối cùng" đối với các ngân hàng thương mại 
+trong trường hợp khẩn cấp. 
+- Là ngân hàng của chính phủ, cụ thể là: 
+Ngân hàng trung ương giữ các tài khoản cho chính phủ, nhận  tiền gửi và 
+cho vay đối với kho bạc nhà nước, hỗ trợ chính sách tài khoá của chính phủ 
+bằng việc mua tín phiếu của chính phủ.
+- Kiểm soát mức cung tiền để thực hiện chính sách tiền tệ nhằm ổn định 
+và phát triển nền kinh tế. 
+- Hỗ trợ, giám sát và điều tiết hoạt động của các thị trường tài chính. 
+- Là ngân hàng duy nhất có quyền phát hành tiền và đưa vào lưu thông 
+(độc quyền phát hành tiền)
+64
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+2.2. Công cụ nhằm thay đổi mức cung tiền của NHTW:
+NHTW điều chỉnh mức cung tiền và các tỉ lệ lãi suất bằng nhiều công cụ 
+khác nhau, nhằm tác động vào lượng tiền mạnh (H) và số nhân tiền tệ (mM)
+* Hoạt động thị trường mở (ảnh hưởng đến H): là việc NHTWƯ mua, 
+bán trái phiếu chính phủ. 
+- NHTW mua trái phiếu chính phủ: dùng tiền để thanh toán cho trái phiếu 
+-> tiền cơ sở của nền kinh tế tăng lên ⇒ MS = mM . H↑ (mức cung tiền tăng) 
+- NHTW bán trái phiếu chính phủ: thu lại tiền cơ sở ⇒ MS = mM . H↓ 
+(mức cung tiền giảm) → lượng thay đổi của cung tiền ∆MS = mM . ∆H
+* Công cụ tỉ lệ dự trữ bắt buộc rb : (ảnh hưởng đến mM) 
+Ta có: mM = 
+ar
+S
+1
+S
++
++
+ = 
+)
+r
+r
+(
+S
+1
+S
+b
+t +
++
++
+- Khi NHTW tăng tỉ lệ dự trữ bắt buộc (rb↑) -> số nhân tiền giảm (mM↓) 
+=> MS = mM . H↓ (mức cung tiền giảm)
+- Khi NHTW giảm tỉ lệ dự trữ bắt buộc (rb↓) -> số nhân tiền tăng (mM↑) 
+=> MS = mM . H↑ (mức cung tiền tăng)
+Ví dụ: có số liệu sau: 
+H = 300 tỉ (VNĐ) 
+S = 20%; rb = 6% ; rt = 4% => ra = 10%. 
+Hãy xác định tăng, giảm mức cung tiêu (MS) tương ứng với thay đổi 
+(tăng, giảm) tỉ lệ dự trữ bắt buộc rb? 
+Ta có: mM = 
+ar
+S
+1
+S
++
++
+ = 
+)
+04
+,0
+06
+,0
+(
+2,0
+2,0
+1
++
++
++
+ = 
+3
+,0
+2,1
+ = 4 
+=> 
+MS = 4 . 300 = 1200 tỉ (VNĐ) 
+TH1: Giả sử NHTW tăng tỉ lệ dự trữ bắt buộc (rb) từ 6% đến 12%, thì : 
+Tỉ lệ dự trữ thực tế tương ứng là : ra
+' = 12% + 4% = 16%
+Số nhân tiền tương ứng là: mM
+' = 
+16
+,0
+2,0
+2,0
+1
++
++
+ = 3,3. 
+Mức cung tiền tương ứng là: MS' = mM . H = 3,3 . 300 
+=> MS' = 1000 tỉ (VNĐ) 
+65
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+=> Thay đổi mức cung tiền ∆MS1 = 1000 - 1200 = -200 tỉ (VNĐ) 
+=> 1200
+200  = 17%.
+TH2: Giả sử NHTW giảm tỉ lệ dự trữ bắt buộc (rb) xuống 1% (rb = 1%), thì: 
+Tỉ lệ dự trữ thực tế tương ứng là: ra
+'' = 1% + 4% = 5% = 0,05.
+Số nhân tiền tương ứng là: mM
+'' = 
+05
+,0
+2,0
+2,1
++
+ = 
+25
+,0
+2,1
+ = 4,8.
+Mức cung tiền tương ứng là: MS'' = 4,8 . 300 = 1440 tỉ (VNĐ) 
+=> Thay đổi mức cung tiền: ∆MS2 = 1440 - 1200 = 240  tỉ (VNĐ) 
+=> 
+1200
+240  = 20% 
+* Lãi suất chiết khấu: Là mức lãi suất mà NHTW phải trả khi vay tiền 
+của NHTW. 
+ick : lãi suất chiết khấu 
+itt: lãi suất thị trường 
+- Nếu ick < itt: 
++ Các NHTM sẽ tăng lượng tiền vay từ NHTW -> Tiền cơ sở (H) của nền 
+kinh tế tăng lên => MS = mM . H↑ (mức cung tiền tăng) 
++ Các NHTM sẽ giảm tỉ lệ dự trữ tuỳ ý (rt) xuống mức thấp nhất -> số 
+nhân tiền tăng (mM =  
+)
+r
+r
+(
+S
+1
+S
+b
+t +
++
++
+↑) => MS = mM . H↑ (mức cung tiền tăng) 
+- Nếu ick >  itt: 
++ Các NHTM sẽ giảm lượng tiền vay từ NHTW -> Tiền cơ sở (H) của 
+nền kinh tế giảm xuống => MS = mM . H↓(mức cung tiền giảm) 
++ Các NHTM sẽ tăng tỉ lệ dự trữ tuỳ ý (rt) nhằm đáp ứng đủ nhu cầu 
+khách hàng -> số nhân tiền giảm (MS =  mM . H ↓(mức cung tiền giảm) 
+* Một số công cụ khác: 
+- Công cụ quy định trực tiếp lãi suất: NHTW ấn định một khung lãi suất 
+đối với tiền gửi, tiền cho vay, tiết kiệm. Khi muốn thay đổi mức cung tiền thì sẽ 
+thay đổi khung đó cho phù hợp. 
+66
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+- Kiểm soát tín dụng có lựa chọn: Tức là lựa chọn các phương án để kiểm 
+soát tín dụng một cách có hiệu quả: nới lỏng, thắt chặt... nhằm làm tăng hoặc 
+giảm mức cung tiền. 
+III. THỊ TRƯỜNG TIỀN TỆ
+Các loại tài sản tài chính có thể chia thành 2 loại: 
+- Tài sản giao dịch (thanh khoản) không tạo ra thu nhập, nhưng được dùng 
+để thanh toán khi mua hàng hoá và dịch vụ (tiền) 
+- Các tài sản chính khác tạo ra thu nhập (tín phiếu, cổ phiếu, sổ tiết 
+kiệm...) nhưng không thể dùng trực tiếp để mua hàng hoá và dịch vụ. 
+Hầu hết các hộ gia đình và doanh nghiệp giữ của cải của họ dưới dạng kết 
+hợp cả 2 loại tài sản này. Quy ước rằng mọi tài sản giao dịch được gọi là tiền và 
+mọi tài sản khác có thu nhập được gọi chung là trái phiếu. 
+1. Mức cầu tiền tệ: 
+1.1. Mức cầu về tiền (LP):
+- Khối lượng tiền cần để chi tiêu thường xuyên, đều đặn cho nhu cầu tiêu 
+dùng cá nhân và kinh doanh sản xuất... gọi là mức cầu về tiền (giao dịch). Cụ 
+thể: 
++ Tiền để mua sắm hàng hoá - dịch vụ, trả lương... : Cầu về tiền giao dịch.
++ Tiền dự phòng để chi tiêu những khoản cần thiết mà không dự tính 
+trước được: Cầu về tiền dự phòng.
+- Các nhân tố tác động đến LP:
++ Sản lượng (Y), thu nhập thực tế (Yd): khi Y↑, Yd↑ thì tiêu dùng tăng, 
+theo đó cầu tiền cũng tăng lên (quan hệ tỉ lệ thuận)
++ Lãi suất:
+Chi phí giữ tài sản dưới dạng tiền và thu nhập từ lãi suất mà các tài sản có 
+thể tạo ra nếu như để chúng dưới dạng trái phiếu. Lãi suất chính là chi phí cơ hội 
+của việc giữ tiền. Trong các điều kiện khác không đổi, khi lãi suất giảm xuống, 
+người dân muốn để nhiều tài sản dưới dạng tiền hơn và ít tài sản dưới dạng trái 
+phiếu hơn. Tức là khi lãi suất tăng (giảm) thì cầu tiền giảm (tăng) 
+67
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+Quan hệ tỉ lệ nghịch giữa lãi suất và mức cầu về tiền, được  gọi là hàm 
+cầu về tiền (Hàm ưa thích tiền thanh khoản) 
+- Hàm cầu về tiền:  LP = k . Y - h . i 
+LP: mức cầu về tiền thực tế. 
+Y: thu nhập 
+i: lãi suất
+k, h: các hệ số phản ánh độ nhạy cảm của mức cầu tiền theo sản lượng và 
+lãi suất. 
+- Sự dịch chuyển của đường LP: 
++ Khi lãi suất thay đổi: Đường 
+LP sẽ di chuyển dọc theo chính nó. 
++ Khi các yếu tố khác ngoài lãi 
+suất  thay  đổi,  đường  LP  sẽ dịch 
+chuyển dọc theo nguyên tắc.
+Nếu các yếu tố tác động  làm tăng mức cầu tiền thì đường LP dịch chuyển 
+sang phải và ngược lại, nếu các yếu tố tác động làm giảm mức cầu tiền thì 
+đường LP dịch chuyển sang trái. 
+1.2. Mức cầu về tài sản (DB)
+- Mức cầu về tài sản là mức cầu các loại tài sản tài chính có sinh lợi dưới 
+dạng trái phiếu. 
+- Đặc điểm: 
++ Sinh lợi
++ Chịu nhiều rủi ro, vì giá cả của chúng được quyết định trên thị trường, 
+khó dự báo trước. 
+- Chú ý: Việc giữ tiền không tạo ra lãi, nhưng không bị rủi ro, (Trừ trường 
+hợp gặp lạm phát). Nhiều người chú ý giảm mức rủi ro của họ bằng cách đa 
+dạng hoá các dạng tài sản vừa để tài sản ở dạng tiền, vừa để ở dạng trái phiếu. 
+Vì vậy, trong thực tế có thể có sự chuyển hoá mức câud từ trái phiếu sang tiền 
+68
+i
+Y
+M1
+LP0
+M0
+Y0
+i0
+i'
+Y1
+LP1
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+hoặc ngược lại. Khi nghiên cứu riêng thị trường tiền tệ không thể không tính đến 
+mối quan hệ này. 
+1.3. Quan hệ giữa mức cầu tiền và mức cầu trái phiếu: 
+Để đơn giản hoá, ta chia toàn bộ tài sản tài chính thành 2 loại tiền và trái 
+phiếu. Mỗi người đều tự quyết định lựa chọn sự phân phối tài sản  của mình theo 
+2 loại trên (được gọi là quyết định tích sản) sao cho có thu nhập cao, an toàn 
+nhất... Sự kết hợp đó được biểu hiện bằng phương trình: 
+LP + DB = P
+WN
+LP: cầu tiền thực tế
+DB: giá trị thực tế của cầu các loại trái phiếu 
+WN: Tổng các tài sản tài chính danh nghĩa 
+P: chỉ số giá 
+Tổng các tài sản tài chính trong nền kinh tế có thể đo lường được từ 
+những loại tài sản cụ thể đã được cung ứng như mức cung tiền, số lượng và giá 
+trị trị trái phiếu các loại đã đưa ra thị trường ... và được biểu hiện bằng: 
+P
+WN = P
+MS +SB
+P
+MS : mức cung tiền thực tế 
+SB: giá trị thực tế của cung các loại trái phiếu. 
+P
+WN : Tổng các tài sản tài chính thực tế đã cung ứng ra thị trường.
+Vậy thì, ta có: LP + DB = P
+MS  + SB
+=> LP - P
+MS  = SB - DB
+=> (LP - P
+MS ) - (SB - DB) = 0 
+Giả sử rằng, thị trường tiền tệ cân bằng thì LP - P
+MS  = 0 và khi đó SB - 
+DB = 0, nghĩa là thị trường trái phiếu cũng cân bằng.
+69
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+Tóm lại, khi thị trường tiền tệ cân bằng thì thị trường tài sản cũng cân 
+bằng hoặc nói theo cách khác, thị trường tài chính nói chung cũng cân bằng. 
+2. Mức cung tiền tệ (MS) và hàm cung tiền tệ:
+- Mức cung tiền tệ (MS) là tổng số tiền có khả năng thanh toán. Nó bao 
+gồm tiền mặt đang lưu hành và các khoản tiền gửi không kỳ hạn tại các ngân 
+hàng thương mại. Mức cung tiền lớn hơn nhiều so với lượng tiền cơ sở (H), bởi 
+hoạt động "tạo ra tiền" của các ngân hàng thương mại. 
+- Mức cung tiền trước hết được quyết định bởi quy mô của lượng tiền cơ 
+sở và sau đó, bởi khả năng tạo ra tiền của các  NHTM nhờ số nhân tiền tệ (mM)
+MS = mM . H 
+Như vậy, MS phụ thuộc vào: 
+Lượng tiền cơ sở (H)
+Tỉ lệ nắm giữ tiền mặt (S) 
+Tỉ lệ dự trữ thực tế (ra) 
+- Mức cung tiền có tác động mạnh mẽ đến trạng thái hoạt động của nền 
+kinh tế. Vì tiền tệ có chức năng là phương tiện trao đổi, nên khi hàng hoá và 
+dịch vụ được sản xuất ra nhiều hơn, thì cũng cần thiết phải thay đổi cung tiền. 
+Hay nói khác đi, mức cung tiền không phụ thuộc vào lãi suất mà phụ thuộc vào 
+tình hình kinh tế đang diễn ra. 
+- Hàm cung tiền theo lãi suất: MS = M.
+(M:  mức cung tiền theo nghĩa rộng, chẳng hạn như M0 - mức cung tiền 
+theo dự kiến) 
+- Sự dịch chuyển:
++ Khi i thay đổi -> MS cố định. 
+70
+i
+M
+M0
+i2
+i1
+A
+B
+MS
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
++ Các yếu tố khác ngoài i tác động -> MS dịch chuyển theo nguyên tắc: 
+Nếu các yếu tố tác động làm tăng mức cung tiền thì MS dịch chuyển sang phải 
+và ngược lại, nếu các yếu tố tác động làm giảm mức cung tiền, thì MS dịch 
+chuyển sang trái.
+Sự thay đổi mức cung tiền có tác động trực tiếp đến lãi suất thị trường của 
+tiền tệ và qua lãi suất tác động đến tiêu dùng, đầu tư, xuất khẩu... Do vậy, việc 
+kiểm soát mức cung tiền (M) được coi là 1 chính sách tiền tệ quan trọng đặc biệt 
+trong quản lý vĩ mô. 
+3. Sự cân bằng thị trường tiền tệ:
+- Tác động qua lại giữa cung và 
+cầu tiền xác định lãi suất cân bằng gọi là 
+lãi suất thị trường (i0) 
+E0: điểm cân bằng của thị trường 
+tiền tệ.
+- Tại mức lãi suất cân bằng (i0), 
+thị trường tiền tệ cân bằng: MS = LP. 
+- Tại các mức lãi suất i≠ i0, thị trường tiền tệ mất cân bằng và chúng có 
+khuynh hướng điều chỉnh để dần về mức lãi suất i0, cụ thể là: 
++ i < i0: sẽ có mức dư cung trái phiếu tương ứng làm cho giá trái phiếu 
+giảm xuống, lợi tức trái phiếu tăng lên và đẩy lãi suất thị trường lên tới i0.
+Sự dịch chuyển đường cung hoặc đường cầu sẽ làm thay đổi vị trí cân 
+bằng của thị trường tiền tệ. 
++ Khi NHTW tác động đến mức cung tiền (bán trái phiếu, tăng tỉ lệ dự trữ 
+bắt buộc...) dẫn d dến lượng cung tiền giảm xuống, đường cung tiền sẽ dịch 
+chuyển từ M0 -> M1 và lãi suất cân bằng từ i0 -> i1. Tức là, giảm cung tiền làm 
+cho lãi suất tăng lên để giảm mức dư cầu tiền do mức cung tiền giảm đi. 
++ Khi thu nhập thực tế tăng lên, nhu cầu tiền cho giao dịch tăng lên. Với 
+mỗi mức lãi suất, lợi ích biên của việc gửi tiền tăng lên và làm cho mức cầu tiền 
+thực tế tăng lên, đường cầu tiền sẽ dịch chuyển từ LP0 -> LP1. Với mức cung 
+71
+i
+M
+M1
+E0
+MS0
+M1
+i2
+i2
+M0
+LP1
+i0
+LP0
+E1
+E2
+MS1
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+tiền M1, lãi suất cân bằng sẽ dịch chuyển từ i1 -> i2 để giảm mức dư cung tiền do 
+mức cầu tiền thực tế tăng lên. 
+Việc kiểm soát tiền tệ trong thực tế để phù hợp với mục tiêu kinh tế vĩ mô 
+có 2 cách: hoặc là kiểm soát mức cung tiền thi lãi suất thị trường sẽ lên xuống 
+bởi tác động của cầu, hoặc k,kiểm soát lãi suất (ổn định lãi suất) thì buộc phải để 
+lực lượng thị trường quyết định mức cung tiền. Việc lựa chọn này tuỳ thuộc vào 
+chính sách tiền tệ của mỗi quốc gia. 
+4. Lãi suất với tiêu dùng, đầu tư, xuất khẩu và tổng cầu: 
+Tổng cầu AD = C + I _ G + X - IM
+- Khi mức cung tiền tăng lên, lãi suất sẽ giảm xuống, dẫn đến mở rộng 
+khả năng tiêu dùng, khuyến khích đầu tư và xuất khẩu làm cho đường tổng chi 
+tiêu dịch chuyển lên trên, tạo ra thu nhập thực tế cao hơn. Như vậy, sự thay đổi 
+của lãi suất sẽ tác động đến quy mô tổng cầu và do đó tác động đến thu nhập, cụ 
+thể là: 
+C↑
++ i↓ => 
+I↑ => AD↑
+X↑
+C↓ (do gửi tiết liệm nhiều hơn)
++ i↑ => 
+I↓  (thu hẹp quy mô đầu tư và xuất khẩu ) => AD↓
+X↓(thu hẹp quy mô đầu tư và xuất khẩu )
+- Chú ý rằng sự thay đổi tổng cầu có tác động trở lại đối với chính sách 
+tiền tệ. Nếu mức cung tiền không đổi, chi tiêu chính phủ tăng, cầu về tiền sẽ 
+tăng, đẩy lãi suất lên cao và tác động đến tiêu dùng, đầu tư, xuất khẩu... đây là 
+hiện tượng tháo lui đầu tư. 
+- Hàm đầu tư theo lãi suất: 
+I = I - b.i
+IV. CHÍNH SÁCH TIỀN TỆ
+1. Nguyên lý hoạt động của chính sách tiền tệ:
+Ngân hàng trung ương là cơ quan tổ chức thực hiện chính sách tiền tệ. 
+Mục tiêu của chính sách tiền tệ là ổn định giá cả, tăng trưởng GNP, giảm thất 
+72
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+nghiệp. Tuỳ thuộc đặc điểm kinh tế của mỗi thời kỳ cụ thể, cần phải ưu tiên mục 
+tiêu nào đó. Có 2 nguyên lý hoạt động (Thông qua 2 công cụ chủ yếu là mức 
+cung tiền hoặc lãi suất): 
+- Khi nền kinh tế suy thoái: Yt < Y*
+NHTW tăng MS để giảm lãi suất  (i) → C↑ , X↑ , I↑ → AD↑, theo đó thu 
+nhập và việc làm cũng gia tăng. 
+Nguyên lý hoạt động này được 
+gọi là chính sách tiền tệ mở rộng (nới 
+lỏng)
+- Khi nền kinh tế lạm phát : Yt > Y*.
+NHTW giảm MS, lãi suất sẽ tăng lên → C↓, I↓, X↓ → AD↓.
+Nguyên lý hoạt động này được gọi là chính sách tiền tệ thu hẹp (thắt 
+chặt).
+2. Chính sách tiền tệ trong thực tế : 
+Như đã trình bày ở trên (sự cân bằng thị trường tiền tệ) - Việc kiểm soát 
+tiền tệ trong thực tế để phù hợp với mục tiêu kinh tế vĩ mô, có 2 cách: hoặc kiểm 
+soát mức cung tiền thì lãi suất sẽ lên, xuống bởi tác động của cầu, hoặc kiểm 
+soát lãi suất (ổn định lãi suất), thì phải để thị trường quyết định mức cung tiền. 
+73
+AD
+Y
+AD
+450
+Yt
+Y*
+E1
+E2
+AD2
+AD1
+0
+AD
+Y
+450
+Y*
+Yt
+E2
+E1
+AD1
+AD2
+0
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+Phần bài tập:
+Bài 1: Giả định rằng tiền mặt trong dân cư = 40 tỉ (VNĐ) 
+Dự trữ của NHTM = 20 tỉ (VNĐ) 
+Tỉ lệ dự trữ bắt buộc rb = 10%.
+Hệ thống NHTM không có lượng tiền dự trữ tuỳ ý (Rt) và toàn bộ tiền gửi 
+là không kỳ hạn. 
+* Yêu cầu: a. Xác định  tổng lượng tiền cơ sở và số nhân tiền tệ? 
+b. Nếu tỉ lệ dự trữ bắt buộc tăng thành 20% thì mM và MS thay đổi ra sao? 
+Bài 2: Hệ thống NHTM có bảng cân đối tài khoản như sau (tỉ đồng): 
+Có 
+Nợ 
+- Dự trữ tại NH nhà nước 500
+- Chứng khoán 2500
+- Tiền gửi có thể viết séc 3000
+a. Giả sử tỉ lệ dự trữ bắt buộc rb = 1/6 ; tỉ lệ tiền mặt/tiền gửi là 4/1. Hãy 
+tính L mM , H và M1.
+b. Trường hợp NH nhà nước mua trái phiếu của hệ thống NHTM là 2500 
+và hệ thống NHTM cho vay được hết. Hãy tính H, M1, tiền mặt đang lưu hành 
+ngoài hệ thống NH và tiền gửi có thể viết séc? 
+Bài 3: Giả sử ban đầu thị trường tiền tệ được mô tả bằng 2 đường MS1 và LP1.
+a. Hãy xác định mức lãi suất cân bằng? 
+b. Hãy dự đoán nguyên nhân có 
+thể làm  cho  đường  cầu  tiền  LP  dịch 
+chuyển từ LP1 đến LP2? 
+c. Khi lãi suất chưa điều chỉnh, với 
+đường cầu tiền LP2. Hãy cho biết  trạng 
+thái trên thị trường trái phiếu?
+d. Trình bày quá trình điều chỉnh diễn ra trên thị trường trái phiếu và thị 
+trường tiền tệ? 
+e. Hãy dự đoán nguyên nhân có thể làm cho đường MS dịch chuyển từ 
+MS1 đến MS2 và cho biết mục đích của chính sách tiền tệ trong trường hợp này. 
+Chương 5:
+74
+AD
+M
+A
+B
+LP0
+LP1
+0
+D i2
+C i0
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+HỖN HỢP CHÍNH SÁCH TÀI KHOÁ & TIỀN TỆ
+I. MÔ HÌNH IS - LM 
+1. Đường IS 
+Mục đích của đường IS là nhằm nghiên cứu sự tác động của lãi suất đến 
+sản lượng.
+* Cách hình thành đường IS:
+- Ở mức lãi suất i0 tổng cầu 
+là AD0, thị trường  hàng hoá cân 
+bằng với mức sản lượng Yo, tổ 
+hợp tại E0 (i0, Y0).
+- Khi lãi suất giảm từ i0 
+xuống i1, tổng cầu tăng lên AD1, 
+thị trường hàng hoá cân bằng với 
+mức sản lượng tăng tưng ứng Y1, 
+tổ hợp tại E1 (i1,Y1).
+Như vậy, đường thẳng đi 
+qua E0 và E1 tương ứng với sự 
+thay  đổi  của  lãi  suất,  chính  là 
+đường IS. 
+=> đường IS biểu thị những tổ hợp ≠ nhau giữa lãi suất &  thu nhập phù 
+hợp với sự cân bằng của thị trường hàng hoá 
+* Tính chất đường IS:
+- Tất cả những điểm thuộc IS đều phản ánh thị trường hàng hoá cân bằng. 
+Thoả những phương trình AD = AS, tức là : Y = C + I + G + X - IM 
+hoặc  S + IM + T = G + I + X
+75
+AD
+i1
+i0
+E1
+AD1
+AD0
+E0
+Y0
+Y1
+Y
+O
+i1
+i0
+E1
+E0
+Y0
+Y1
+Y
+O
+i
+IS
+IS1
+AD
+".
+m
+Y
+∆
+=
+∆
+450
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+- Tất cả những điểm nằm ngoài đường IS, phản ánh thị trường hàng hoá 
+mất cân bằng và chúng có khuynh hướng dịch chuyển cho đến khi nằm trên 
+đường IS.
+- Đường IS có độ dốc xuống (Do i tỉ lệ nghịch với Y) trên thị trường hàng 
+hoá. Độ dốc của đường IS phụ thuộc vào độ nhạy cảm với lãi suất  của tổng cầu.
+* Phương trình đường IS:
+Ta có: 
+Y
+).t
+1(
+MPC
+C
+Yd
+.
+MPC
+C
+C
+−
++
+=
++
+=
+Y
+.t
+T =
+i.d
+I
+I
+−
+=
+G
+G =
+i.n
+X
+X
+−
+=
+; 
+Y
+.
+MPM
+IM =
+d và n là các vhệ số phản ánh độ nhạy của đầu tư và xuất khẩu đối với lãi 
+xuất (i).
+=> 
+Y
+.
+MPM
+i.n
+X
+G
+di
+I
+Y
+).t
+1(
+MPC
+C
+Y
+−
+−
++
++
+−
++
+−
++
+=
+=> [
+]
+)
+n
+d(i
+X
+G
+I
+C
+Y
+.
+MPM
+)t
+1(
+MPC
+1
++
+−
++
++
++
+=
++
+−
+−
+=> 
+i.b
+A
+Y
+"
+m
+1
+−
+=
+Trong đó:
+MPM
+)t
+1(
+MPM
+1
+1
+"
+m
++
+−
+−
+=
+: Số nhân chi tiêu của nền kinh tế mở.
+X
+G
+I
+C
+A
++
++
++
+=
+b = d + n
+⇒    
+Y
+."
+m
+.b
+1
+b
+A
+i
+−
+=
+    ↔ 
+* Sự dịch chuyển của đường IS.
+- Khi lãi suất thay đổi, đường IS dịch chuyển dọc theo chính nó.
+- Các yếu tố khác ngoài lãi suất có biến động (chi tiêu của chính phủ,...), 
+đường IS dịch chuyển theo nguyên tắc:
++ Các yếu tố tác động làm tăng tổng cầu, đường IS dịch chuyển sang phải.
++ Các yếu tố tác động làm giảm tổng cầu, đường IS dịch chuyển sang trái.
+76
+Y = m'(A - b.i)
+(nền kinh tế đóng)
+Y = m"(A - b.i)
+(nền kinh tế mở)
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+Tức là, AD & IS cùng dịch chuyển theo xu hướng tăng hoặc giảm.
+Sự dịch chuyển của đường IS với một lượng tương úng là 
+AD
+".
+m
+Y
+∆
+=
+∆
+.
+2. Đường LM.
+Mục đích của đường LM là nhằm nghiên cứu sự tác động của sản lượng 
+đến sự cân bằng của thị trường tiền tệ trong điều kiện mức cung tiền không thay 
+đổi.
+* Cách hình thành đường LM:
+Giả định rằng, mức cung tiền cố định tại M0.
+- Ở mức thu nhập Y0(sản lượng), đường cầu tiền là LP0 và điểm cân bằng 
+của thị trường tiền tệ là E0 với mức lãi suất cân bằng i0. Theo đó, có thể xác định 
+điểm E0 của tổ hợp (i0, Y0) -> (đồ thị bên phải).
+- Khi thu nhập tăng từ Y0 đến Y1, đường cầu tiền dịch chuyển lên LP1 với 
+điểm cân bằng E1 có lãi suất cân bằng i1. Theo đó, có thể xác định điểm E1 của tổ 
+hợp (i1,Y1) -> (đồ thị bên phải ).
+Như vậy, đường thẳng đi qua E0 & E1 của đồ thị bên phải tương ứng với 
+sự thay đổi của thu nhập, chính là đường LM. 
+=> Đường LM biểu thị những tổ hợp khác nhau giữa lãi suất & thu nhập (sản 
+lượng) phù hợp với sự cân bằng của thị trường tiền tệ.
+* Tính chất đường LM:
+77
+i1
+i0
+E1
+E0
+M0
+M
+(khối lượng tiền)
+O
+i
+LP0
+LP1
+E1
+E0
+Y0
+Y1
+Y
+O
+i
+E+
+MS1
+i1
+i0
+B
+LM1
+LM
+(LP<MS)
+(LP>MS)
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+- Tất cả những điểm thuộc LM đều phản ánh tị trường tiền tệ đạt trạng 
+thái cân bằng. Thoả phương trình: 
+P
+MS
+LP =
+- Tất cả những điểm nằm ngoài LM, phản ánh tị trường tiền tệ mất cân 
+bằng và chúng có khuynh hướng dịch chuyển cho đến khi nằm trên đường LM. 
+Cụ thể là, những điểm nằm dưới LM thì LP>MS và ngược lại.
+- Đường LM có độ dốc lên, biểu hiện i & Y có quan hệ tỉ lệ thuận trên thị 
+trường tiền tệ - Tức là, khi Y tăng thì i phải tăng theo để giảm bớt cầu tiền nhằm 
+duy trì sự cân bằng của thị trường tiền tệ khi cung tiền không đổi.
+* Phương trình đường LM:
+Ta có, thị trường tiền tệ cân bằng: 
+P
+MS
+LP =
+với 
+i.h
+Y
+.k
+LP
+−
+=
+P: chỉ số giá
+k, h: các hệ số phản ánh độ nhạy cảm của mức cầu tiền theo sản lượng & 
+lãi suất.
+Y: thu nhập (sản lượng)
+I: lãi suất.
+⇒ 
+i.h
+Y
+.k
+−
+P
+MS
+=
+ => 
+=
+i.h
+P
+MS
+Y
+.k
+−
+⇒
+           → khi giá không đổi (P = 1) thì i = h
+1  (k.y - MS)
+* Sự dịch chuyển của đường LM:
+ 
+- Khi lãi suất thay đổi, đường LM dịch chuyển dọc theo chính nó 
+- Khi các yếu tố khác ngoài lãi suất tác động, đường LM dịch chuyển theo 
+nguyên tắc:
++ Nếu các yếu tố tác động làm tăcng mức cung tiền, thì đường LM dịch 
+chuyển sang phải - ứng với mức thu nhập (Y0, Y1), lãi suất sẽ thấp hơn để 
+khuyến khích mọi người giữ thêm phần tiền cung ứng mới gia tăng.
+78
+)
+P
+MS
+Y
+.k(
+h
+1
+i
+−
+=
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
++ Nếu các yếu tố tác động làm giảm mức cung tiền, thì đường LM dịch 
+chuyển sang trái.
+3. Sự cân bằng đồng thời trên thị trường hàng hoá & tiền tệ - mô hình IS - 
+LM.
+- Tất cả những điểm thuộc đường thẳng IS, phản ánh nền kinh tế đạt trạng 
+thái cân bằng trên thị trường hàng hoá.
+- Tất cả những điểm thuộc đường LM, phản ánh nền kinh tế đạt trạng thái 
+cần bằng trên thị trường tiền tệ.
+Như vậy, tác động qua lại giữa 2 thị trường ấn định mức lãi suất & thu 
+nhập (sản lượng) cân bằng đồng thời cho cả hai thị trường. Nói cách khác, giao 
+điểm E(i0,Y0) của IS và LM biểu thị nềcn kinh tế đạt trạng thái cân bằng trên cả 
+hai thị trường hàng hoá và tiền tệ.
+(i0, Y0) : lãi suất cân bằng & sản lượng cân bằng chung của cả hai thị 
+trường.
+* Tính chất mô hình IS - LM.
+- Ở các mức lãi suất i ≠i0, thì có ít nhất 1 trong hai thị trường mất cân 
+bằng. Khi đó, nền kinh tế sẽ tự điều chỉnh để trở về trạng thái cân bằng tại E. Cụ 
+thể là, tại mức thu nhập Y1, thị trường hàng hoá cân bằng tại A với Y1 - với mức 
+lãi suất này, thị trường tiền tệ cân bằng tại B ứng với mức thu nhập là Y2 
+(Y2>Y1). Vậy tại A: LP<MS, nên lãi suất phải giảm xuống để tổng cầu và thu 
+nhập tăng lên đến điểm ứng với mức lãi suất i0 để cả hai thị trường cùng cân 
+bằng - khi nền kinh tế đạt trạng thái cân bằng E(i0,Y0) thì nó sẽ giữ ổn định tại 
+79
+i0
+E
+A
+Y1
+Y2
+Y
+O
+i
+IS
+(LP>MS)
+B
+Y0
+(LP<MS)
+LM
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+đó cho đến khi có các yếu tố làm dịch chuyển đường IS hoặc LM thì điểm cân 
+bằng (E) mới thay đổi.
+II. TÁC ĐỘNG CỦA CHÍNH SÁCH TÀI KHOÁ, TIỀN TỀ ĐẾN MÔ 
+HÌNH IS - LM & SỰ PHỐI HỢP CỦA 2 CHÍNH SÁCH  NÀY.
+1. Tác động của chính sách tài khoá.
+Chính  sách  tài  khoá  tác 
+động & làm dịch chuyển dường 
+tổng  cầu  &  vì  vậy  cũng  dịch 
+chuyển đường  IS.
+Giả định nền kinh tế lúc 
+đầu cân bằng tại E0(i0,Y0) - Giao 
+điểm của IS0 & LM0:
++ Xét trường hợp chính phủ thực 
+hiện chính sách tài khoá mở rộng (nới lỏng).
+Chẳng hạn, chính phụ  ↑G hoặc ↓T →AD↑.
+Theo đó, đường IS sẽ dịch chuyển sang phải. Nếu xét riêng trên thị trường 
+hàng hoá, với mức lãi suất i0 và thu nhập Y1, thì E1 là điểm cân bằng. Nếu xét 
+chung trên toàn bộ nền kinh tế, thì thị trường hàng hoá cân bằng nhưng thị 
+trường tiền tệ mất cân bằng. Cụ thể là, khi AD↑, mức cung tiền không đổi - 
+đường LM không định chuyển,  nhưng đường IS dịch chuyển đến IS1 do cung 
+tiền không đổi, mà cầu tiền lại tăng lên bởi sự gia tăng của tổng cầu, nên lãi suất 
+lại tăng lên nhằm hạn chế bớt thu nhập, giảm bớt mức cầu tiền. Cuối cùng, sản 
+lượng cân bằng đạt tại E2 (i1, Y2), với i1 >i0, và Y2 > Y0 (i↑, Y↑).
+Sản lượng tăng nhiều hay ít phụ thuộc vào độ dốc của đường LM. Nếu 
+LM càng thoải, thì tác động của chính sách tài khoá càng mạnh.
++ Xét trường hợp chính phủ thực hiện chính sách tài khoá thu hẹp (thắt 
+chặt), AD↑→đường IS sẽ dịch chuyển sang trái (IS2) và riêng thị trường hàng 
+hoá có sản lượng cân bằng tại (i0, Y3), nhưng xét chung trên toàn bộ nền kinh tế, 
+thị trường hàng hoá cân bằng còn thị trường tiền tệ mất cân bằng. Nguyên nhân 
+do AD↓, mức cung tiền không đổi, mà cầu tiền lại giảm bởi sự giảm đi của tổng 
+80
+i0
+E2
+Y1
+Y2
+Y
+O
+i
+IS1
+Y0
+IS0
+IS2
+E0
+E3
+E1
+LM0
+Y3Y4
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+cầu, nên lãi suất giảm đi nhằm kích thích thu nhập, gia tăng mức cầu tiền. Kết 
+quả là, sản lượng cân bằng đạt tại E3(i2,Y4), với i2 < i0 và Y4 < Y0 (i↓, Y↓).
+2. Tác động của chính sách tiền tệ.
+Mục tiêu của chính sách tiền tệ là ổn định giá cả, tăng trưởng GNP, giảm 
+thất nghiệp. Tuỳ thuộc vào đặc điểm kinh tế của mỗi thời kỳ cụ thể, mà cần ưu 
+tiên 1 mục tiêu nào đó.
+Chính sách tiền tệ chỉ có khả năng tác động vào thị trường tiền tệ, qua đó 
+tác đọng đến tổng cầu & sản lượng, nên việc kiểm soát tiền tệ của NHTW tập 
+trung vào 1 trong 2 công cụ chủ yếu, đó là mức cung tiền hoặc lãi suất.
+Giả định nền kinh tế lúc đầu cân bằng tại E0(io, Y0) - giao điểm của IS0 và 
+LM0:
++ Xét trường hợp chính phụ thực 
+hiện chính sách tiền tệ mở rộng làm gia 
+tăng mức cung tiền (MS↑)→đẩy đường 
+LM dịch chuyển sang phải (LM1). Do 
+sản lượng (thu nhập) chưa đủ thời gian 
+để thay đổi, nên lãi suất lúc đầu giảm 
+xuống từ i0 → i1, do lãi suất xuống thấp 
+đã khuyến khích tiêu dùng, đầu tư,...dẫn đến tổng cầu và sản lượng (thu nhập) 
+tăng lên (Y1) và theo đó lãi suất cũng tăng lên. Cuối cùng, tại E2 (i2, Y1) là điểm 
+cân bằng chung cho cả 2 thị trường hàng hoá và tiền tệ (tại E1 (i1, Y0) thị trường 
+tiền tệ cân bằng & thị trường hàng hoá mất cân bằng - Xét chung trong toàn bộ 
+nền kinh tế). Trường hợp này i2 < i0 và Y1 > Y0 (i↓, Y↑)
++ Xét trường hợp chính phủ thực hiện chính sách tiền tệ thắt chặt
+(thu hẹp) làm giảm mức cung tiền (MS↓) đẩy đường LM dịch chuyển sang trái 
+(LM2). Tương tự , do sản lượng (thu nhập) chưa đủ thời gian để thay đổi, nên lãi 
+suất lúc đầu tăng từ i0 → i3, thị trường tiền tệ cân bằng tại E3  (i3, Yo), nhưng nếu 
+xét chung trong toàn bộ nền kinh tế - tại E3, thị trường hàng hoá mất cân bằng
+Do  lãi  suất  tăng  lên,  nên  không  kích  thích  (thu  hẹp)  đầu  tư,  tiêu 
+dùng,...dẫn đến tổng cầu và sản lượng (thu nhập) giảm đi (Y2) và theo đó lãi suất 
+81
+Y
+i
+i3i4i0
+i2i1
+Y2 Y0 Y1
+E1
+E2
+E0
+E4
+E3
+LM2
+LM0
+LM1
+IS0
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+cũng giảm theo. Cuối cùng, tại E4 (i4, Y2) là điểm cân bằng chung cho cả hai thị 
+trường hàng hoá & tiền tệ. 
+Trường hợp này i4 > i0  và Y2 < Y0 (i ↑, Y↓).
+3. Sự phối hợp của hai chính sách tài khoá và tiền tệ:
+a. Chính sách tài khoá & tiền tệ mở rộng:
+Phối hợp hai chính sách tài khoá 
+mở rộng  sẽ làm  cho  đường  IS  dịch 
+chuyển sang phải và chính sách tiền tệ 
+mở rộng  làm  cho  đường  LM  dịch 
+chuyển sang phải. Kết quả là sản lượng 
+tăng (Y↑) và lãi suất tăng, giảm, hay 
+không thay đổi tuỳ thuộc vào sự dịch 
+chuyển của IS và LM (tức là mức độ mở 
+rộng của chính sách tài khoá và tiền tệ)
+Sử dụng chính sách này khi nền kinh tế suy thoái nghiêm trọng.
+b. Chính sách tài khoá và tiền tệ thu hẹp:
+Phối hợp hai chính sách tài khoá 
+và tiền tệ thu hẹp làm cho đường IS và 
+LM dịch chuyển sang trái. Kết quả là sản 
+lượng giảm (Y↓) và lãi suất tăng, giảm, 
+hay không đổi thuỳ thuộc vào sự dịch 
+chuyển của IS và LM (tức là mức độ thu 
+hẹp của chính sách tài khoá và tiền tệ)
+Sử dụng chính sách này khi nền kinh tế trong tình trạng lạm phát cao.
+c. Chính sách tài khoá mở rộng và tiền tệ thu hẹp:
+Phối hợp hai chính sách tài khoá 
+mở rộng và tiền tệ thu hẹp làm cho 
+đường IS  dịch  chuyển  sang  phải  và 
+đường LM dịch chuyển sang trái. Kết 
+quả là, lãi suất tăng (i↑), sản lượng 
+82
+i0
+Y1
+Y0
+Y
+O
+i
+LM0
+LM1
+IS0
+IS1
+i1
+i1
+Y0
+Y1
+Y
+O
+i
+IS1
+i0
+IS0
+LM1
+LM0
+i1
+Y1
+Y0
+Y
+O
+i
+IS0
+i0
+IS1
+LM1
+LM0
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+tăng,  giảm,  hay  không  thay  đổi  tuỳ 
+thuộc vào sự dịch chuyển của IS là LM. 
+Sử dụng chính sách này khi nền kinh tế có tổng cầu AD ở mức vừa phải, 
+nhưng cần mở rộng khả năng đầu tư khu vực công cộng và hạn chế sự gia tăng 
+của tiêu dùng và đầu tư.
+d. Chính sách tài khoá thu hẹp và tiền tệ mở rộng:
+Phối hợp hai chính sách tài 
+khoá thu hẹp và tiền tệ mở rộng 
+làm cho IS dịch chuyển sang trái 
+và LM dịch  chuyển  sang  phải. 
+Kết quả là, lãi suất giảm (i↓), sản 
+lượng tăng, giảm hay không đổi 
+tuỳ thuộc vào sự dịch chuyển của 
+IS và LM,
+Sử dụng chính sách này khi nền kinh tế có tổng cầu AD ở mức vừa phải 
+nhưng cần tăng trưởng kinh tế trong tương lai. 
+Phần bài tập:
+Bài 01: Cho mô hình IS - LM.
+* Yêu cầu:
+a. Hãy  cho  biết  &  giải  thích 
+trạng thái các thị trường tại các điểm 
+A, B, C, D,E ?
+b. Hãy cho biết quá trình điều 
+chỉnh của nền kinh tế nếu hiện thời 
+đang nằm tại D? 
+Bài 02: Hãy cho biết các tình huống sau đây tác động đến sự dịch chuyển 
+của LM, IS như thế nào ?
+a. Chính phủ tăng chi tiêu bằng cách bán trái phiếu cho công chúng.
+b. Chính phủ tăng chi tiêu bằng cách phát hành tiền cho công chúng.
+83
+i1
+Y0
+Y1
+Y
+O
+i
+IS1
+i0
+IS0
+LM0
+LM1
+Y
+i
+0
+I
+K
+L
+B
+E
+D
+C
+F
+G
+H
+IS
+A
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+c. Lòng tin của các nhà đâug tư bị giảm sút.
+Bài 03: Thị trường hàng hoá & tiền tệ được biểu diễn bởi các thông số sau 
+(ĐVT : tỷ đồng, i(%)):
+C = 50 + 0,75Yd
+;
+T = 0,2 Y
+I = 100 - 10i
+;
+MS = 100
+G = 100
+; LP = 40 + 0,2Y - 8i
+* Yêu cầu:
+a. Hãy viết phương trình của đường IS và LM ?
+b. Xác định sản lượng & lãi suất cân bằng chung của nền kinh tế?
+c. Giả định rằng chi tiêu của chính phủ tăng 1 lượng ∆G = 10.
+Hãy xác định lượng sản lượng & lãi xuất cân bằng mới?
+d. Nếu chi tiêu của chính phủ vẫn ở mức ban đầu và NHTW tăng mức cung 
+tiền ∆MS = 10. Xác định sản lượng & lãi suất cân  bằng mới ?
+84
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+Ch
+  ương 6:
+ 
+ 
+TỔNG CUNG & CÁC CHU KỲ KINH DOANH
+I. THỊ TRƯỜNG LAO ĐỘNG
+1. Đường cầu về lao động (LD)
+- Đường cầu về lao động (LD) cho biết các doanh nghiệp cần bao nhiêu 
+lao động tương ứng với mỗi mức tiền lương thực tế, trong các điều kiện khác 
+nhau về vốn, tài nguyên, ... không đổi.
+- Tiền lương thực tế (Wr) cho biết khối lượng hàng hoá dịch vụ mà tiền 
+lương danh nghĩa có thể mua được, tương ứng với mức giá đã cho.
+Tiền lương thực tế chính là giá cả của sức lao động.
+- Dạng của đường cầu lao động (LD) :
++ Nếu xét trong phạm vi 1 doanh nghiệp : việc trả lương thực tế càng cao, 
+thì doanh nghiệp thuê ít lao động, theo đó cầu về lao động có xu hướng giảm 
+xuống (LD↓) & ngược lại tiền lương thực tế giảm, cầu về lao động có xu hướng 
+tăng lên  (LD↑) .
+Nghĩa là, quan hệ giữa tiền lương thực tế (Wr) và cầu về lao động (LD)là 
+quan hệ nghịch biến → đường LD dốc đi xuống.
++ Nếu xét trong toàn bộ nền kinh tế, đường LD là đường dốc đi xuống bởi 
+lẻ trong thực tế các doanh nghiệp đều tìm cách đạt được mục tiêu tối đa hoá lợi 
+nhuận.
+ 
+- Sự dịch chuyển của đường 
+cầu về lao động:
++  Nếu  tiền  lương  thực  tế 
+(Wr) thay đổi, đường LD di chuyển 
+dọc theo chính nó.
+85
+Wr  =  
+Wn : Tiền lương danh nghĩa
+P : Mức giá chung
+L
+Wr
+Wr1
+Wr0
+Wr2
+L1
+L0
+L2
+E
+F
+LS
+LS'
+Thất nghiệp tự nguyện
+0
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
++ Nếu các yếu tố khác ngoài Wr thay đổi (số lượng tài sản cố định, qui mô 
+sản xuất, sở thích của người thuê lao động,...), đường LD sẽ dịch chuyển sang 
+trái hoặc sang phải. (L : việc làm, lao động)
+2. Đường cung về lao động (LS):
+- Đường cung về lao động (LS) cho biết lượng lao động mà các hộ gia 
+đình cung cấp cho các doanh nghiệp tương ứng với mỗi mức tiền lương thực tế 
+(Wr) nhất định.
+- Dạng của đường cung lao động (LS):
+Khi tiền lương thực tế (Wr) tăng lên, sẽ có nhiều người sẵn sàng cung ứng 
+sức lao động của mình tương ứng với mức tiền lương đó →LS↑ và ngược lại, 
+Wr ↓→ LS↓. vậy thì, mối quan hệ giữa LS và Wr là quan hệ đồng biến và đường 
+LS có xu hướng dốc lên 
+- Trong nền kinh tế, có 2 đường cung về lao động:
+LS: đường cung của lực lượng lao động xã hội.
+LS': đường cung của bộ phận lao động sẵn sàng làm việc với các mức 
+lương tương ứng của thị trường lao động.
+Cả 2 đường cung về lao động đều có độ dốc dương, nhưng độ dốc là khác 
+nhau. khoảng cách giữa 2 đường thể hiện số lượng lao động Tự nguyện thất 
+nghiệp, khoảng cách này thu hẹp thì tiền lương thực tế càng tăng.
+- Sự dịch chuyển của đường cung về lao động:
++ Nếu tiền lương thực tế (Wr) thay đổi, đường LS' di chuyển dọc theo 
+chính nó.
++ Nếu các yếu tố khác ngoài Wr tác động, đường LS' dịch chuyển sang trái 
+hoặc sang phải.
+- Sự cân bằng của thị trường lao động: Thị trường lao động cân bằng  tại 
+E(Wr, L0). Tại đó, số lao động các doanh nghiệp thuê bằng số lao động mà các 
+hộ gia đình sẵn sàng cung cấp.
+Như vậy, khi thị trường lao động cân bằng, mọi người làm việc tại mức 
+lương cân bằng (W0) đều có việc làm (L0). Vị trí cân bằng này tương ứng với 
+trạng thái toàn dạng nhân lực. Tuy nhiên, cần lưu ý rằng tại vị trí này (E) vẫn có 
+86
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+một số lao động bị thất nghiệp, đó là số lao động thất nghiệp tự nguyện và tỉ lệ 
+thất nghiệp tương ứng với trạng thái cân bằng của thị trường lao động gọi là tỉ lệ 
+thất nghiệp tự nhiên.
+3. Giá cả, tiền công & việc làm:
+Trong nền  kinh tế thị trường, giá cả phụ thuộc vào nhiều yếu tố. Các yếu 
+tố này qui định vị trí, độ dốc của đường tổng cung và  tổng cầu. Về phía cung, 
+giá cả phụ thuộc nhiều vào tiền công, đặc biệt là trong ngắn hạn (ở các nước có 
+nền kinh tế thị trường phát triển), tiền công có tỉ trọng cao trong giá thành sản 
+phẩm. Vả lại, tiền công lại phụ thuộc vào trạng thái của thị trường lao động, tức 
+là tình trạng thất nghiệp & việc làm của nền kinh tế. Giá cả còn phụ thuộc vào 
+qui mô của tài sản cố định, số lượng TSCĐ tăng lên sẽ làm sản lượng tiềm năng 
+tăng và giảm giá của sản phẩm. Tuy nhiên, trong ngắn hạn, sự thay đổi của tiền 
+công (việc làm - thất nghiệp) là yếu tố chủ yếu quyết định sự thay đổi giá cả.
+Tiền công trong nền kinh tế thị trường thay đổi như thế nào ?
+Vấn đề này, các nhà kinh tế học cổ điển và kinh tế học trường phái 
+Keynes có những quan điểm trái ngược nhau.
++ Kinh tế học cổ điển: Cho rằng tiền công (tiền lương) danh nghĩa và giá 
+cả hoàn toàn linh hoạt. Tiền lương thực tế điều chỉnh để giữ cho thị trường lao 
+động luôn cân bằng. Nền kinh tế luôn ở mức toàn dụng nhân lực, không có thất 
+nghiệp không tự nguyện.
++ Trường phái Keynes: Giá cả và tiền lương danh nghĩa là không linh 
+hoạt. Theo đó, tiền lương thực tế cũng không thay đổi, thị trường lao động luôn 
+trong tình trạng có thất nghiệp.
+Từ những quan điểm khác nhau đó về sự vận động của giá cả và tiền 
+lương, nên cả hai trường phái này cũng có những quan điểm khác nhau về hình 
+dáng của đường tổng cung (AS).
+87
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+II. ĐƯỜNG TỔNG CUNG (AS)
+1. Hai trường hợp đặc biệt của đường tổng cung:
+1.1 Trường phái kinh tế học cổ điển:
+Trường phái này mô tả đường tổng cung là 1 đường thẳng đứng, cắt trục 
+hoành ở mức sản lượng tiềm năng Y*.
+Đường tổng cung cổ điển dựa trên giả thuyết rằng, các thị trường mà đặc 
+biệt là thị trường lao động hoạt động 1 cách hoàn hảo. Giá cả sẽ điều chỉnh linh 
+hoạt sao cho số lượng hàng hoá sản xuất (AD = AS). Tiền lương cũng linh hoạt 
+điều chỉnh cho đến khi nào tất cả mọi người muốn làm việc tại mức tiền lương 
+đó đều có việc làm & các doanh nghiệp sử dụng đúng số lượng nhân công mà họ 
+muốn thuê (LD = LS). Tức là, thị trường lao động luôn cân bằng, nền kinh tế luôn 
+ở mức toàn dụng nhân lực, không có thất nghiệp không tự nguyện.
+1.2 Trường phái Keynes:
+Đường  tổng  cung  theo  trường 
+phái  Keynes  là  đường  thẳng  nằm 
+ngang tại mức giá không đổi P*.
+(AS chỉ nằm ngang tại mức sản 
+lượng tiềm năng Y*, vượt khỏi Y* thì 
+AS không còn thất nghiệp )
+Đường tổng cung Keynes dựa trên giả thuyết rằng, các thị trường mà đặc 
+biệt là thị trường lao động không phải lúc nào cũng cân bằng do mức giá cả và 
+tiền lương hoàn toàn không linh hoạt, thậm chí cứng nhắc không thay đổi. 
+Trong nền kinh tế luôn có thất nghiệp, các doanh nghiệp muốn thuê thêm bao 
+88
+Y0 = Y*
+Y
+O
+P
+AS
+AD0
+P0
+AD1
+P1
+Y0     Y1                  Y*
+Y
+O
+P
+AS
+AD0
+AD1
+P*
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+nhiêu lao động cũng được ứng với mức lương đã cho, nghĩa là các doanh nghiệp 
+có thể đáp ứng được mọi nhu cầu mà không cần tăng giá.
+* Nhận xét: Hai trường hợp đặc biệt của tổng cung (AS) phản ánh 2 thái 
+cực ngược nhau, nguyên nhân cơ bản là do quan niệm khác nhau về sự hoạt 
+động của giá cả và tiền lương trong nền kinh tế thị trường. Từ đó, đưa ra các 
+phương án điều chỉnh khác nhau :
++ Theo trường phái kinh tế học cổ điển : Chính phủ không nên can thiệp 
+vào nền kinh tế , vì rằng sự can thiệp không có tác dụng.
++ Theo Keynes: Chính phủ có vai trò rất quan trọng trong việc điều chỉnh 
+nền kinh tế, các chính sách kinh tế vĩ mô có tác dụng đến Cầu của nền kinh tế 
+và do đó tác động đến sản lượng, việc làm,...
+2. Đường tổng cung thực tế ngắn hạn: (là một đường cong)
+Đường tổng cung thực tế ngắn hạn được xây dựng trên cơ sở kết hợp 3 mối 
+quan hệ:
++ Mối quan hệ giữa sản lượng và việc làm
++ Mối quan hệ giữa việc làm và tiền lương
++ Mối quan hệ giữa tiền lương và giá cả (hay năng suất lao động và giá cả)
+2.1 Mối quan hệ giữa sản lượng và việc làm:
+Thể hiện trong hàm sản xuất , 
+hàm này ở dạng đơn giản : Y = f(L...)
+Y: Sản lượng thực tế
+L: Lao động được sử dụng vào 
+sản xuất.
+Các dấu ... thể hiện các yếu tố 
+kết hợp khác như vốn, tài nguyên,...
+Hàm này thể hiện sản lượng tăng lên khi lực hút vào quá trình sản xuất 
+tăng lên (L↑, Y↓), song tốc độ tăng đó có xu hướng giảm dần. Tốc độ giảm phụ 
+thuộc vào sản phẩm cận biên của lao động (MPL = 
+L
+Y
+∆
+∆
+). Trong thực tế, các 
+89
+L
+O
+Y
+Y = f(l)
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+doanh nghiệp chỉ thuê thêm lao động khi chừng nào sản phẩm cận biên của lao 
+động vượt quá tiền lương thực tế.
+2.2 Mối quan hệ giữa việc làm và tiền lương:
+Tiền lương trong thị trường lao động sẽ vận động để phản ứng lại những 
+mất cân bằng trong thị trường lao động, tiền lương phụ thuộc vào trạng thái của 
+thị trường lao động.
+Thất nghiệp tăng → tiền lương giảm và việc làm tăng→ tiền lương tăng.
+2.3 Mối quan hệ giữa tiền lương và giá cả:
+Cầu về lao động (LD) và tiền lương thực tế (Wr) và giá cả (P) cũng có 
+quan hệ nghịch biến.
+Theo đó, cầu về lao động (LD) sẽ có quan hệ đồng biến với giá cả (P) 
+Nếu giá tăng, thì doanh nghiệp sẽ thuê thêm lao động→LD tăng 
+Nếu giá tăng đều thì LD tăng nhưng tốc độ tăng giảm dần.
+90
+P
+O
+A
+L
+O
+Wr
+B
+C
+A'
+B'
+C'
+LD
+L0
+L1
+L2
+P0
+P1
+P2
+Wr
+LD
+W0
+W1
+W2
+W0
+W1
+W2
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+* Cách hình thành đường tổng cung thực tế ngắn hạn 
+Giả định rằng, ban đầu nền kinh tế có mức giá là P1 → cầu về lao động tại 
+điểm A trên đồ thị (I), tại đó tạo ra sane lượng Y1 trên đồ thị (II), dùng phép 
+chiếu qua đồ thị (III), (IV) ta có tổ hợp tại (P1, Y1).
+Giá tăng đều P2, P3 → cầu LD sẽ tăng chậm dần. Tương tự, ta có các tổ 
+hợp tại I(P2, Y2), H(P3, Y3)... tập hợp của những điểm này biểu thị đường tổng 
+cung (AS) ngắn hạn.
+Theo đó, ta có:
+- Đường tổng cung (AS) thẳng đứng khi giá tăng nhưng cầu về lao động 
+(LD) không tăng nữa. 
+- Đường tổng cung (AS) dốc lên và độ dốc có xu hướng tăng dần, đến lúc 
+nào đó sẽ chuyển sang thẳng đứng.
+III. MỐI QUAN HỆ TỔNG CUNG - TỔNG CẦU VÀ QUÁ TRÌNH TỰ 
+ĐIỀU CHỈNH CỦA NỀN KINH TẾ
+1. Quan hệ tổng cung - Tổng cầu (AD & AS):
+91
+L
+O
+Y
+II
+Y3
+=3
+Y2
+Y1
+Y
+O
+Y
+Y3
+=3
+Y2
+Y1
+Y1
+Y2
+Y3
+=3
+L
+O
+Wr
+I
+Y
+O
+P
+P3=
+3P2
+P1
+Y1
+Y2
+Y3
+=3
+III
+IV
+AS ngắn hạn 
+H 
+I
+K
+A 
+B 
+C
+LD
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+p↑, Y = Const
+P = Const, Y↑
+P↑, Y↑
+* Nhận xét: Vị trí của SLCB (E) phụ thuộc vào: 
+- Vị trí của đường AD, AS
+- Độ dốc của đường AD, AS
+2. Nghiên cứu quá trình tự điều chỉnh của nền kinh tế trong ngắn hạn, 
+trung hạn và dài hạn:
+2.1 Điều chỉnh ngắn hạn :
+Giả sử nền kinh tế đang ở trạng thái cân bằng toàn dụng nhân lực ở E0, 
+với Yt = Y*.
+Sự tác động của các yếu tố làm tăng 
+tổng cầu, đường AD0 dịch chuyển  lên trên 
+và sang phải (AD1), một trạng thái cân 
+bằng ngắn hạn được thiết lập tại E1 - sản 
+lượng và giá cả đều tăng. Quá trình nền 
+kinh tế điều chỉnh từ E0 đến E1, gọi là qua 
+trình tự điều chỉnh trong ngắn hạn (giá cả 
+và sản lượng tăng đến mức nào là phụ 
+thuộc vào độ dốc của đường tổng cung).
+2.2 Điều chỉnh trung hạn:
+Do sản lượng gia tăng vượt quá sản lượng tiềm năng (Y > Y*), giá cả 
+cũng tiếp tục tăng, vì vậy tiền lương thực tế giảm (Wr↓). Để thuê được lao động, 
+các doanh nghiệp phải tăng lương thực tế Wr, theo đó lợi nhuận giảm đi và 
+không mở rộng thêm được thêm qui mô sản xuất, tức là tổng cung sẽ giảm 
+92
+Y
+O
+P
+E1 
+f(l)
+E0 
+f(l)
+AD1 
+f(l)
+AD0 
+f(l)
+P1 
+f(l)
+P0 
+f(l)
+AS 
+f(l)
+Y*
+Y
+O
+P
+E1 
+f(l)
+E0 
+f(l)
+AD1 
+f(l)
+AD0 
+f(l)
+P0 
+f(l)
+AS 
+f(l)
+Y
+O
+P
+E1 
+f(l)
+E0 
+f(l)
+AD1 
+f(l)
+AD0 
+f(l)
+P1 
+f(l)
+P0 
+f(l)
+AS 
+f(l)
+Y0
+Y0
+Y1
+Y1
+P3
+P2
+P1
+P0
+Y
+O
+P
+Y*
+Y1
+AD0
+AD1
+E1
+E2
+E3
+AS'
+AS
+E0
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+(AS↓) - Đường AS dịch chuyển sang trái (AS') và một trạng thái cân bằng được 
+thiết lập tại E2, tuy nhiên nền kinh tế vẫn chưa ổn định. So sánh E1 và E2 : Sản 
+lượng giảm đi và giá cả tăng lên.
+2.3 Điều chỉnh dài hạn:
+Trong chừng mực mà sản lượng còn vượt quá sản lượng tiềm năng (Y*), 
+thì đường tổng cung (AS) tiếp tục dịch chuyển lên phía trên bên trái. Kết quả là, 
+sản lượng tiếp tục giảm đi và giảm đến mức toàn dụng nhân lực - Nền kinh tế 
+đạt mức cân bằng dài hạn tại E3. 
+Tại E3, giá cả đã điều chỉnh kịp thời với sự tăng lên của sản lượng tiền 
+danh nghĩa, cán cân tiền tệ thực tế (MS/P) và lãi suất trở lại mức ban đầu, đồng 
+thời tổng cầu và sản lượng cũng trở lại vị trí ban đầu.
+Tóm lại, quá trình tự điều chỉnh của nền kinh tế trước sự mở rộng của 
+tổng cầu và thay đổi tổng cung (thông qua tiền lương và giá cả) diễn ra theo 
+trình tự từ mở rộng đến thu hẹp sản lượng. Trình tự này sẽ đảo ngược nếu có tác 
+động thu hẹp tổng cầu. Mặt khác, quá trình tự điều chỉnh diễn ra chậm chạp và 
+có thể kéo dài, nên mở ra một không gian nhất định để nhà nước can thiệp vào 
+thị trường, thông qua chính sách tài khoá và tiền tệ nhằm giữ cho nền kinh tế 
+luôn ở mức sản lượng tiềm năng.
+IV. CHU KỲ KINH DOANH
+* Chu kỳ kinh doanh là sự lao 
+động ngắn hạn của sản lượng, được 
+hình thành từ kết quả mở rộng hay 
+thu hẹp sản xuất liên tục của nhiều 
+ngành trong nền kinh tế. 
+* Một số thuyết giải thích về chu kỳ kinh doanh:
+- Theo  thuyết tiền tệ : Chu kỳ kinh doanh xuất phát từ việc mở rộng hay 
+thu hẹp tiền tệ, tín dụng.
+- Theo thuyết đổi mới : Chu kỳ kinh doanh  do các nhóm phát minh quan 
+trọng (ô tô, xe lửa,...) làm năng suất lao động thay đổi
+93
+t
+Y
+O
+Chu kỳ kinh tế
+Y*
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+- Theo thuyết chính trị: Chu kỳ kinh doanh gắn liền với chu kỳ chính trị, 
+đặc biệt là các nhiệm kỳ tổng thống.
+- Theo thuyết chu kỳ kinh doanh thực: Chu kỳ kinh doanh là do các cú 
+sốc về năng suất lao động lan truyền vào nền kinh tế.
+- Thuyết Kaldor: Chu kỳ kinh doanh là do sự thay đổi của xu hướng đầu 
+tư biên và xu hướng tiết kiệm biên.
+* Tính đến thời gian cuộc khủng hoảng kinh tế năm 1929 - 1933, các lý 
+thuyết nghiên cứu về chu kỳ kinh doanh thì cho rằng có 2 nhóm nhân tố gây nên 
+chu kỳ kinh doanh:
+- Nhóm nhân tố bên ngoài: Chính trị, thời tiết, dân số,...
+- Nhóm nhân tố bên trong: Có 2 nhân tố cơ bản đó là:
++ Mô hình số nhân m, m', m''.
++ Nhân tố gia tốc: Là tác động của sản lượng làm thay đổi đầu tư.
+→ Theo nhóm nhân tố này, chu kỳ  kinh doanh là do sự tác động qua lại giữa 
+mô hình số nhân và nhân tố gia tốc.
+* Cơ chế phối hợp giữa mô hình số nhân và nhân tố gia tốc.
+- Trước tiên :
++ Đầu tư tăng → Tổng cầu tăng → sản lượng tăng (theo mô hình số nhân)
++ Khi sản lượng tăng → Đầu tư tăng (theo nhân tố gia tốc) 
++ Khi đầu tư tăng → Sản lượng tăng... đạt đỉnh chu kỳ.
+- Tiếp đến :
++ Sản lượng ngừng tăng → Đầu tư giảm (theo nhân tố gia tốc)
++ Khi đầu tư giảm → Sản lượng giảm (theo mô hình số nhân)
++ Khi sản lượng giảm → Đầu tư giảm (theo nhân tố gia tốc)
++ Khi đầu tư giảm → Sản lượng giảm... chạm đáy chu kỳ.
+Sau đó, đầu tư tăcng lên và thời kỳ khôi phục lại bắt đầu .
+Kết luận: Nghiên cứu chu kỳ kinh doanh có 1 ứng dụng thực tế quan 
+trọng, đó là việc đề ra những chính sách ổn định kinh tế, chống lại những lao 
+động không mong muốn của nền kinh tế.
+94
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+Ch
+  ương 7:
+ 
+ 
+THẤT NGHIỆP VÀ LẠM PHÁT 
+I. THẤT NGHIỆP 
+1. Một số khái niệm, tác hại của thất nghiệp: 
+- Việc làm: là tất cả mọi hoạt động có ích mà có tạo ra thu nhập và không 
+bị pháp luật ngăn cấm. 
+- Người thất nghiệp: là người trong độ tuổi lao động, hiện đang chưa có 
+việc làm, nhưng mong muốn và tích cực tìm kiếm việc làm.
+- Người trong độ tuổi lao động: là người ở độ tuổi có nghĩa vụ và quyền 
+lợi lao động theo quy định đã được ghi trong hiến pháp (ở Việt Nam: Nam giới 
+có độ tuổi lao động từ 16 đến 60 và nữ giới từ 16 đến 55).
+- Lực lượng lao động: là số người trong độ tuổi lao động đang có việc 
+hoặc chưa có việc làm nhưng đang tích cực tìm kiếm việc làm (Lực lượng lao 
+động = Số người có việc làm + Số người thất nghiệp).
+- Tỉ lệ thất nghiệp: là tỉ lệ % giữa số người thất nghiệp so với tổng số 
+người trong lực lượng lao động.
+Tỉ lệ thất nghiệp =  x 100.
+Tỉ lệ thất nghiệp là 1 chỉ tiêu phản ánh khái quát tình trạng thất nghiệp 
+của 1 quốc gia. 
+* Tác hại của thất nghiệp: Nạn thất nghiệp là một thực tế nan giải của 
+mọi quốc gia có nền kinh tế thị trường, cho dù quốc gia đó ở trình độ kém phát 
+triển hay phát triển cao. Khi thất nghiệp ở mức cao, sản xuất sút kém, tài nguyên 
+không được sử dụng hết, thu nhập của dân cư giảm sút, khó khăn kinh tế tràn 
+sang lĩnh vực xã hội, nhiều hiện tượng tiêu cực nảy sinh. Thông qua thất nghiệp. 
+có thể tính toán được thiệt hại kinh tế,  đó là sự giảm sút về sản lượng và đôi khi 
+còn kéo theo lạm phát to lớn ...
+95
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+2. Các loại thất nghiệp: 
+2.1. Phân loại theo nguồn gốc thất nghiệp: 
+- Thất nghiệp tạm thời: là loại thất nghiệp xảy ra do sự di chuyển của 
+người lao động từ ngành này sang ngày khác, từ vùng này sang vùng khác để 
+tìm việc làm tốt hơn phù hợp với ý muốn riêng của mình hoặc những người mới 
+bước vào thị trường lao động đang tìm kiếm việc làm hoặc chờ đợi đi làm...
+- Thất nghiệp cơ cấu: là loại thất nghiệp xảy ra do sự thay đổi cơ cấu của 
+nền kinh tế, dẫn đến sự không ăn khớp giữa cung và cầu lao động.
+- Thất nghiệp chu kỳ: là loại thất nghiệp xảy ra trong những giai đoạn suy 
+thoái của chu kỳ kinh tế khi mức cầu chung về lao động thấp, thất nghiệp tràn 
+lan ở mọi nơi, mọi ngành nghề.
+- Thất nghiệp do yếu tố ngoài thị trường (Thất nghiệp theo lý thuyết cổ 
+điển): là loại thất nghiệp xảy ra khi tiền lương được ấn định không bởi các lực 
+lượng của thị trường và cao hơn mức lương cân bằng thực tế của thị trường lao 
+động.
+Vì rằng, tiền lương không chỉ quan hệ đến sự phân phối thu nhập gắn với 
+kết quả lao động, mà còn quan hệ đến mức sống tối thiểu. Mặt khác, nhiều quốc 
+gia có quy định cứng nhắc về mức lương tối thiểu, sự không linh hoạt của tiền 
+lương ngược lại với sự năng động của thị trường lao động, dẫn đến 1 bộ phận 
+lao động mất việc làm hoặc khó tìm được việc làm. 
+Giả định rằng chính phủ quy 
+định mức lương tối thiểu là Wr
+* > 
+Wr0. Thì: 
+AB: thất nghiệp tự nguyện 
+CD: Thất nghiệp cổ điển ⇒ 
+Số người lao động muốn làm việc 
+với mức lương Wr
+* nhưng không 
+được thuê. 
+96
+Wr
+L
+L0
+C
+LD
+0
+Wr
+*
+Wr0
+D
+A
+LS
+LS'
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+2.2. Phân loại theo tính chất thất nghiệp:
+- Thất nghiệp tự nguyện: là loại thất nghiệp xảy ra khi những người lao 
+động tự nguyện "không muốn làm việc" do việc làm và mức lương tương ứng 
+chưa phù hợp với mong muốn của họ.
+TN tự nguyện = TN tạm thời + TN cơ cấu + TN cổ điển 
+- Thất nghiệp không tự nguyện: là loại thất nghiệp do thiếu cầu, xảy ra khi 
+tổng cầu suy giảm, sản xuất đình trệ. 
+3. Hạ thấp tỉ lệ thất nghiệp:
+- Đối với loại thất nghiệp tự nguyện:
++ Cấu tạo ra nhiều công ăn việc làm và có mức tiền lương tốt hơn để tại 
+mỗi mức lương thu hút được nhiều lao động hơn. 
++ Tăng cường hoàn thiện các chương trình dạy nghề, đào tạo lại, tổ chức 
+tốt thị trường lao động. 
+- Đối với loại thất nghiệp chu kỳ: Cần áp dụng chính sách tài khoá, tiền tệ 
+để làm gia tăng tổng cầu AD nhằm kích thích các doanh nghiệp mở rộng quy mô 
+sản xuất, theo đó thu hút được nhiều lao động.
+II. LẠM PHÁT
+1. Khái niệm và cách tính: 
+1.1. Khái niệm: 
+- Lạm phát: là tình trạng mức giá chung của nền kinh tế tăng lên liên tục 
+theo thời gian (thường từ 3 - 6 tháng) 
+Mức giá chung là mức giá trung bình của hàng hoá dịch vụ.
+- Giảm phát: là tình trạng mức giá chung của nền kinh tế giảm xuống liên 
+tục theo thời gian.
+- Giảm lạm phát: là tình trạng mức giá chung của nền kinh tế tăng, nhưng 
+tốc độ tăng thấp hơn so với thời kỳ trước.
+1.2. Cách tính: 
+- Chỉ số gia chung (D): D = 
+Pr
+GN
+GNPn
+ 
+97
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+Chỉ số này tính cho tất cả các hàng hoá dịch vụ cuối cùng. Đây là chỉ tiêu 
+phản ánh toàn diện sự biến đổi của giá cả trong nền kinh tế.
+- Chỉ số giá cả hàng tiêu dùng (CPI): Phản ánh sự biến động giá cả của 
+một giỏ hàng hoá và dịch vụ tiêu biểu cho cơ cấu tiêu dùng của xã hội. 
+CPI = ∑ Ip . d 
+CPI: Chỉ số giá cả của cả giỏ hàng (chỉ tính cho tất cả các loại hàng hoá 
+tiêu dùng).
+Ip: Chỉ số giá cả cá biệt của từng mặt hàng hay nhóm hàng trong giỏ hàng. 
+d: tỉ trọng tiêu dùng của từng mặt hàng, nhóm hàng trong giỏ hàng (∑d = 
+1). Nó phản ánh cơ cấu tiêu dùng của xã hội.
+Ví dụ: Xét 1 nền kinh tế giản đơn, trong đó người tiêu dùng chỉ mua 3 
+loại hàng hoá. 
+Mặt hàng
+Năm 2002
+Năm 2003
+P(USD)
+Q (Chiếc)
+P(USD)
+Q (Chiếc)
+Bánh mỳ 
+Xúc xích 
+Hamburger 
+1
+2
+3
+4
+3
+2
+2
+3
+4
+3
+2
+1
+∑
+9
+CPI2003/2002 = ∑Ip . d = 
+9
+2
+x
+3
+4
+9
+3
+x
+2
+3
+9
+4
+x
+1
+2
++
++
+= 1,7 
+(Chọn năm 2002 làm năm gốc => CPI2002= 1, 
+CPI2002 = 
+9
+2
+x
+3
+3
+9
+3
+x
+2
+2
+9
+4
+x
+4
+1
++
++
+ = 1) 
+Tỉ lệ lạm phát 2003: gp = 
+
+
+
+
+
+
+−1
+CPI
+CPI
+2002
+2003
+ x 100% 
+= 
+
+
+
+
+−1
+1
+7,1
+ x 100% = 70%
+Tỉ lệ lạm phát (gp): tỉ lệ lạm phát là thước đo chủ yếu của lạm phát trong 1 
+thời kỳ. Quy mô và sự biến động của nó phản ánh quy mô và xu hướng lạm phát. 
+98
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+gp = 
+100
+x
+D
+D
+D
+100
+x
+CPI
+CPI
+CPI
+1
+n
+1
+n
+n
+1
+t
+1
+t
+t
+−
+−
+−
+−
+−
+=
+−
+CPIt: chỉ số giá cả của thời kỳ nghiên cứu. 
+CPIt-1: chỉ số giá cả của thời kỳ trước đó (thời kỳ gốc). 
+Dn: chỉ số giá chung của thời kỳ nghiên cứu 
+Dn-1: chỉ số giá chung của thời kỳ trước đó (thời kỳ gốc). 
+* Chú ý rằng, thường người ta lựa chọn 1 thời kỳ cố định nào đó làm gốc 
+để tính các chỉ số cá thể và tỉ trọng mức tiêu dùng của các loại hàng hoá. Thời 
+kỳ gốc để tính chỉ số cá thể và thời kỳ gốc để tính tỉ trọng tiêu dùng có thể trùng 
+nhau (cùng 1 năm gốc) và cũng có thể lựa chọn khác nhau (năm gốc cho giá 
+khác với năm gốc cho cơ cấu tiêu dùng: t ≠ n).
+* Ý nghĩa của tỉ lệ lạm phát: Tỉ lệ lạm phát (gp) đánh giá mức độ tăng 
+của giá cả chung và mức độ mất giá của đồng tiền. 
+2. Phân loại lạm phát (Quy mô lạm phát), tác hại của lạm phát:
+2.1. Phân loại lạm phát (Quy mô lạm phát):
+- Lạm phát vừa phải, còn gọi là lạm phát 1 con số: có tỉ lệ lạm phát gp < 
+10% một năm. Lạm phát ở mức độ này không gây ra những tác động đáng kể 
+đối với nền kinh tế, nên có thể chấp nhận được. 
+- Lạm phát phi mã: xảy ra khi giá cả tăng tương đối nhanh với tỉ lệ 2 hoặc 
+3 con số trong một năm, đồng tiền bị mất giá nghiêm trọng (Theo nghĩa đó, hệ 
+thống ngân hàng không hoạt động được -> thị trường tài chính bị phá vỡ, gây 
+biến dạng nghiêm trọng nền kinh tế).
+- Siêu lạm phát: xảy ra khi lạm phát đột biến tăng lên với tốc độ cao, vượt 
+xa lạm phát phi mã, loại lạm phát này biểu hiện ở tỉ lệ từ 4 - 5 con số trở lên (Tại 
+Đức, năm 1922 - 1923 với hình ảnh siêu lạm phát điển hình trong lịch sử lạm 
+phát thế giới, giá cả tăng từ 1 đến 10 triệu lần). Loại lạm phát này ảnh hưởng 
+nghiêm trọng tới đời sống kinh tế xã hội, các hoạt động kinh tế rơi vào tình trạng 
+rối loạn và đây cũng chính là thảm hoạ đối với nền kinh tế. Tuy nhiên, nó cũng 
+ít khi xảy ra và để khắc phục, chính phủ nên can thiệp bằng cách đổi tiền để giữ 
+lấy giá của đồng tiền. 
+99
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+2.2. Tác hại của lạm phát: 
+* Khi xảy ra lạm phát, giá cả tăng lên không đều nhau, dẫn đến sự thay 
+đổi tương đối về giả cả, gây biến động dạng cơ cấu sản xuất và việc làm trong 
+xã hội, làm xáo trộn trật tự kinh tế (Những ngành tăng giá thì thu hút đầu tư, 
+ngược lại những ngành giảm giá thì ít được đầu tư hơn).
+* Khi xảy ra lạm phát, có sự phân phối lại của cải và thu nhập 1 cách ngẫu 
+nhiên giữa các cá nhân, tập đoàn và các giai tầng trong xã hội, đặc biệt  là những 
+đối tượng giữ nhiều tài sản có giá trị danh nghĩa cố định (ví dụ như tiền mặt) và 
+những người làm công ăn lương.
+* Lạm phát và lãi suất: 
+- Lãi suất mà ngân hàng trả (thông báo cho khách hàng) gọi là lãi suất 
+danh nghĩa.
+- Lãi suất thực tế là lãi suất danh nghĩa sau khi đã loại trừ ảnh hưởng của 
+lạm phát: ir = in - gp 
+(Lãi suất thực tế = lãi suất danh nghĩa - Tỉ lệ lạm phát)
+→ Chi phí cơ hội của việc giữ tiền là lãi suất danh nghĩa. Khi tỉ lệ lạm 
+phát tăng lên, lãi suất danh nghĩa tăng theo tức là tăng chi phí cơ hội của việc 
+giữ tiền - Càng giữ nhiều tiền càng thiệt.
+3. Nguyên nhân gây ra lạm phát: 
+3.1. Lạm phát do cầu kéo: 
+Lạm  phát  do  cầu  kéo 
+xảy ra khi tổng cầu tăng lên 
+mạnh mẽ tại mức sản lượng 
+đã  đạt  hoặc  vượt  quá  sản 
+lượng tiềm năng. 
+Bản chất của lạm phát do cầu kéo là chi tiêu quá nhiều tiền để mua 1 
+lượng cung hạn chế về hàng hoá có thể sản xuất được, trong điều kiện thị trường 
+100
+P
+Y
+Y*
+AD0
+0
+P1
+P0
+AD1
+AS
+E1
+E0
+Y1
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+lao động đã đạt trạng thái cân bằng. Khi cầu tăng mạnh, đường AD dịch chuyển 
+lên trên (AD1), giá cả tăng nhanh từ P0 đến P1. 
+3.2. Lạm phát do chi phí đẩy: 
+Lạm phát do chi phí đẩy xảy ra khi có các cơn sốc về giá cả của thị trường 
+đầu vào, đặc biệt là các vật tư cơ bản (các vật tư thường dùng trong các ngành 
+sản xuất như xăng, dầu, điện...)
+Đây là nguyên nhân chủ yếu đẩy chi phí lên cao, đường AS dịch chuyển 
+lên trên. Tuy tổng cầu không thay đổi nhưng giá cả đã tăng lên và sản lượng 
+giảm xuống.
+Khi giá cả của thị trường đầu vào tăng → Lợi nhuận giảm → Thu hẹp quy 
+mô sản xuất → Tổng cung giảm (AS dịch chuyển lên trên) → giá tăng và sản 
+lượng giảm → thất nghiệp tăng lên. 
+Đây là loại lạm phát nghiêm trọng bởi tình trạng vừa đình đốn, vừa lạm 
+phát - gọi là "đình lạm".
+Khắc phục tình trạng này bằng cách chính phủ nên quản lý giá cả đối với 
+đầu vào cơ bản.
+3.3. Lạm phát dự kiến (Lạm phát ì):
+Đây là loại lạm phát ở mức vừa phải - có xu hướng tiếp tục giữ mức lịch 
+sử của nó. Tổng cung và tổng cầu dịch chuyển lên trên cùng một tốc độ, giá tăng 
+đều với một tỷ lệ tương đối ổn định, sản lượng giữ nguyên.
+101
+P
+Y
+Y1
+AD
+0
+P1
+P0
+AS1
+Y*
+AS0
+P
+Y
+AD0
+0
+P2
+P1
+AS2
+Y*
+AS0
+P0
+AS1
+E2
+E0
+E1
+AD1
+AD2
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+Tỉ lệ lạm phát dự kiến 1 khi đã hình thành thì trở nên ổn định và tự duy trì 
+trong một thời gian . Những cú sốc mới trong nền kinh tế (có thể từ trong nước 
+hay từ nước ngoài) sẽ đẩy lạm phát ra khỏi trạng thái ì.
+III. MỐI LIÊN HỆ GIỮA LẠM PHÁT VÀ THẤT NGHIỆP
+1. Đường Phillips ngắn hạn: 
+Đường Phillips phản ánh mối quan hệ nghịch giữa tỉ lệ thất nghiệp và lạm 
+phát. Lý thuyết này gợi ra rằng có thể đánh đổi lạm phát để lấy thất nghiệp thấp. 
+Đặc biệt, nó cung cấp cho các nhà hoạch định chính sách 1 thực đơn về các kết 
+cục kinh tế có thể xảy ra, bằng cách thay đổi chính sách tài khoá và tiền tệ để tác 
+động vào tổng cầu.
+Thực tế cho thấy giá cả đã không hạ xuống theo thời gian do có lạm phát 
+dự kiến (lạm phát ì), vì thế đường Phillips có dạng:
+gp = gpe - ξ(u - u*)
+gp : tỷ lệ lạm phát
+gpe : tỷ lệ lạm phát dự kiến
+ξ   : độ dốc đường Phillips
+u   : tỷ lệ thất nghiệp thực tế
+u* : tỷ lệ thất nghiệp tự nhiên
+Đường này cho thấy, khi thất nghiệp bằng tỷ lệ tự nhiên thì lạm phát bằng 
+tỉ lệ dự kiến. Nếu thất nghiệp thực tế cao hơn tỷ lệ tự nhiên thì lạm phát thấp 
+102
+gp
+u
+0
+a
+E
+u*
+PC2
+PC1
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+hơn tỷ lệ dự kiến. Đường này gọi là đường Phillips ngắn hạn ứng với thời kỳ mà 
+tỷ lệ lạm phát dự kiến chưa thay đổi.
+Trong thời kỳ này nếu có những 
+cú sốc cầu, giả sử tổng cầu tăng lên 
+nhanh, nền kinh tế sẽ đi dọc đường 
+Phillips lên phía trên, lạm phát tăng, 
+thất nghiệp giảm. nếu không có sự tác 
+động của các chính sách thì do giá tăng 
+lên, mức cung tiền thực tế giảm xuống, 
+lãi suất tăng lên và tổng cầu dần dần được điều chỉnh trở lại mức cũ, nền kinh tế 
+với lạm phát và thất nghiệp sẽ quay trở về trạng thái ban đầu. nhưng khi lạm 
+phát đã được dự kiến, tiền lương và các chi phí khác cũng được điều chỉnh theo 
+tỷ lệ lạm phát nên giá cả dừng lại ở tỷ lệ dự kiến và thất nghiệp trở lại mức tự 
+nhiên, đường Phillips ngắn hạn nói trên dịch chuyển lên trên.
+Đồ thị trên cho thấy cơn sốc cầu đẩy lạm phát từ 0 đến a, tiền lương và 
+các chi phí khác được điều chỉnh để thích ứng, sản lượng lại dạt tiềm năng 
+nhưng giác cả không xuống, đường Phillips sẽ dịch chuyển từ PC1 lên PC2. Tại 
+E, lạm phát bằng tỷ lệ lạm phát dự kiến (a).
+Riêng các cơn sốt cung, đẩy chi phí sản xuất và giá cả lên, sản lượng và 
+việc làm giảm xuống. Như vậy, cả thất nghiệp và lạm phát tăng lên không có sự 
+đánh đổi giữa thất nghiệp và lạm phát trong ngắn hạn - đó là thời kỳ đình trệ 
+thất nghiệp. Cho đến khi chính phủ tăng mức cung tiền liên tục để giữ cho tổng 
+cầu không suy giảm và thất nghiệp không thể tăng, nền kinh tế vẫn đạt sản 
+lượng như cũ, nhưng giá cả đã tăng lên theo tỷ lệ tăng tiền. Như vậy, sự điều tiết 
+bằng chính sách tài khoá và tiền phải trả giá bằng lạm phát cao hơn.
+2. Đường Phillips dài hạn:
+Trong dài hạn, tỷ lệ lạm phát thực tế bằng tỷ lệ lạm phát dự kiến, nghĩa là 
+gq = gqe ⇒ -ξ(u - u*) = 0 ⇒ u = u*. Như vậy, trong dài hạn tỷ lệ thất nghiệp 
+thực tế luôn bằng tỷ lệ tự nhiên, theo đó lạm phát và thất nghiệp không có mối 
+quan hệ đánh đổi với nhau.
+103
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+Đường Phillips trong dài 
+hạn là đường thẳng đứng cắt 
+trục hoành tại điểm tỷ lệ thất 
+nghiệp tự nhiên.
+Tóm lại, trong ngắn hạn 
+nền kinh tế vận động theo các 
+đường PC, có sự đánh đổi tạm thời giữa lạm phát và thất nghiệp trong thời gian 
+nền kinh tế đang tự điều chỉnh bởi các cơn sốt cầu, nhưng không có sự đánh đổi 
+lạm phát và thất nghiệp bởi các cơn sốt cung. Còn trong dài hạn, về cơ bản 
+không tồn tại mối quan hệ đánh đổi giữa lạm phát và thất nghiệp.
+104
+gp
+u
+0
+a
+u*
+PC2
+PC1
+PC3
+LPC
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+Phần bài tập:
+Bài 1: Vào đầu năm lực lượng lao động của đất nước là 15.000 (nghìn 
+người) trong đó: thất nghiệp: 1.500. dòng chu chuyển lao động trong năm như 
+sau:
+- Công nhân hết nhiệt tình lao động
+:
+   500
+- Mất việc
+:
+1.400
+- Về hưu
+:
+   600
+- Bỏ việc
+:
+   100
+- Được thuê lại
+:
+1.900
+- Số mới gia nhập lực lượng lao động :
+   400
+- Số được thuê mới
+:
+   100
+hãy xác định các chỉ tiêu sau:
+a. Số người gia nhập và rời khỏi đội quân tình nguyện trong năm
+b. Số người gia nhập và rời khỏi lực lượng trong năm
+c. Lực lượng lao động và số người tình nguyện cuối năm.
+Bài 2: Giả sử nền kinh tế chỉ có 4 loại sản phẩm: gạo, thịt, gáo, sắt thép
+Mặt hàng
+200
+2001
+2002
+P
+Q
+P
+Q
+P
+Q
+gạo
+thịt
+gáo
+sắt
+30
+30
+40
+100
+3
+4
+2
+6
+25
+32
+41
+100
+4
+3
+4
+10
+24
+35
+43
+120
+3
+6
+5
+15
+15
+31
+59
+Lấy 2000 làm gốc, tính:
+a. CPI2001, 2002
+b. D2001 / 2002
+c. Tỷ lệ lạm phát 2001, 2002
+Chương 8:
+105
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+KINH TẾ VĨ MÔ CỦA NỀN KINH TẾ MỞ
+I. NGUYÊN TẮC LỢI THẾ SO SÁNH TRONG THƯƠNG MẠI QUỐC TẾ
+1. Lợi thế tuyệt đối (Adam Smith)
+* Khái niệm
+Một nước gọi là có lợi thế tuyệt đối trong việc sản xuất một mặt hàng nào 
+đó so với nước khác nếu chi phí tuyệt đối để sản xuất mặt hàng đó ở nước này 
+thấp hơn ở nước khác.
+Ví dụ:
+Sản phẩm
+Hao phí lao động
+Nước A
+Nước B
+Tivi
+Quần áo
+6
+4
+12
+3
+Nhận xét: 
+Nước A có lợi thế tuyệt đối trong việc sản xuất mặt hàng Tivi.
+Nước B có lợi thế tuyệt đối trong việc sản xuất mặt hàng Quần áo.
+(Chi phí sản xuất mặt hàng Tivi của nước A rẻ hơn nước B 2 lần, và chi 
+phí sản xuất mặt hàng Quần áo của nước B rẻ hơn nước A 4/3 lần)
+Theo đó, xuất hiện quan hệ thương mại giữa 2 nước A & B.
+* Cơ sở của lợi thế tuyệt đối: Do giữa các nước có điều kiện sản xuất 
+khác nhau về đất đai, tài nguyên, kỹ thuật, điều kiện khí hậu, ...
+2. Lợi thế tương đối - Lý thuyết tương đối (David Ricardo)
+* Khái niệm:
+Một nước gọi là có lợi thế tương đối trong việc sản xuất một mặt hàng 
+nào đó nếu nước đó có chi phí sản xuất tương đối (chi phí cơ hội) về mặt hàng 
+đó thấp hơn so với nước khác.
+106
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+Ví dụ:
+Sản phẩm
+Hao phí lao động
+Nước A
+Nước B
+Tivi
+Quần áo
+6
+3
+12
+4
+Nhận xét: 
+Nước A có lợi thế tuyệt đối về sản xuất cả 2 mặt hàng Tivi và Quần áo. 
+nếu so sánh chi phí sản xuất mặt hàng Tivi thì nước A sản xuất rẻ hơn nước B 2 
+lần, còn mặt hàng Quần áo 4/3 lần. Tuy nhiên, nước B lại có lợi thế tương đối về 
+mặt hàng Quần áo, còn nước A có lợi thế tương đối về mặt hàng Tivi.
+Sản phẩm
+Hao phí lao động
+Nước A
+Nước B
+Tivi
+Quần áo
+2 (đơn vị Quần áo)
+1/2 (đơn vị Tivi)
+3 (đơn vị Quần áo)
+1/3 (đơn vị Tivi)
+Nước A: Để sản xuất thêm một Tivi, phải hy sinh 2 đơn vị quần áo, ngược 
+lại để sản xuất thêm một đơn vị quần áo phải hy sinh 1/2 đơn vị Tivi.
+Nước B: Để sản xuất thêm một đơn vị Tivi, phải hy sinh 3 đơn vị quần áo, 
+ngược lại để sản xuất thêm một đơn vị quần áo phải hy sinh 1/3 đơn vị Tivi.
+Như vậy, nước A có chi phí cơ hội để sản xuất Tivi thấp hơn nước B, còn 
+nước B có chi phí cơ hội sản xuất quần áo thấp hơn nước A.
+Nguyên tắc lợi thế tương đối chỉ ra rằng, nếu thương mại được tiến hành 
+một cách tự do thì nước A có thể chuyên môn hoá sản xuất Tivi để đổi lấy quần 
+áo do nước B sản xuất. Ngược lại, nước B có lợi nếu chuyên môn hoá sản xuất 
+quần áo và đổi lấy Tivi của nước A. Sau khi có thương mại, cả 2 nước cùng có 
+lợi. Thương mại sẽ làm tăng khả năng tiêu dùng của mỗi nước và tăng khả năng 
+sản xuất của thế giới.
+Mô hình dưới đây chỉ ra lợi ích của chuyên môn hoá và thương mại quốc 
+tế làm hưởng đến khả năng tiêu dùng như thế nào thông qua đường giới hạn khả 
+năng sản xuất.
+107
+Tivi
+Nước A
+Tivi
+Nước B
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+Đường (1): Giới hạn khả năng sản xuất hay khả năng tiêu dùng của đất nước.
+Đường (2): Khả năng tiêu dùng của mỗi nước sau khi có thương mại quốc tế 
+(giả định rằng cả 2 nước đều có cùng một khối lượng nguồn lực)
+Như vậy, thương mại quốc tế thúc đẩy phân công lao động và hợp tác hai 
+bên cùng có lợi. Thương mại tự do mở cửa tạo điều kiện cao mỗi nước mở rộng 
+khả năng sản xuất và tiêu thụ của mình, nâng cao sản lượng và mức sống của 
+toàn thế giới.
+II. CÁN CÂN THANH TOÁN QUỐC TẾ
+- Cán cân thanh toán quốc tế là một bản kết toán tổng hợp toàn bộ các 
+luồng buôn bán hàng hoá và dịch vụ, các luồng chu chuyển vốn và tài sản giữa 
+chính phủ và công dân một nước với các nước khác trên thế giới. 
+- Cán cân thanh toán quốc tế có hình thức như một tài khoản, gồm: bên 
+Có và bên Nợ. bên Có ghi những hoạt động mang tính chất xuất khẩu thu ngoại 
+tệ và bên Nợ ghi những hoạt động mang tính chất nhập khẩu tiêu tốn ngoại tệ.
+- Cán cân thanh toán có 2 tài khoá chủ yếu: Tài khoản thanh toán vãng lai 
+và tài khoản tư bản.
++ Tài khoản thanh toán vãng lai ghi chép các luồng buôn bán hàng hoá và 
+dịch vụ cũng như các khoản thu nhập ròng khác từ nước ngoài. Tài khoản này 
+bao gồm 2 khoản mục lớn: khoản mục hàng hoá (còn gọi là thương mại hữu 
+hình) và khoản mục dịch vụ (còn gọi là thương mại vô hình). Hai khoản mục 
+này tạo nên cán cân thương mại, còn gọi là xuất khẩu ròng (NX = X - IM)
+Tài khoản vãng lai trong cán cân thanh toán, ngoài cán cân thương mại 
+còn bao gồm khoản mục nhỏ khác là các thu nhập ròng về tài sản (lãi suất, lợi 
+nhuận, ...) của công dân nước đó, cũng như các khoản viên trợ cho nước ngoài 
+hoặc công dân của nước ngoài, của các tổ chức quốc tế.
+108
+(1)
+(2)
+Tiêu dùng 
+tăng thêm
+Quần áo
+(1)
+(2)
+Quần áo
+0
+0
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+Tài khoản thanh toán vãng lai là phần chênh lệch giữa các khoản xuất 
+khẩu và các khoản nhập khẩu hàng hoá và dịch vụ cộng với thu nhập ròng từ 
+nước ngoài.
++ Tài khoản tư bản ghi chép các giao dịch, trong đó tư nhân hoặc chính 
+phủ cho vay và đi vay và phần lớn thực hiện dưới dạng mua bán tài sản - tài sản 
+tài chính hoặc tài sản thực.
+Tài khoản tư bản = Vốn đi vào - Vốn đi ra 
+Kết toán CCTT = Kết toán TKVL + Kết toán TKTB
+KT CCTTQT > 0 ⇒ Ngoại tệ vào > Ngoại tệ ra : Thặng dư CCTTQT
+KT CCTTQT = 0 ⇒ Ngoại tệ vào = Ngoại tệ ra : Cân bằng CCTTQT
+KT CCTTQT < 0 ⇒ Ngoại tệ vào < Ngoại tệ ra : Thâm hụt CCTTQT
+III. THỊ TRƯỜNG NGOẠI HỐI VÀ TỶ GIÁ HỐI ĐOÁI
+1. Khái niệm:
+- Thị trường ngoại hối là thị trường quốc tế, trong đó đồng tiền của quốc 
+gia này có thể đổi lấy đồng tiền của quốc gia khác.
+- Tỷ giá hối đoái là giá cả một đơn vị tiền tệ của một nước được tính bằng 
+tiền của nước khác. Hay nói khác đi, là số lượng đơn vị tiền tệ cần thiết để mua 
+một đơn vị ngoại tệ.
+Riêng ở Mỹ và Anh thuậ ngữ này được sử dụng theo nghĩa ngược lại: Số 
+lượng đơn vị ngoại tệ (nước ngoài) cần thiết để mua một đồng đola hoặc một 
+đồng bảng Anh.
++ Quy ước:
+E: Tỷ giá hối đoái của đồng ngoại tệ tính theo đồng nội tệ (tỷ giá hối đoái 
+của đồng tiền có liên quan trong thị trường ngoại hối đang xem xét): Cho biết 
+muốn có một đồng ngoại tệ thì cần phải có bao nhiêu đồng nội tệ.
+Ví dụ: EVN/USD = 15.800
+e. Tỷ giá hối đoái của đồng nội tệ tính theo đồng ngoại tệ: Cho biết muốn 
+có một đồng nội tệ thì có bao nhiêu đồng ngoại tệ
+e
+1
+E =
+109
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+Nếu E↑: đồng nội tệ  bị giảm giá
+E↓: đồng nội tệ  lên giá
++ E gọi là tỷ giá hối đoái danh nghĩa: là tỷ lệ mà tại đó một người đổi 
+đồng tiền của một quốc gia này lấy một đồng tiền quốc gia khác.
++ Tỷ giá hối đoái thực tế (còn gọi là sức cạnh tranh của hàng hoá trong 
+nước - Er): là tỷ lệ mà tại đó một người trao đổi hàng hoá và dịch vụ của nước 
+này lấy hàng hoá và dịch vụ của nước khác.
+P0 : Giá cả của hàng hoá trên thị trường thế giới.
+P  : Giá cả của hàng hoá trên thị trường trong nước.
+hoặc P  : Nội tệ
+P0 : Ngoại tệ
+2. Sự hình thành tỷ giá hối đoái trên thị trường ngoại hối:
+2.1. Các yếu tố hình thành cung về đồng ngoại tệ: (Sngt)
+- Các nhà xuất khẩu hàng hoá: Khi xuất khẩu → thu ngoại tệ → đổi sang 
+nội tệ để chi tiêu. Nếu xuất khẩu càng tăng, thì cung ngoại tệ càng lớn.
+- Người nước ngoài đầu tư vào trong nước làm tăng nguồn ngoại tệ.
+- Người nước ngoài mua tài sản tài chính trong nước.
+- Người nước ngoài đến công tác, du lịch trong nước.
+2.2. Các yếu tố hình thành cầu về đồng ngoại tệ: (Dngt)
+- Các nhà nhập khẩu hàng hoá: Nếu hàng hoá nhập khẩu càng lớn thì nhu 
+cầu về ngoại tệ càng cao.
+- Người trong nước đầu tư ở nước ngoài: Tức là thực hiện quá trình 
+chuyển vốn từ nội tệ sang ngoại tệ.
+- Người trong nước mua tài sản tài chính ở nước ngoài.
+- Người trong nước đi công tác, du lịch ở nước ngoài.
+- Những người dự trữ ngoại tệ.
+2.3. Tỷ giá hối đoái cân bằng: (Ecb)
+* Khi Sngt = Dngt thì tỷ giá hối đoái cân bằng (Ecb)
+Dngt↓
+110
+Er = E . P
+P0
+Dngt
+Lượng ngoại tệ
+E
+Ecb
+0
+Sngt
+Ng0
+t
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+Sngt↑
+- Khi Ecb đã được hình thành thì nó sẽ giữ ổn định tại đó, chỉ khi có các 
+yếu tố làm thay đổi cung hoặc cầu ngoại tệ thì Ecb mới thay đổi.
+- Khi có các yếu tố khác, ngoài tỷ giá hối đoái tác động thì đường cung 
+ngoại tệ hoặc đường cầu ngoại tệ sẽ dịch chuyển theo nguyên tắc:
++ Các yếu tố tác động làm tăng Sngt → đường Sngt dịch chuyển sang phải.
++ Các yếu tố tác động làm giảm Sngt → đường Sngt dịch chuyển sang trái.
++ Các yếu tố tác động làm tăng Dngt → đường Dngt dịch chuyển sang phải.
++ Các yếu tố tác động làm giảm Dngt → đường Dngt dịch chuyển sang trái.
+* Các nguyên nhân làm dịch chuyển đường Sngt và Dngt.
+- Cán cân thương mại NX = X - IM
+- Tỷ lệ lạm phát tương đối: Nếu tỷ lệ lạm phát của một nước cao hơn một 
+nước khác thì nước đó sẽ cần nhiều tiền hơn (nội tệ) để mua một lượng tiền nhất 
+định của nước kia (ngoại tệ), tức nhu cầu về giữ ngoại tệ nhiều hơn (tiền của 
+nước kia). Điều này làm cho đường Sngt dịch chuyển sang phải và tỷ giá hối đoái 
+giảm xuống.
+- Sự vận động của vốn: Khi người nước ngoài mua tài sản tài chính, lãi 
+suất có ảnh hưởng mạnh. Khi lãi suất của một nước tăng lên một cách tương đối 
+so với nước khác, thì các tài sản của nó tạo ra tỷ lệ lời cao hơn và có nhiều 
+người dân nước ngoài muốn mua các tài sản ấy.
+Tức là, vốn sẽ đi vào nơi có lãi suất cao và đi ra khỏi nơi có lãi suất thấp.
+Ví dụ: Đầu tư ở Việt Nam cao hơn so với đầu tư ở Mỹ, theo đó đồng 
+ngoại tệ sẽ chuyển từ Mỹ sang Việt Nam và làm cho cung ngoại tệ (Sngt) ở Việt 
+Nam tăng.
+111
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+- Dự trữ và đầu cơ ngoại tệ: Xảy ra khi có sự chênh lệch an toàn giữa việc 
+giữ đồng nội tệ hay ngoại tệ. Đầu cơ có thể gây ra những thay đổi lớn về tiền, 
+đặc biệt trong điều kiện thông tin liên lạc hiện đại và máy tính hiện đại như ngày 
+nay thì có thể trao đổi với số lượng lớn (hàng tỷ USD) giá trị tiền tệ mỗi ngày.
+3. Các hệ thống tỷ giá hối đoái:
+3.1. Tỷ giá hối đoái cố định: Bretton Wooods (1944 - 1971)
+- Được xác định trên cơ sở ngang bằng nhau về sức mua.
+- Là tỷ giá hối đoái chính thức mà NHTW cam kết duy trì ở một mức xác 
+định nào đó trong một khoảng thời gian dài và được chính phủ đồng ý công bố.
+Muốn duy trì tỷ giá hối đoái cố định, thì NHTW phải thường xuyên can 
+thiệp vào thị trường ngoại hối thông qua việc mua bán vàng và ngoại tệ (Điều 
+này buộc NHTW phải có một lượng dự trữ lớn). Tuy nhiên, gặp phải khó khăn 
+đó là:
++ Dự trữ không tương xứng.
++ Do tỷ lệ tăng trưởng về xuất khẩu và nhập khẩu, lạm phát ở các nước 
+khác nhau làm thay đổi giá trị tương đối của tiền tệ và cần có sự điều chỉnh tỷ 
+giá hối đoái thường xuyên hơn.
++ Các cuộc khủng hoảng mang tính đầu cơ: Dự trữ và đầu cơ ngoại tệ xảy 
+ra khi có đồng tiền được đánh giá quá cao.
+3.2. Tỷ giá hối đoái thả nổi (linh hoạt - được áp dụng từ năm 1971 - 
+1980)
+- Là tỷ giá hối đoái được xác định hoàn toàn bởi quan hệ cung cầu trên thị 
+trường ngoại hối, không có sự can thiệp của chính phủ.
+Như vậy, tỷ giá hối đoái biến động mạnh sẽ ảnh hưởng đến hoạt động 
+chung của nền kinh tế.
+112
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+3.3. Các hệ thống tỷ giá thả nổi có quản lý (không thuần nhất - Được 
+áp dụng từ năm 1980 đến nay)
+- Là tỷ giá hối đoái được phép thay đổi cho phù hợp với các điều kiện thị 
+trường ở một phạm vi nhất định, khi vượt ra ngoài phạm vi đó thì chính phủ sẽ 
+can thiệp.
+Tóm lại, vấn đề thiết lập một hệ thống tỷ giá hối đoái như thế nào còn là một 
+câu hỏi bỏ ngỏ. Đây là lĩnh vực nóng bỏng trong hệ thống kinh tế toàn cầu. Mỗi 
+quốc gia cần thiết phải có cách thức ứng phó cho phù hợp với một thế giới đầy biến 
+động.
+4. Ảnh hưởng của tỷ giá hối đoái đến các biến số kinh tế:
+4.1. Khi tỷ giá hối đoái tăng (E↑)
+* Đối với xuất khẩu:
+Khi TGHD tăng lên, thì giá cả hàng hoá xuất khẩu của một quốc gia trên 
+thị trường thế giới trở nên rẻ hơn → tăng sức cạnh tranh của hàng hoá của quốc 
+gia đó, theo đó lượng hàng xuất khẩu tăng lên (Tức E↑ → PXK↓ → ↑X)
+Ví dụ: Việt Nam xuất khẩu mặt hàng Tôm sú trong thị trường thế giới với 
+giá xuất khẩu PX = 100.000 VNĐ/kg.
++ Nếu EVNĐ/  USD = 15.000 thì giá 1kg Tôm sú bằng ngoại tệ là P'X = 
+000
+.
+15
+000
+.
+100
+ = 6,7 USD.
++ Nếu EVNĐ/  USD = 16.000 thì giá 1kg Tôm sú bằng ngoại tệ là P"X = 
+000
+.
+16
+000
+.
+100
+ = 6,25 USD.
+* Đối với nhập khẩu:
+Khi TGHĐ tăng lên, thì giá cả hàng hoá nhập khẩu trở nên đắt hơn → 
+giảm khả năng cạnh tranh với hàng hoá trong nước, theo đó lượng hàng nhập 
+khẩu giảm xuống (Tức E↑ ⇒ PNK↑ → ↓IM)
+Ví dụ: Việt Nam nhập khẩu xe đạp của Trung Quốc với giá nhập khẩu PNK 
+= 50 USD/xe/
+113
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
++ Nếu EVNĐ/USD = 15.000 thì giá một chiếc xe tăng bằng tiền Việt Nam là 
+PVN = 50 x 15.000 = 750.000đ/xe.
++ Nếu EVNĐ/USD = 16.000 thì giá một chiếc xe tăng bằng tiền Việt Nam là 
+PVN = 50 x 16.000 = 800.000đ/xe.
+Như vậy, khi E↑ → X↑, IM↓ ⇒ NX = X - IM tăng lên  ⇒ cán cân 
+thương mại được cải thiện tốt hơn. Mặt  khác, AD = C + I + G + NX tăng lên → 
+sản lượng tăng → việc làm tăng.
+4.2. Khi tỷ giá hối đoái giảm:
+* Đối với xuất khẩu: 
+Ngược lại, khi TGHĐ giảm, thì giá cả, hàng hoá xuất khẩu của một quốc 
+gia trên thị trường thế giới trở nên đắt hơn → sức cạnh tranh cầu hàng hoá trong 
+nước kém, theo đó lượng hàng xuất khẩu giảm đi (E↓ → PXK↑ → ↓X)
+* Đối với nhập khẩu: Khi TGHĐ giảm, thì giá cả hàng hoá nhập khẩu trở 
+nên rẻ hơn -> có thể cạnh tranh được trong nước, theo đó lượng hàng nhập khẩu 
+tăng lên (E ↓ -> PNK ↓ -> ↑IM)
+Vậy thì, NX ↓ => AD↓ => Y↓ => việc làm giả.
+5. Sự can thiệp của ngân hàng trung ương vào thị trường ngoại hối: (bằng 
+cách mua bán ngoại tệ)
+Mục tiêu của sự can thiệp này nhằm giữ ổn định tỷ giá hối đoái.
+* Khi tỷ giá hối đoái tăng: NHTW can thiệp nhằm làm giảm giá hối đoái 
+bằng cách tăng cung ngoại tệ (bán ngoại tệ).
+Ban  đầu  tỷ giá  hối  đoái  cân 
+bằng tại E0 (Sngt, Dngt), khi TGHĐ tăng 
+ở E1 (Sngt, D'ngt) do cầu về ngoại tệ tăng 
+(D'ngt). NHTW có nhiệm vụ lúc này 
+làm giảm TGHĐ bằng cách tăng cung 
+ngoại tệ (S'ngt) để nó đạt trạng thái cân 
+bằng (ổn định) tại E0 ban đầu.
+114
+Sngt
+Dngt
+Lượng ngoại tệ
+E
+E0
+0
+S'ngt
+Ng0
+t
+Lượng ngoại tệ cần bán
+E1
+D'ngt
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+Phương pháp: NHTW bán ngoại tệ và thu về nội tệ nhằm mục đích tăng 
+cung ngoại tệ.
+Lượng ngoại tệ bán = khoảng cách giữa 2 đường cung
+* Khi tỷ giá hối đoái giảm: NHTW can thiệp nhằm làm tăng tỷ giá hối đoái 
+bằng cách giảm cung ngoại tệ (mua ngoại tệ).
+Ban đầu TGHĐ cân bằng tại E0 
+(Sngt, Dngt), khi TGHĐ giảm xuống E1 
+(Sngt, D'ngt) do cầu về ngoại tệ giảm (D'ngt). 
+NHTW làm tăng TGHĐ bằng cách giảm 
+cung ngoại tệ (S'ngt) để nó đạt trạng thái 
+cân bằng (ổn định) tại E0 ban đầu.
+Phương pháp: NHTW dùng đồng nội tệ để mua ngoại tệ, tức là rút bớt 
+ngoại tệ ra khỏi nền kinh tế.
+Lượng ngoại tệ mua = ∆Sngt
+IV. TÁC ĐỘNG CỦA CÁC CHÍNH SÁCH KINH TẾ VĨ MÔ TRONG 
+NỀN KINH TẾ MỞ 
+Xét một nền kinh tế nhỏ (chẳng hạn như Việt Nam) khi tham gia vào thị 
+trường thế giới thì chính sách lãi suất của chúng ta không ảnh hưởng được đến 
+mức lãi suất chung của thế giới và như thế, lãi suất trong nước (i) có xu hướng 
+dao động xung quanh mức lãi suất của thế giới (i*). Giả sử khi i > i*, sẽ có nhiều 
+công dân và các nhà đầu tư nước ngoài muốn đầu tư vào nước ta để có thể thu 
+được một khoản tiền lãi cao hơn, theo đó một luồng vốn sẽ "chảy" vào nước ta 
+cho đến khi lãi suất trong nước cân bằng với lãi suất của thế giới (i = i*). Trường 
+hợp ngược lại, khi i < i* một số vốn trong nước sẽ đi ra cho tới khi cân bằng về 
+lãi suất được lập lại. 
+Mô hình kinh tế IS - LM - CM tại 
+CM (đường thẳng song song với trục 
+hoành) có mức lãi suất i = i*. 
+115
+Y
+i
+CM
+LM
+ IS
+E
+    0
+i = i*
+D'ngt
+Lượng ngoại tệ
+E
+E1
+0
+Sngt
+Ng0
+t
+S'ngt
+E0
+Dngt
+∆Sngt
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+Tại E, nền kinh tế cân bằng bên 
+trong và bên ngoài. 
+Trong nền kinh tế mở, sự dịch chuyển của đường IS còn phụ thuộc vào sự 
+thay đổi cán cân thương mại hay sự thay đổi của tỷ giá hối đoái. 
+Trong nền kinh tế mở, tư bản chuyển động hoàn toàn tự do, mặt khác có 
+sự khác nhau cơ bản trong sự dịch chuyển của đường LM tuỳ thuộc vào đất 
+nước chấp nhận hệ thống tỷ giá cố định hay linh hoạt. 
+1. Tác động của chính sách tài khoá và tiền tệ trong nền kinh tế mở với hệ 
+thống tỉ giá cố định và tư bản vận động hoàn toàn tự do. 
+1.1. Tác động của chính sách tài khoá. 
+- Giả định rằng, ban đầu nền kinh tế cân bằng tại E (i = i*) 
+-  Chính  phủ thực  hiện  chính 
+sách tài khoá mở rộng,  để làm tăng 
+tổng cầu AD, theo đó đường IS dịch 
+chuyển sang phải. Nếu xét bên trong 
+nền kinh tế: cân bằng tại E', có i = i' > 
+i* -> Xuất hiện dòng vốn đi vào trong 
+nước (ngoại tệ) -> cung ngoại tệ tăng 
+lên -> tỷ giá hối đoái giảm xuống. 
+Nhưng vì quốc gia theo đuổi cơ chế tỷ 
+giá hối đoái cố định (Ef) nên NHTW 
+buộc phải can thiệp bằng cách dùng 
+nội tệ để mua ngoại tệ và như thế, 
+đường cung ngoại tệ S'ngt giảm về Sngt, 
+lượng nội tệ giảm đi, theo đó mức 
+cung tiền tăng lên -> đường LM dịch 
+chuyển sang phải cho đến khi lãi suất 
+trong nước bằng với mức lãi suất thế 
+giới. Nền kinh tế cân bằng tại E1 với i 
+= i* và sản lượng tăng từ Y0 đến Y1. 
+116
+Y
+i
+CM
+LM
+ IS'
+Y0
+    0
+i = i*
+Y'
+Y1
+E1
+E'
+E
+LM1
+ IS
+     i'
+lượng ngoại tệ 
+E
+Dngt
+    0
+Ef = E0
+S'ngt
+Sngt
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+Vậy, chính sách tài khoá mở rộng trong hệ thống tỷ giá cố định có tác 
+động mạnh hơn trong nền kinh tế đóng. 
+117
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+1.2. Tác động của chính sách tiền tệ:
+ 
+Chính phủ thực hiện chính sách tiền tệ mở rộng làm tăng mức cung tiền 
+→ đường LM dịch chuyển sang phải.
+Xét bên trong nền kinh tế ⇒ cân bằng tại E' với i < i* 
+Xét toàn bộ nền kinh tế thì tại E' lãi suất i' < i* 
+=> Xuất hiện dòng vốn từ trong nước → ra nước ngoài 
+=>  đường Dngt tăng lên ⇒ tỷ giá hối đoái trên thị trường ngoại hối tăng 
+nhưng ta đang xét trong E cố định, do đó thì E tăng, ngân hàng trung ương sẽ 
+can thiệp bằng cách: bán ngoại tệ để thu về nội tệ làm tăng cung Sngt → S'ngt.
+Do thu về nội tệ ⇒ MS giảm ⇒ đường LM' dịch về bên trái, cho đến khi 
+LM' ≡ LM khi đó i = i* ⇒ nền kinh tế đạt cân bằng cũ. 
+→ Chính sách tiền tệ trong hệ thống tỉ giá hối đoái cố định hoàn toàn 
+không có tác dụng. 
+2. Tác động của chính sách tài khoá và tiền tệ trong nền kinh tế mở với tỷ 
+giá hối đoái thả nổi và tư bản vận động hoàn toàn tự do. 
+118
+lượng ngoại tệ 
+E
+Dngt
+    0
+Ef = E0
+Sngt
+Y
+i
+IS
+    0
+i=i*
+LM
+LM'
+CM
+E
+E'
+   i'
+Y0
+Y'
+Y
+i
+i'
+i'=i*
+E
+E'
+Y0
+Y'
+CM
+LM
+IS'
+IS
+Lượng ngoại tệ
+    E 
+E0
+S'ngt
+Dngt
+E1
+Sngt
+0
+0
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+2.1. Tác động của chính sách tài khoá mở rộng: 
+Chính phủ thực hiện chính sách tài khoá mở rộng  → Đường IS dịch 
+chuyển sang phải.
+Nền kinh tế cân bằng tại E' (i'; Y' > Y0) 
+Xét toàn bộ nền kinh tế thì tại E', i' > i* ⇒ dòng vốn đi vào trong nước ⇒ 
+Sngt tăng ⇒ Sngt sang phải ⇒ E0 > E1. 
+Xét trong cơ chế tỷ giá hối đoái thả nổi ⇒ X giảm, IM tăng ⇒ NX xấu đi 
+=> AD giảm => IS1 dịch sang trái cho đến khi IS' = IS lúc đó i = i* tại E. 
+=> Chính sách tài khoá không có tác dụng trong hệ thống tỉ giá hối đoái 
+thả nổi. 
+2.2. Tác động của chính sách tiền tệ: 
+Chính sách tiền tệ mở rộng => tăng lượng cung tiền => LM dịch sang 
+phải.
+Xét trong nền kinh tế: nền kinh tế cân bằng tại E' (i' < i* và Y' > Y0) 
+Xét toàn bộ nền kinh tế: tại E' thì i' < i* => xuất hiện dòng vốn chạy từ 
+trong nước ra ngoài làm cho đường cầu về Dngt tăng lên => E1 > E0. 
+Do hệ thống tỷ giá hối đoái thả nổi nên NHTW không can thiệp với E1 
+tăng thì X tăng, IM giảm => NX tốt hơn AD tăng lên => tác động làm đường IS 
+dịch sang phải cho đến khi i = i*.
+Nền kinh tế cân bằng tại E1 (it*; Y1 > Y0) 
+⇒ Chính sách tiền tệ trong hệ thống tỉ giá hối đoái thả nổi làm tăng cạnh 
+tranh của hàng hoá trong nước và có tác dụng mạnh hơn trong nền kinh tế đóng. 
+Phần bài tập:
+119
+Y
+i
+i'
+i=i*
+E
+E1
+Y'
+Y1
+CM
+LM
+IS
+Lượng ngoại tệ
+    E 
+E1
+Dngt
+E0
+Sngt
+Y0
+E'
+LM'
+D'ngt
+0
+0
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
+Bài 1: Giả sử Việt Nam và Trung Quốc đều có thể sản xuất hàng tiêu 
+dùng và than, chi phí cơ hội để sản xuất một đơn vị hàng tiêu dùng của Việt 
+Nam là 3/4 tấn than Trung Quốc 1/2 tấn. Quy mô thị trường Trung Quốc > Việt 
+nam về các loại sản phẩm này
+a. Mỗi nước có lợi thế về sản xuất mặt hàng nào.
+b. Nếu thương mại diễn ra giữa hai nước, có thể dự kiến giá của một đơn 
+vị hàng tiêu dùng bằng bao nhiêu? Giá của một tấn than bằng bao nhiêu?
+c. Nước nào sẽ có lợi nhuận nhiều hơn nếu thương mại diễn ra giữa hai 
+nước.
+Bài 2: Giả sử sau khi hợp đồng thương mại Việt - Mỹ được ký kết, xuất 
+khẩu từ Việt nam sang Mỹ tăng nhanh hơn từ Mỹ sang Việt Nam.
+a. Tỷ giá hối đoái của đường Việt Nam với đôla Mỹ sẽ thay đổi như thế 
+nào?
+b. Sự thay đổi trong thương mại như vậy sẽ tác động như thế nào đối với 
+nền kinh tế Việt Nam? Hãy dùng mô hình AD-AS để chỉ ra ảnh hưởng đó.
+120
+Downloaded by Qu?nh Trang (trangnhq22112004@gmail.com)
+lOMoARcPSD|19500186
