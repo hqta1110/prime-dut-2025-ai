@@ -4,6 +4,9 @@ import requests
 import faiss
 import numpy as np
 import json
+import time
+import requests
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 _FAISS_CACHE = {}
 _KNOWLEDGE_CACHE = None
@@ -13,6 +16,41 @@ BASE_URL = os.getenv("BASE_URL")
 EMBEDDING_BEARER_TOKEN = os.getenv("EMBEDDING_BEARER_TOKEN")
 EMBEDDING_TOKEN_KEY = os.getenv("EMBEDDING_TOKEN_KEY")
 EMBEDDING_TOKEN_ID = os.getenv("EMBEDDING_TOKEN_ID")
+BATCH_SIZE = 16
+
+def _post_embedding(
+    batch,
+    headers,
+    max_retries=3,
+    retry_delay=60,
+):
+    json_data = {
+        "model": "vnptai_hackathon_embedding",
+        "input": batch,
+        "encoding_format": "float"
+    }
+
+    for attempt in range(1, max_retries + 1):
+        try:
+            res = requests.post(
+                f"{BASE_URL}/vnptai-hackathon-embedding",
+                headers=headers,
+                json=json_data,
+                timeout=300
+            )
+
+            if res.status_code == 200:
+                return [d["embedding"] for d in res.json()["data"]]
+
+        except requests.RequestException as e:
+            print(f"[Embedding] Attempt {attempt} exception: {e}")
+
+        if attempt < max_retries:
+            time.sleep(retry_delay)
+
+    # Retry hết
+    print(f"[Embedding] Failed after {max_retries} retries, batch_size={len(batch)}")
+    return None
 
 def get_embedding(text):
     headers = {
@@ -45,21 +83,30 @@ def get_embeddings(texts):
         "Content-Type": "application/json"
     }
 
-    json_data = {
-        "model": "vnptai_hackathon_embedding",
-        "input": texts,
-        "encoding_format": "float" 
-    }
+    batches = [texts[i:i + BATCH_SIZE] for i in range(0, len(texts), BATCH_SIZE)]
+    
+    embeddings_by_index = [None] * len(batches)
 
-    res = requests.post(
-        f"{BASE_URL}/vnptai-hackathon-embedding",
-        headers=headers,
-        json=json_data
-    )
-    if res.status_code == 200:
-        return [data['embedding'] for data in res.json()['data']]
-    else:
-        return [[]]
+    max_workers = 10
+    with ThreadPoolExecutor(max_workers=max_workers) as ex:
+        futures = {
+            ex.submit(_post_embedding, batch, headers): idx
+            for idx, batch in enumerate(batches)
+        }
+
+        for future in as_completed(futures):
+            idx = futures[future]        # batch index
+            result = future.result()
+            if result is None:
+                return [[]]
+            embeddings_by_index[idx] = result
+
+    # Nối theo đúng thứ tự index
+    final_embeddings = []
+    for batch_emb in embeddings_by_index:
+        final_embeddings.extend(batch_emb)
+
+    return final_embeddings
 
 def load_knowledge():
     global _KNOWLEDGE_CACHE

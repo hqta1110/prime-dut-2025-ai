@@ -41,20 +41,21 @@ def extract_text(path):
         doc = fitz.open(path)
         for page in doc:
             text += page.get_text()
-        if len(text) > 0:
+        if len(text) > 1000:
             return text
         else:
-            print("Start OCR")
-            folder_path = os.path.splitext(path)[0]
-            pdf_to_images_pymupdf(path)
-            results = []
-            for file in os.listdir(folder_path):
-                result = reader.readtext(os.path.join(folder_path, file))
-                result = [r[1] for r in result]
-                results.append("\n".join(result))
+            return None
+            # print("Start OCR")
+            # folder_path = os.path.splitext(path)[0]
+            # pdf_to_images_pymupdf(path)
+            # results = []
+            # for file in os.listdir(folder_path):
+            #     result = reader.readtext(os.path.join(folder_path, file))
+            #     result = [r[1] for r in result]
+            #     results.append("\n".join(result))
             
-            shutil.rmtree(folder_path)
-            return "\n".join(results)
+            # shutil.rmtree(folder_path)
+            # return "\n".join(results)
             
     else:
-        raise ValueError(f"Unsupported file type: {ext}")
+        return None

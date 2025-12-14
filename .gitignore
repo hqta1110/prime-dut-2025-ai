@@ -10,5 +10,9 @@ venv/
 .env
 
 data/knowledge.json
-
 *.pdf
+*.txt
+!requirements.txt
+*.doc
+*.rtf
+*.docx

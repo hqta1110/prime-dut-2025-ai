@@ -3,6 +3,10 @@ import numpy as np
 from tools.retrieval import get_embedding, get_embeddings
 
 def sentence_split(text):
+    text = re.sub(r'\.+', '.', text)
+    text = text.replace("\n", " ")
+    text = re.sub(r'[ \t]+', ' ', text)     
+    text = text.strip()
     single_sentences_list = re.split('([。；？！.;?!])', text)
     sentences = ["".join(i) for i in  zip(single_sentences_list[0::2], single_sentences_list[1::2])]
     sentences = [{'sentence': x, 'index': i} for i, x in enumerate(sentences)]
@@ -102,25 +106,36 @@ def sentence_chunking(text, bpp_threshold):
     distances, sentences = calculate_cosine_distance(sentences)
     indices_above_threshold, breakpoint_distance_threshold = chunk_com(distances, bpp_threshold)
     chunks, chunks_len = chunk_gen(indices_above_threshold, sentences, )
-    return chunks, chunks_len
 
-def sentence_chunking_main(chunk_len, bpp_threshold, re_combine, text):
-    max_chunk_len = chunk_len * 4
-    chunks, chunks_len = sentence_chunking(text, bpp_threshold)
-    
-    while True:
-        if len(chunks) > 1:
-            chunks_new, chunks_len_new = sentence_chunking(chunks, bpp_threshold)
-            if max(chunks_len_new) < max_chunk_len:
-                chunks = chunks_new
-                chunks_len = chunks_len_new
-            else:
-                break
-        else:
-            re_combine = False
-            break
-    
-    if re_combine:
-        chunks, chunks_len = chunk_re_gen(chunks, chunks_len, max_chunk_len)
-    
     return chunks, chunks_len
+    
+def sentence_chunking_main(chunk_len, bpp_threshold, re_combine, text):
+    while True:
+        if bpp_threshold <= 0:
+            break
+
+        try:
+            max_chunk_len = chunk_len * 4
+            chunks, chunks_len = sentence_chunking(text, bpp_threshold)
+            
+            while True:
+                if len(chunks) > 1:
+                    chunks_new, chunks_len_new = sentence_chunking(chunks, bpp_threshold)
+                    if max(chunks_len_new) < max_chunk_len:
+                        chunks = chunks_new
+                        chunks_len = chunks_len_new
+                    else:
+                        break
+                else:
+                    re_combine = False
+                    break
+            
+            if re_combine:
+                chunks, chunks_len = chunk_re_gen(chunks, chunks_len, max_chunk_len)
+
+            return chunks, chunks_len
+
+        except Exception as e:
+            print(f"[Embedding] BPP: {bpp_threshold} exception: {e}")
+            bpp_threshold -= 10
+
