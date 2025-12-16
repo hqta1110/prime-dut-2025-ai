@@ -2,11 +2,23 @@ from agno.team import Team
 from agno.models.vllm import vLLM
 from dotenv import load_dotenv
 from .members import *
-from pydantic import BaseModel, Field
 
 load_dotenv()
 import os
-LLM_PORT = os.getenv("LLM_PORT")
+
+model = {
+    "vnpt": vLLM(
+        id="vnptai-hackathon-small",
+        base_url=f"http://localhost:{os.getenv("LLM_PORT")}",
+        temperature=0.0
+    ),
+    "qwen": vLLM(
+        id="Qwen3-32B",
+        base_url=f"http://167.179.48.115:8000/v1",
+        temperature=0.0
+    )
+}[os.getenv("MODEL")]
+
     
 def init_orchestrator():
     rag_agent = init_rag_agent()
@@ -16,15 +28,7 @@ def init_orchestrator():
     
     orchestrator = Team(
         mode="route",
-        # model=vLLM(
-        #     id="vnptai-hackathon-large",
-        #     base_url=f"http://localhost:{LLM_PORT}",
-        # ),
-        model=vLLM(
-            id="Qwen3-32B",
-            base_url=f"http://167.179.48.115:8000/v1",
-        ),
-        
+        model=model,
         show_tool_calls=True,
         members = [
             rag_agent, stem_agent, vietnamese_agent, multi_domain_agent
@@ -54,24 +58,12 @@ def init_orchestrator():
 
 5. Các câu hỏi còn lại:
     - Chuyển tiếp đến `Multi-Domain Agent`.
- 
-# Nội dung câu trả lời:
-Trả lời theo định dạng:
-```
-{
-    "key": "<Đáp án: A/B/C/D/...>",
-    "reason": "<Lý do>",
-}
-```
 
 # Chú ý:
 - Không tự trả lời câu hỏi nếu câu hỏi không nằm ở nhóm 1.
 """,
         show_members_responses=True,
         enable_agentic_context=True,
-		read_team_history=True,
-		stream_member_events=True,
-        stream_intermediate_steps=True,
     )
 
     return orchestrator

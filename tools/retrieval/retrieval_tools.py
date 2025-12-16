@@ -12,6 +12,10 @@ class RetrievalTools(Toolkit):
         enable_filter=True,
         distance_metric="cosine",
         k=10,
+        instructions: Optional[str] = None,
+        add_instructions: bool = False,
+        few_shot_examples: Optional[str] = None,
+        add_few_shot: bool = False,
         **kwargs,
     ):
         self.enable_hybrid = enable_hybrid
@@ -19,8 +23,21 @@ class RetrievalTools(Toolkit):
         self.distance_metric = distance_metric
         self.k = k
 
+        if instructions is None:
+            self.instructions = "<retrieval_instructions>\n" + self.DEFAULT_INSTRUCTIONS
+            if add_few_shot:
+                if few_shot_examples is not None:
+                    self.instructions += "\n" + few_shot_examples
+                else:
+                    self.instructions += "\n" + self.FEW_SHOT_EXAMPLES
+                self.instructions += "\n</retrieval_instructions>\n"
+            else:
+                self.instructions = instructions
+
         super().__init__(
             name="retrieval_tools",
+            instructions=self.instructions,
+            add_instructions=add_instructions,
             tools=[self.retrieval],
             **kwargs,
         )

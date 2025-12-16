@@ -4,7 +4,7 @@ import os
 from dotenv import load_dotenv
 import requests
 import uvicorn
-from typing import Any, Optional
+from typing import Any, Optional, List
 load_dotenv()
 
 BEARER_TOKEN = {
@@ -39,7 +39,7 @@ class ChatRequest(BaseModel, extra="allow"):
     frequency_penalty: Optional[float] = None
     response_format: Optional[Any] = None
     seed: Optional[int] = None
-    tools: Optional[Any] = None
+    tools: List = []
     tool_choice: Optional[Any] = None
     logprobs: Optional[bool] = None
     top_logprobs: Optional[int] = None
@@ -91,6 +91,8 @@ async def chat(request: ChatRequest):
         "logprobs": logprobs,
         "top_logprobs": top_logprobs,
     }
+    json_data = {k: v for k, v in json_data.items() if v is not None}
+
     res = requests.post(
         f"{BASE_URL}/v1/chat/completions/{model}",
         headers=headers,

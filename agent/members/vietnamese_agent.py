@@ -5,20 +5,25 @@ load_dotenv()
 import os
 from tools import ReasoningTools
 
-LLM_PORT = os.getenv("LLM_PORT")
+model = {
+    "vnpt": vLLM(
+        id="vnptai-hackathon-large",
+        base_url=f"http://localhost:{os.getenv("LLM_PORT")}",
+        temperature=0.0
+    ),
+    "qwen": vLLM(
+        id="Qwen3-32B",
+        base_url=f"http://167.179.48.115:8000/v1",
+        temperature=0.0
+    )
+}[os.getenv("MODEL")]
 
 def init_vietnamese_agent():
     stem_agent = Agent(
         name="Vietnamese Agent",
-        # tools=[ReasoningTools()],
-        # model=vLLM(
-        #     id="vnptai-hackathon-large",
-        #     base_url=f"http://localhost:{LLM_PORT}",
-        # ),
-        model=vLLM(
-            id="Qwen3-32B",
-            base_url=f"http://167.179.48.115:8000/v1",
-        ),
+        tools=[ReasoningTools()],
+        model=model,
+        reasoning_model=model,
         role="""Tiếp nhận và trả lời câu hỏi trắc nghiệm được cung cấp""",
         description="""
 Bạn là một chuyên gia về đất nước Việt Nam.
