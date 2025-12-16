@@ -26,7 +26,6 @@ def init_multi_domain_agent():
             RetrievalTools(add_instructions=True, add_few_shot=True, enable_filter=False)
         ],
         model=model,
-        reasoning_model=model,
         role="""Tiếp nhận và trả lời câu hỏi trắc nghiệm được cung cấp""",
         description="""
 Bạn là một chuyên gia về mọi chủ đề.

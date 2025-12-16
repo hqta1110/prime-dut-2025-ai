@@ -16,3 +16,4 @@ pillow
 easyocr
 torch
 torchvision
+pandas

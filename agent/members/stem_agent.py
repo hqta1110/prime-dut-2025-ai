@@ -23,7 +23,6 @@ def init_stem_agent():
         name="STEM Agent",
         tools=[ReasoningTools(add_instructions=True, add_few_shot=True)],
         model=model,
-        reasoning_model=model,
         role="""Tiếp nhận và trả lời câu hỏi trắc nghiệm được cung cấp""",
         description="""
 Bạn là một chuyên gia về lĩnh vực khoa học, tự nhiên, kĩ thuật.

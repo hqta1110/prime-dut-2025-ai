@@ -23,7 +23,6 @@ def init_rag_agent():
         name="RAG Agent",
         tools=[ReasoningTools(add_instructions=True, add_few_shot=True)],
         model=model,
-        reasoning_model=model,
         role="""Tiếp nhận và trả lời câu hỏi trắc nghiệm được cung cấp""",
         description="""
 Bạn là một chuyên gia về trả lời câu hỏi trắc nghiệm dựa trên nội dung được cung cấp trong câu hỏi.

@@ -8,7 +8,7 @@ import os
 
 model = {
     "vnpt": vLLM(
-        id="vnptai-hackathon-small",
+        id="vnptai-hackathon-large",
         base_url=f"http://localhost:{os.getenv("LLM_PORT")}",
         temperature=0.0
     ),

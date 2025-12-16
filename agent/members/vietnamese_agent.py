@@ -26,7 +26,6 @@ def init_vietnamese_agent():
             RetrievalTools(add_instructions=True, add_few_shot=True)
         ],
         model=model,
-        reasoning_model=model,
         role="""Tiếp nhận và trả lời câu hỏi trắc nghiệm được cung cấp""",
         description="""
 Bạn là một chuyên gia về đất nước Việt Nam.
