@@ -23,7 +23,7 @@ def init_multi_domain_agent():
         name="Multi-Domain Agent",
         tools=[
             ReasoningTools(add_instructions=True, add_few_shot=True), 
-            RetrievalTools(enable_filter=False)
+            RetrievalTools(add_instructions=True, add_few_shot=True, enable_filter=False)
         ],
         model=model,
         reasoning_model=model,

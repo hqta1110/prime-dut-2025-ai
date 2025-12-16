@@ -3,7 +3,7 @@ from agno.models.vllm import vLLM
 from dotenv import load_dotenv
 load_dotenv()
 import os
-from tools import ReasoningTools
+from tools import ReasoningTools, RetrievalTools
 
 model = {
     "vnpt": vLLM(
@@ -21,7 +21,10 @@ model = {
 def init_vietnamese_agent():
     stem_agent = Agent(
         name="Vietnamese Agent",
-        tools=[ReasoningTools()],
+        tools=[
+            ReasoningTools(add_instructions=True, add_few_shot=True),
+            RetrievalTools(add_instructions=True, add_few_shot=True)
+        ],
         model=model,
         reasoning_model=model,
         role="""Tiếp nhận và trả lời câu hỏi trắc nghiệm được cung cấp""",
