@@ -6,17 +6,19 @@ from .members import *
 load_dotenv()
 import os
 
+
 model = {
     "vnpt": vLLM(
-        id="vnptai-hackathon-large",
+        id="vnptai-hackathon-small",
         base_url=f"http://localhost:{os.getenv("LLM_PORT")}",
         temperature=0.0
-    ),
-    "qwen": vLLM(
-        id="Qwen3-32B",
-        base_url=f"http://167.179.48.115:8000/v1",
-        temperature=0.0
     )
+    # ,
+    # "qwen": vLLM(
+    #     id="Qwen3-32B",
+    #     base_url=f"http://167.179.48.115:8000/v1",
+    #     temperature=0.0
+    # )
 }[os.getenv("MODEL")]
 
     
