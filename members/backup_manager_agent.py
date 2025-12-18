@@ -30,9 +30,9 @@ from members.vietnam_agent import vietnam
 from members.format_agent import format as format_agent # Đổi tên để tránh trùng module system
 
 # --- CONFIGURATION ---
-INPUT_FILE = "question_samples/test.json"
-OUTPUT_FILE = "submission_test_BTC4.csv"
-MAX_WORKERS = 16 
+INPUT_FILE = "question_samples/val.json"
+OUTPUT_FILE = "submission_val_BTC5.csv"
+MAX_WORKERS = 8
 LOG_FILE = "pipeline_multicore_retrieval.log"
 TIMEOUT_SECONDS = 30
 # Setup Logging
@@ -68,7 +68,7 @@ def format_question(item):
 
 def extract_answer_tag(text):
     if not text: return None
-    match = re.search(r"<answer>\s*([A-Z])\b", text, re.IGNORECASE | re.DOTALL)
+    match = re.search(r"<answer>\s*([A-Z])\s*</answer>", text, re.IGNORECASE | re.DOTALL)
     return match.group(1).strip().upper() if match else None # Return None để dễ check lỗi
 
 def is_valid_answer(ans):
@@ -139,36 +139,30 @@ def format_fix_worker(raw_text, queue):
         
 # --- FIX FORMAT WORKER ---
 def run_format_fix(qid, raw_text):
-    """
-    Hàm quản lý timeout: Tạo process -> Chờ -> Kill nếu lâu -> Return mặc định
-    """
-    # Tạo hàng đợi để nhận kết quả
     q = Queue()
-    
-    # Khởi tạo process
     p = Process(target=format_fix_worker, args=(raw_text, q))
     p.start()
     
-    # Chờ process chạy trong khoảng TIMEOUT_SECONDS
-    p.join(timeout=TIMEOUT_SECONDS)
+    final_ans = "A" # Giá trị mặc định
     
-    if p.is_alive():
-        # Nếu sau timeout mà process vẫn còn sống -> Kill
-        p.terminate()
-        p.join() # Clean up resource
+    try:
+        # Thay vì join(), ta thử lấy dữ liệu từ Queue với timeout
+        # Điều này đảm bảo nếu con put dữ liệu, cha sẽ lấy ngay -> không bị tắc pipe
+        final_ans = q.get(timeout=TIMEOUT_SECONDS)
         
-        # Ghi log timeout
-        err_msg = f"Timeout fixing QID: {qid}. Process killed. Defaulting to 'A'."
-        print(f"\n[TIMEOUT] {err_msg}") # Print ra màn hình để thấy ngay
-        with open(LOG_FILE, "a") as f:
-            f.write(f"{err_msg}\n")
+        # Sau khi lấy được dữ liệu, lúc này mới an toàn để join
+        p.join() 
+    except Exception: 
+        # Nếu timeout (Empty exception) hoặc lỗi khác
+        err_msg = f"Timeout or Error fixing QID: {qid}. Terminating process."
+        # print(f"\n[TIMEOUT] {err_msg}") 
+        
+        # Kill tiến trình con nếu nó còn sống
+        if p.is_alive():
+            p.terminate()
+            p.join()
             
-        return "A" # [REQUIREMENT] Trả về A mặc định
-    else:
-        # Nếu process xong đúng hạn
-        if not q.empty():
-            return q.get()
-        return None # Process xong nhưng không trả về gì (lỗi bên trong)
+    return final_ans if final_ans else "A"
 
 # --- MAIN CONTROLLER ---
 def main():
@@ -189,7 +183,7 @@ def main():
                     processed_qids.add(row['qid'])
     
     # Ở đây tôi bỏ [:10] để chạy full logic, bạn có thể thêm lại nếu muốn test
-    tasks_to_run = [item for item in data if item['qid'] not in processed_qids][:10]
+    tasks_to_run = [item for item in data if item['qid'] not in processed_qids]
     print(f"Total items: {len(data)}. Remaining: {len(tasks_to_run)}")
 
     if not tasks_to_run:
@@ -218,21 +212,32 @@ def main():
             
             with tqdm(total=len(tasks_to_run), desc="Multi-Core Processing") as pbar:
                 for future in as_completed(future_to_item):
-                    result = future.result()
+                    try:
+                        # THÊM TIMEOUT VÀO ĐÂY
+                        # Nếu 1 task chạy quá 60s (hoặc time bạn muốn) -> Bỏ qua
+                        result = future.result(timeout=60) 
+                        
+                        qid = result['qid']
+                        ans = result['answer']
+                        raw_out = result['raw_output']
+                        
+                        raw_output_cache[qid] = raw_out
+                        
+                        with open(OUTPUT_FILE, 'a', encoding='utf-8', newline='') as f:
+                            writer = csv.DictWriter(f, fieldnames=['qid', 'answer'])
+                            writer.writerow({'qid': qid, 'answer': ans})
+                            
+                    except Exception as e:
+                        # Bắt lỗi nếu worker bị treo quá lâu
+                        item = future_to_item[future]
+                        print(f"\n[ERROR/TIMEOUT] Task {item['qid']} failed: {e}")
+                        # Ghi log lỗi vào file csv để không mất lượt
+                        with open(OUTPUT_FILE, 'a', encoding='utf-8', newline='') as f:
+                            writer = csv.DictWriter(f, fieldnames=['qid', 'answer'])
+                            writer.writerow({'qid': item['qid'], 'answer': "ERROR"})
                     
-                    qid = result['qid']
-                    ans = result['answer']
-                    raw_out = result['raw_output']
-                    
-                    # 1. Lưu vào cache để kiểm tra sau
-                    raw_output_cache[qid] = raw_out
-                    
-                    # 2. Ghi vào CSV
-                    with open(OUTPUT_FILE, 'a', encoding='utf-8', newline='') as f:
-                        writer = csv.DictWriter(f, fieldnames=['qid', 'answer'])
-                        writer.writerow({'qid': qid, 'answer': ans})
-                    
-                    pbar.update(1)
+                    finally:
+                        pbar.update(1)
 
     # --- POST-PROCESSING: VERIFY & FIX FORMAT ---
     print("\n--- Starting Post-Processing Verification ---")
@@ -260,7 +265,7 @@ def main():
             
             if raw_text:
                 # Nếu có trong cache phiên hiện tại -> Run fix
-                fixed_ans = run_format_fix(raw_text)
+                fixed_ans = run_format_fix(current_qid, raw_text)
                 
                 if fixed_ans and is_valid_answer(fixed_ans):
                     row['answer'] = fixed_ans # Update in memory
