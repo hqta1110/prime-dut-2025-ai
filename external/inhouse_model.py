@@ -4,6 +4,8 @@ import os
 from typing import Any
 
 import requests
+import litellm
+
 from agents.agent_output import AgentOutputSchemaBase
 from agents.exceptions import ModelBehaviorError
 from agents.handoffs import Handoff
@@ -23,6 +25,7 @@ from openai.types.chat import (
 from openai.types.chat.chat_completion_message import (
     ChatCompletionMessage,
 )
+from openai.types.chat.chat_completion_message_function_tool_call import Function
 
 load_dotenv()
 
@@ -32,16 +35,21 @@ logger = logging.getLogger(__name__)
 BEARER_TOKEN = {
     "vnptai-hackathon-small": os.getenv("SMALL_BEARER_TOKEN"),
     "vnptai-hackathon-large": os.getenv("LARGE_BEARER_TOKEN"),
+    "Qwen3-32B": ""
 }
 
 TOKEN_ID = {
     "vnptai-hackathon-small": os.getenv("SMALL_TOKEN_ID"),
     "vnptai-hackathon-large": os.getenv("LARGE_TOKEN_ID"),
+    "Qwen3-32B": ""
+    
 }
 
 TOKEN_KEY = {
     "vnptai-hackathon-small": os.getenv("SMALL_TOKEN_KEY"),
     "vnptai-hackathon-large": os.getenv("LARGE_TOKEN_KEY"),
+    "Qwen3-32B": ""
+    
 }
 
 BASE_URL = os.getenv("BASE_URL")
@@ -112,7 +120,7 @@ class InhouseModel(Model):
                 converted_tools.append(Converter.convert_handoff_tool(handoff))
 
             json_data = {
-                "model": model.replace("-", "_"),
+                "model": model.replace("-", "_") if "Qwen" not in model else model,
                 "messages": converted_messages,
                 "temperature": 0,
                 "top_p": model_settings.top_p,
@@ -128,18 +136,17 @@ class InhouseModel(Model):
                 "tool_choice": self._remove_not_given(tool_choice),
                 "logprobs": None,
                 "top_logprobs": None,
+                "chat_template_kwargs": {"enable_thinking": False}
             }
             json_data = {k: v for k, v in json_data.items() if v is not None}
 
-            from rich.pretty import pprint
             response = requests.post(
-                f"{BASE_URL}/v1/chat/completions/{model}",
+                f"{BASE_URL}/v1/chat/completions/{model}" if "Qwen" not in model else f"{BASE_URL}/v1/chat/completions",
                 headers=headers,
                 json=json_data
             )
 
             response_data = json.loads(response.content)
-
             # response = {
             #     "prompt_logprobs": None,
             #     "created": 1765963491,
@@ -183,7 +190,6 @@ class InhouseModel(Model):
             #         )
             #     }\n"""
             # )
-
             items = Converter.message_to_output_items(
                 LitellmConverter.convert_message_to_openai(response_data["choices"][0]["message"])
             )
@@ -257,3 +263,16 @@ class LitellmConverter:
             tool_calls=tool_calls,
             reasoning_content=reasoning_content,
         )
+
+    @classmethod
+    def convert_tool_call_to_openai(
+        cls, tool_call: litellm.types.utils.ChatCompletionMessageToolCall
+    ) -> ChatCompletionMessageFunctionToolCall:
+        return ChatCompletionMessageFunctionToolCall(
+            id=tool_call["id"],
+            type="function",
+            function=Function(
+                name=tool_call["function"]["name"],
+                arguments=tool_call["function"]["arguments"],
+            ),
+        )  
